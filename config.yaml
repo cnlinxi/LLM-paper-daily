@@ -1,0 +1,33 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "cnlinxi"
+repo_name: "LLM-paper-daily"
+show_authors: True
+show_links: True
+show_badge: False
+max_results: 100
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/llm-arxiv-daily.json'
+json_gitpage_path: './docs/llm-arxiv-daily-web.json'
+json_wechat_path: './docs/llm-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+    "LLM":
+        filters: ["LLM", "Large Language Models", "Scaling Laws", "Prompt Engineering"]
+    "Multimodal":
+        filters: ["Multimodal Models", "Vision-Language Models", "Speech-Language Models"]
+    "Diffusion Models":
+        filters: ["Diffusion"]
+    "Representation Learning":
+        filters: ["Contrastive Learning", "Representation Learning"]
+      
