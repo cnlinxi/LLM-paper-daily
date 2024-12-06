@@ -1,12 +1,18 @@
----
-layout: default
----
-
 ## Updated on 2024.12.06
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#llm>LLM</a></li>
+    <li><a href=#multimodal>Multimodal</a></li>
+    <li><a href=#diffusion-models>Diffusion Models</a></li>
+    <li><a href=#representation-learning>Representation Learning</a></li>
+  </ol>
+</details>
+
 ## LLM
 
-| Publish Date | Title | Authors | PDF | Code | Model |
-|:---------|:-----------------------|:---------|:------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|Model|
+|---|---|---|---|---|---|
 |**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|null|**[link](https://huggingface.co/SPO-Diffusion-Models/SPO-SDXL_4k-p_10ep)**|
 |**2024-12-05**|**EgoPlan-Bench2: A Benchmark for Multimodal Large Language Model Planning in Real-World Scenarios**|Lu Qiu et.al.|[2412.04447](http://arxiv.org/abs/2412.04447)|null|null|
 |**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445](http://arxiv.org/abs/2412.04445)|null|**[link](https://huggingface.co/TencentARC/Moto)**|
@@ -108,10 +114,12 @@ layout: default
 |**2024-12-04**|**Large Language Models show both individual and collective creativity comparable to humans**|Luning Sun et.al.|[2412.03151](http://arxiv.org/abs/2412.03151)|null|**[link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)**|
 |**2024-12-04**|**Fine-Grained Behavior Simulation with Role-Playing Large Language Model on Social Media**|Kun Li et.al.|[2412.03148](http://arxiv.org/abs/2412.03148)|**[link](https://github.com/linkseed18612254945/finerob)**|**[link](https://huggingface.co/edwardgowsmith/en-finegrained-zero-shot)**|
 
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+
 ## Multimodal
 
-| Publish Date | Title | Authors | PDF | Code | Model |
-|:---------|:-----------------------|:---------|:------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|Model|
+|---|---|---|---|---|---|
 |**2024-12-05**|**SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model**|Zhenglin Huang et.al.|[2412.04292](http://arxiv.org/abs/2412.04292)|null|**[link](https://huggingface.co/inpocketai/sida-hd-01)**|
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[2412.04209](http://arxiv.org/abs/2412.04209)|null|null|
 |**2024-12-05**|**AIpparel: A Large Multimodal Generative Model for Digital Garments**|Kiyohiro Nakayama et.al.|[2412.03937](http://arxiv.org/abs/2412.03937)|null|null|
@@ -213,10 +221,12 @@ layout: default
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|**[link](https://huggingface.co/tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator)**|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|null|
 
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+
 ## Diffusion Models
 
-| Publish Date | Title | Authors | PDF | Code | Model |
-|:---------|:-----------------------|:---------|:------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|Model|
+|---|---|---|---|---|---|
 |**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471](http://arxiv.org/abs/2412.04471)|null|null|
 |**2024-12-05**|**Turbo3D: Ultra-fast Text-to-3D Generation**|Hanzhe Hu et.al.|[2412.04470](http://arxiv.org/abs/2412.04470)|null|null|
 |**2024-12-05**|**4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion**|Chaoyang Wang et.al.|[2412.04462](http://arxiv.org/abs/2412.04462)|null|null|
@@ -318,10 +328,12 @@ layout: default
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|**[link](https://huggingface.co/Shakker-Labs/AWPortraitCN)**|
 
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+
 ## Representation Learning
 
-| Publish Date | Title | Authors | PDF | Code | Model |
-|:---------|:-----------------------|:---------|:------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|Model|
+|---|---|---|---|---|---|
 |**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|null|**[link](https://huggingface.co/TencentARC/Divot)**|
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|null|**[link](https://huggingface.co/ShilongLiu/GroundingDINO)**|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|null|**[link](https://huggingface.co/jiuhai/florence-vl-8b-sft)**|
@@ -422,4 +434,6 @@ layout: default
 |**2024-11-26**|**k2SSL: A Faster and Better Framework for Self-Supervised Speech Representation Learning**|Yifan Yang et.al.|[2411.17100](http://arxiv.org/abs/2411.17100)|**[link](https://github.com/k2-fsa/icefall)**|**[link](https://huggingface.co/yfyeung/k2ssl-asr-librispeech-hubert-large-ll60k-pruned-transducer-2024-07-28)**|
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|null|null|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|**[link](https://huggingface.co/DavidAU/MN-WORDSTORM-pt5-RCM-Extra-Intense-18.5B-Instruct-GGUF)**|
+
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
