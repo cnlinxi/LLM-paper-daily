@@ -23,9 +23,9 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLM":
-        filters: ["LLM", "Large Language Models", "Scaling Laws", "Prompt Engineering"]
+        filters: ["LLM", "Large Language Models"]
     "Multimodal":
-        filters: ["Multimodal Models", "Vision-Language Models", "Speech-Language Models"]
+        filters: ["Multimodal Models"]
     "Diffusion Models":
         filters: ["Diffusion"]
     "Representation Learning":

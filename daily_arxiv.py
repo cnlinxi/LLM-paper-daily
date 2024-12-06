@@ -146,11 +146,12 @@ def get_hf_model(paper_title):
         hf_model_infos = search_huggingface_model(possible_model_name, max_results=1)
         if hf_model_infos:
             return hf_model_infos
-    # first word
-    paper_first_word = paper_title.split()[0]
-    paper_first_word = paper_first_word.strip('\r\n ').strip(string.punctuation)
-    hf_model_infos = search_huggingface_model(paper_first_word, max_results=1)
-    return hf_model_infos
+    # # first word
+    # paper_first_word = paper_title.split()[0]
+    # paper_first_word = paper_first_word.strip('\r\n ').strip(string.punctuation)
+    # hf_model_infos = search_huggingface_model(paper_first_word, max_results=1)
+    # return hf_model_infos
+    return []
 
 
 def get_daily_papers(topic, query="slam", max_results=2):
