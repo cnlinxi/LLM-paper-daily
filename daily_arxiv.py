@@ -112,10 +112,14 @@ def search_huggingface_model(query, max_results=2):
         response.raise_for_status()
         results = response.json()
 
-        paper_infos = [{
+        paper_infos = [
+        {
             "title": model.get("modelId", "Unknown"),
             "url": f"https://huggingface.co/{model.get('modelId', '')}"
-        } for model in results]
+        }
+        for model in results
+        if query.lower() in model.get("modelId", "").lower()
+        ]
         return paper_infos
 
     except Exception as ex:
