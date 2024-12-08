@@ -5,7 +5,7 @@ repo_name: "LLM-paper-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 100
+max_results: 32
 
 publish_readme: True
 publish_gitpage: True
