@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.07
+## Updated on 2024.12.08
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -116,7 +116,7 @@ layout: default
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[2412.04209](http://arxiv.org/abs/2412.04209)|null|null|
 |**2024-12-05**|**AIpparel: A Large Multimodal Generative Model for Digital Garments**|Kiyohiro Nakayama et.al.|[2412.03937](http://arxiv.org/abs/2412.03937)|null|null|
 |**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|null|null|
-|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|null|**[link](https://huggingface.co/INSAIT-Institute/BgGPT-Gemma-2-9B-IT-v1.0-GGUF)**|
+|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|**[link](https://github.com/inst-it/inst-it)**|**[link](https://huggingface.co/INSAIT-Institute/BgGPT-Gemma-2-9B-IT-v1.0-GGUF)**|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|null|
 |**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|**[link](https://huggingface.co/zwhe99/TAL-SJTU-WMT22-EnLiv)**|
 |**2024-12-05**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|null|
@@ -227,7 +227,7 @@ layout: default
 |**2024-12-05**|**Learning Artistic Signatures: Symmetry Discovery and Style Transfer**|Emma Finn et.al.|[2412.04441](http://arxiv.org/abs/2412.04441)|null|null|
 |**2024-12-05**|**Structure of undercompressive shock waves in three-phase flow in porous media**|L. F. Lozano et.al.|[2412.04439](http://arxiv.org/abs/2412.04439)|null|null|
 |**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|**[link](https://github.com/tencentarc/divot)**|**[link](https://huggingface.co/TencentARC/Divot)**|
-|**2024-12-05**|**Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**|Jian Han et.al.|[2412.04431](http://arxiv.org/abs/2412.04431)|null|**[link](https://huggingface.co/darkstorm2150/Protogen_Infinity_Official_Release)**|
+|**2024-12-05**|**Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**|Jian Han et.al.|[2412.04431](http://arxiv.org/abs/2412.04431)|**[link](https://github.com/FoundationVision/Infinity)**|**[link](https://huggingface.co/darkstorm2150/Protogen_Infinity_Official_Release)**|
 |**2024-12-05**|**Sub-diffraction Imaging of Carrier Dynamics in Halide Perovskite Semiconductors: Effects of Passivation, Morphology, and Ion Motion**|Madeleine D. Breshears et.al.|[2412.04423](http://arxiv.org/abs/2412.04423)|null|null|
 |**2024-12-05**|**Superdiffusive Scaling Limits for the Symmetric Exclusion Process with Slow Bonds**|Dirk Erhard et.al.|[2412.04396](http://arxiv.org/abs/2412.04396)|null|null|
 |**2024-12-05**|**Power spectrum of magnetic relaxation in spin ice: anomalous diffusion in a Coulomb fluid**|D. Billington et.al.|[2412.04376](http://arxiv.org/abs/2412.04376)|null|null|
@@ -348,7 +348,7 @@ layout: default
 |**2024-12-04**|**Stain-aware Domain Alignment for Imbalance Blood Cell Classification**|Yongcheng Li et.al.|[2412.02976](http://arxiv.org/abs/2412.02976)|**[link](https://github.com/anok3111/sada)**|null|
 |**2024-12-04**|**3D Interaction Geometric Pre-training for Molecular Relational Learning**|Namkyeong Lee et.al.|[2412.02957](http://arxiv.org/abs/2412.02957)|**[link](https://github.com/Namkyeong/3DMRL)**|null|
 |**2024-12-05**|**Memory-efficient Continual Learning with Neural Collapse Contrastive**|Trung-Anh Dang et.al.|[2412.02865](http://arxiv.org/abs/2412.02865)|null|null|
-|**2024-12-03**|**LoCo: Low-Contrast-Enhanced Contrastive Learning for Semi-Supervised Endoscopic Image Segmentation**|Lingcong Cai et.al.|[2412.02314](http://arxiv.org/abs/2412.02314)|**[link](https://github.com/anok3111/loco)**|**[link](https://huggingface.co/KBlueLeaf/onimai-locon-test)**|
+|**2024-12-03**|**LoCo: Low-Contrast-Enhanced Contrastive Learning for Semi-Supervised Endoscopic Image Segmentation**|Lingcong Cai et.al.|[2412.02314](http://arxiv.org/abs/2412.02314)|**[link](https://github.com/anok3111/loco)**|**[link](https://huggingface.co/Locolabs/Flux-SeriesX)**|
 |**2024-12-03**|**GQWformer: A Quantum-based Transformer for Graph Representation Learning**|Lei Yu et.al.|[2412.02285](http://arxiv.org/abs/2412.02285)|null|null|
 |**2024-12-03**|**BANER: Boundary-Aware LLMs for Few-Shot Named Entity Recognition**|Quanjiang Guo et.al.|[2412.02228](http://arxiv.org/abs/2412.02228)|**[link](https://github.com/uestc-gqj/baner)**|**[link](https://huggingface.co/Rana-Banerjee/OTTO)**|
 |**2024-12-03**|**Generalizing Weisfeiler-Lehman Kernels to Subgraphs**|Dongkwan Kim et.al.|[2412.02181](http://arxiv.org/abs/2412.02181)|**[link](https://github.com/dongkwan-kim/wlks)**|null|
@@ -386,7 +386,7 @@ layout: default
 |**2024-11-27**|**Multi-Label Contrastive Learning : A Comprehensive Study**|Alexandre Audibert et.al.|[2412.00101](http://arxiv.org/abs/2412.00101)|null|null|
 |**2024-11-29**|**FlowCLAS: Enhancing Normalizing Flow Via Contrastive Learning For Anomaly Segmentation**|Chang Won Lee et.al.|[2411.19888](http://arxiv.org/abs/2411.19888)|null|null|
 |**2024-11-29**|**Zero-shot Musical Stem Retrieval with Joint-Embedding Predictive Architectures**|Alain Riou et.al.|[2411.19806](http://arxiv.org/abs/2411.19806)|null|null|
-|**2024-11-29**|**Noro: A Noise-Robust One-shot Voice Conversion System with Hidden Speaker Representation Capabilities**|Haorui He et.al.|[2411.19770](http://arxiv.org/abs/2411.19770)|null|**[link](https://huggingface.co/mradermacher/Noromaid-7b-v0.2-i1-GGUF)**|
+|**2024-11-29**|**Noro: A Noise-Robust One-shot Voice Conversion System with Hidden Speaker Representation Capabilities**|Haorui He et.al.|[2411.19770](http://arxiv.org/abs/2411.19770)|null|**[link](https://huggingface.co/Norod78/gpt-fluentui-flat-svg)**|
 |**2024-11-29**|**RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation**|Xianfeng Tan et.al.|[2411.19528](http://arxiv.org/abs/2411.19528)|null|null|
 |**2024-11-29**|**Hierarchical Framework for Retrosynthesis Prediction with Enhanced Reaction Center Localization**|Seongeun Yun et.al.|[2411.19503](http://arxiv.org/abs/2411.19503)|null|null|
 |**2024-11-29**|**Effective Fine-Tuning of Vision-Language Models for Accurate Galaxy Morphology Analysis**|Ruoqi Wang et.al.|[2411.19475](http://arxiv.org/abs/2411.19475)|null|null|
