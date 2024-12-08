@@ -91,6 +91,13 @@ def get_code_link(qword: str) -> str:
     return code_link
 
 
+def simple_tokenizer(text):
+    if not text:
+        return []
+    tokens = re.split(r'[^\w-]+', text)
+    return [token for token in tokens if token]
+
+
 def search_huggingface_model(query, max_results=2):
     """
     Search for a paper on HuggingFace based on keywords.
@@ -118,7 +125,7 @@ def search_huggingface_model(query, max_results=2):
             "url": f"https://huggingface.co/{model.get('modelId', '')}"
         }
         for model in results
-        if query.lower() in model.get("modelId", "").lower()
+        if query.lower() in simple_tokenizer(model.get("modelId", "").lower())
         ]
         return paper_infos
 
