@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.10
+## Updated on 2024.12.11
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -18,12 +18,12 @@ layout: default
 |**2024-12-09**|**I Don't Know: Explicit Modeling of Uncertainty with an [IDK] Token**|Roi Cohen et.al.|[2412.06676](http://arxiv.org/abs/2412.06676)|null|null|
 |**2024-12-09**|**ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**|Chunwei Wang et.al.|[2412.06673](http://arxiv.org/abs/2412.06673)|null|null|
 |**2024-12-09**|**MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models**|Shansong Liu et.al.|[2412.06660](http://arxiv.org/abs/2412.06660)|null|null|
-|**2024-12-09**|**Chatbots im Schulunterricht: Wir testen das Fobizz-Tool zur automatischen Bewertung von Hausaufgaben**|Rainer Mühlhoff et.al.|[2412.06651](http://arxiv.org/abs/2412.06651)|null|null|
+|**2024-12-10**|**Chatbots im Schulunterricht: Wir testen das Fobizz-Tool zur automatischen Bewertung von Hausaufgaben**|Rainer Muehlhoff et.al.|[2412.06651](http://arxiv.org/abs/2412.06651)|null|null|
 |**2024-12-09**|**MAVias: Mitigate any Visual Bias**|Ioannis Sarridis et.al.|[2412.06632](http://arxiv.org/abs/2412.06632)|null|null|
 |**2024-12-09**|**3D Spatial Understanding in MLLMs: Disambiguation and Evaluation**|Chun-Peng Chang et.al.|[2412.06613](http://arxiv.org/abs/2412.06613)|null|null|
 |**2024-12-09**|**Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey**|Tianxin Xie et.al.|[2412.06602](http://arxiv.org/abs/2412.06602)|**[link](https://github.com/imxtx/awesome-controllabe-speech-synthesis)**|null|
 |**2024-12-09**|**Anchoring Bias in Large Language Models: An Experimental Study**|Jiaxu Lou et.al.|[2412.06593](http://arxiv.org/abs/2412.06593)|null|null|
-|**2024-12-09**|**Data Quality Enhancement on the Basis of Diversity with Large Language Models for Text Classification: Uncovered, Difficult, and Noisy**|Min Zeng et.al.|[2412.06575](http://arxiv.org/abs/2412.06575)|null|null|
+|**2024-12-10**|**Data Quality Enhancement on the Basis of Diversity with Large Language Models for Text Classification: Uncovered, Difficult, and Noisy**|Min Zeng et.al.|[2412.06575](http://arxiv.org/abs/2412.06575)|null|null|
 |**2024-12-09**|**Applications and Implications of Large Language Models in Qualitative Analysis: A New Frontier for Empirical Software Engineering**|Matheus de Morais Leça et.al.|[2412.06564](http://arxiv.org/abs/2412.06564)|null|null|
 |**2024-12-09**|**Challenges and Opportunities for Visual Analytics in Jurisprudence**|Daniel Fürst et.al.|[2412.06543](http://arxiv.org/abs/2412.06543)|null|null|
 |**2024-12-09**|**Sloth: scaling laws for LLM skills to predict multi-benchmark performance across families**|Felipe Maia Polo et.al.|[2412.06540](http://arxiv.org/abs/2412.06540)|null|null|
@@ -193,7 +193,7 @@ layout: default
 |**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|**[link](https://github.com/inst-it/inst-it)**|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|null|
 |**2024-12-06**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|**[link](https://github.com/jw-chae/sjtu)**|null|
-|**2024-12-05**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|null|
+|**2024-12-10**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|null|
 |**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|null|
 |**2024-12-04**|**Agri-LLaVA: Knowledge-Infused Large Multimodal Assistant on Agricultural Pests and Diseases**|Liqiong Wang et.al.|[2412.02158](http://arxiv.org/abs/2412.02158)|**[link](https://github.com/kki2eve/agri-llava)**|null|
 |**2024-12-02**|**Attacks on multimodal models**|Viacheslav Iablochnikov et.al.|[2412.01725](http://arxiv.org/abs/2412.01725)|**[link](https://github.com/slava-qw/image-retrieval-robustness)**|null|
@@ -291,7 +291,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787](http://arxiv.org/abs/2412.06787)|null|null|
+|**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787](http://arxiv.org/abs/2412.06787)|**[link](https://github.com/CompVis/mask)**|null|
 |**2024-12-09**|**Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis**|M. Hamza Mughal et.al.|[2412.06786](http://arxiv.org/abs/2412.06786)|null|null|
 |**2024-12-09**|**Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**|Ruihan Gao et.al.|[2412.06785](http://arxiv.org/abs/2412.06785)|**[link](https://github.com/ruihangao/tactiledreamfusion)**|null|
 |**2024-12-09**|**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**|Zhefei Gong et.al.|[2412.06782](http://arxiv.org/abs/2412.06782)|null|null|
@@ -301,7 +301,7 @@ layout: default
 |**2024-12-09**|**Interface dynamics in a degenerate Cahn-Hilliard model for viscoelastic phase separation**|Katharina Hopf et.al.|[2412.06762](http://arxiv.org/abs/2412.06762)|null|null|
 |**2024-12-09**|**Speckle imaging with blind source separation and total variation deconvolution**|Randy Bartels et.al.|[2412.06755](http://arxiv.org/abs/2412.06755)|null|null|
 |**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753](http://arxiv.org/abs/2412.06753)|null|null|
-|**2024-12-09**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742](http://arxiv.org/abs/2412.06742)|null|null|
+|**2024-12-10**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742](http://arxiv.org/abs/2412.06742)|null|null|
 |**2024-12-09**|**Martingale and analytic dimensions coincide under Gaussian heat kernel bounds**|Mathav Murugan et.al.|[2412.06737](http://arxiv.org/abs/2412.06737)|null|null|
 |**2024-12-09**|**Demystifying shock breakout spectra**|Christopher M. Irwin et.al.|[2412.06734](http://arxiv.org/abs/2412.06734)|null|null|
 |**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727](http://arxiv.org/abs/2412.06727)|null|null|
