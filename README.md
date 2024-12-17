@@ -1,4 +1,4 @@
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 |**2024-12-13**|**COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**|Yuchen Ren et.al.|[2412.10347](http://arxiv.org/abs/2412.10347)|null|null|
 |**2024-12-13**|**Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining**|Zhiqi Ge et.al.|[2412.10342](http://arxiv.org/abs/2412.10342)|null|null|
 |**2024-12-13**|**AdvPrefix: An Objective for Nuanced LLM Jailbreaks**|Sicheng Zhu et.al.|[2412.10321](http://arxiv.org/abs/2412.10321)|null|null|
-|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|null|
+|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|**[link](https://huggingface.co/TencentARC/BrushEdit)**|
 |**2024-12-13**|**Still "Talking About Large Language Models": Some Clarifications**|Murray Shanahan et.al.|[2412.10291](http://arxiv.org/abs/2412.10291)|null|null|
 |**2024-12-13**|**One world, one opinion? The superstar effect in LLM responses**|Sofie Goethals et.al.|[2412.10281](http://arxiv.org/abs/2412.10281)|null|null|
 |**2024-12-13**|**Benchmarking Linguistic Diversity of Large Language Models**|Yanzhu Guo et.al.|[2412.10271](http://arxiv.org/abs/2412.10271)|**[link](https://github.com/yanzhuguo/llm-diversity)**|null|
@@ -43,7 +43,7 @@
 |**2024-12-13**|**A Comparative Study of LLMs, NMT Models, and Their Combination in Persian-English Idiom Translation**|Sara Rezaeimanesh et.al.|[2412.09993](http://arxiv.org/abs/2412.09993)|null|null|
 |**2024-12-13**|**Small Language Model as Data Prospector for Large Language Model**|Shiwen Ni et.al.|[2412.09990](http://arxiv.org/abs/2412.09990)|null|null|
 |**2024-12-13**|**AI and the Future of Digital Public Squares**|Beth Goldberg et.al.|[2412.09988](http://arxiv.org/abs/2412.09988)|null|null|
-|**2024-12-13**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952](http://arxiv.org/abs/2412.09952)|null|null|
+|**2024-12-13**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952](http://arxiv.org/abs/2412.09952)|**[link](https://github.com/NVIDIA/NeMo)**|null|
 |**2024-12-13**|**Enhancing Nursing and Elderly Care with Large Language Models: An AI-Driven Framework**|Qiao Sun et.al.|[2412.09946](http://arxiv.org/abs/2412.09946)|null|null|
 |**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618](http://arxiv.org/abs/2412.09618)|null|
 |**2024-12-13**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612](http://arxiv.org/abs/2412.09612)|**[link](https://github.com/yuanze-lin/olympus_page)**|
@@ -306,7 +306,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Multimodal
 
@@ -343,7 +343,7 @@
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[2412.04209](http://arxiv.org/abs/2412.04209)|null|null|
 |**2024-12-13**|**AIpparel: A Large Multimodal Generative Model for Digital Garments**|Kiyohiro Nakayama et.al.|[2412.03937](http://arxiv.org/abs/2412.03937)|null|null|
 |**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|null|null|
-|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|**[link](https://github.com/inst-it/inst-it)**|**[link](https://huggingface.co/Inst-IT/LLaVA-Next-Inst-It-Vicuna-7B)**|
+|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|**[link](https://github.com/inst-it/inst-it)**|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|null|
 |**2024-12-06**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|**[link](https://github.com/jw-chae/sjtu)**|
 |**2024-12-10**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|
@@ -440,7 +440,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -449,7 +449,7 @@
 |**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352](http://arxiv.org/abs/2412.10352)|null|null|
 |**2024-12-13**|**Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration**|Lai Wei et.al.|[2412.10349](http://arxiv.org/abs/2412.10349)|null|null|
 |**2024-12-13**|**A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al.|[2412.10339](http://arxiv.org/abs/2412.10339)|null|null|
-|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|null|
+|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|**[link](https://huggingface.co/TencentARC/BrushEdit)**|
 |**2024-12-13**|**Coherent 3D Scene Diffusion From a Single RGB Image**|Manuel Dahnert et.al.|[2412.10294](http://arxiv.org/abs/2412.10294)|null|null|
 |**2024-12-13**|**TIV-Diffusion: Towards Object-Centric Movement for Text-driven Image to Video Generation**|Xingrui Wang et.al.|[2412.10275](http://arxiv.org/abs/2412.10275)|null|null|
 |**2024-12-13**|**Probabilistic Inverse Cameras: Image to 3D via Multiview Geometry**|Rishabh Kabra et.al.|[2412.10273](http://arxiv.org/abs/2412.10273)|null|null|
@@ -739,7 +739,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -753,7 +753,7 @@
 |**2024-12-13**|**MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow**|Zhe Li et.al.|[2412.09901](http://arxiv.org/abs/2412.09901)|null|null|
 |**2024-12-12**|**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**|Yusuf Dalva et.al.|[2412.09611](http://arxiv.org/abs/2412.09611)|null|null|
 |**2024-12-12**|**Single-View Graph Contrastive Learning with Soft Neighborhood Awareness**|Qingqiang Sun et.al.|[2412.09261](http://arxiv.org/abs/2412.09261)|**[link](https://github.com/sunisfighting/signa)**|null|
-|**2024-12-12**|**USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**|Wanjiang Weng et.al.|[2412.09220](http://arxiv.org/abs/2412.09220)|**[link](https://github.com/wengwanjiang/usdrl)**|null|
+|**2024-12-14**|**USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**|Wanjiang Weng et.al.|[2412.09220](http://arxiv.org/abs/2412.09220)|**[link](https://github.com/wengwanjiang/usdrl)**|null|
 |**2024-12-12**|**Vision CNNs trained to estimate spatial latents learned similar ventral-stream-aligned representations**|Yudi Xie et.al.|[2412.09115](http://arxiv.org/abs/2412.09115)|null|null|
 |**2024-12-12**|**DomCLP: Domain-wise Contrastive Learning with Prototype Mixup for Unsupervised Domain Generalization**|Jin-Seop Lee et.al.|[2412.09074](http://arxiv.org/abs/2412.09074)|null|null|
 |**2024-12-12**|**RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction**|Zhihao Ding et.al.|[2412.09030](http://arxiv.org/abs/2412.09030)|**[link](https://github.com/TommyDzh/RingFormer)**|null|
@@ -922,5 +922,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|null|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
