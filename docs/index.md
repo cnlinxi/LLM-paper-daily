@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -14,7 +14,7 @@ layout: default
 |**2024-12-17**|**SWAN: Preprocessing SGD Enables Adam-Level Performance On LLM Training With Significant Memory Reduction**|Chao Ma et.al.|[2412.13148](http://arxiv.org/abs/2412.13148)|null|null|
 |**2024-12-17**|**Are Your LLMs Capable of Stable Reasoning?**|Junnan Liu et.al.|[2412.13147](http://arxiv.org/abs/2412.13147)|**[link](https://github.com/open-compass/gpassk)**|null|
 |**2024-12-17**|**AI PERSONA: Towards Life-long Personalization of LLMs**|Tiannan Wang et.al.|[2412.13103](http://arxiv.org/abs/2412.13103)|null|null|
-|**2024-12-17**|**AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark**|Jianlyu Chen et.al.|[2412.13102](http://arxiv.org/abs/2412.13102)|**[link](https://github.com/air-bench/air-bench)**|null|
+|**2024-12-18**|**AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark**|Jianlyu Chen et.al.|[2412.13102](http://arxiv.org/abs/2412.13102)|**[link](https://github.com/air-bench/air-bench)**|null|
 |**2024-12-17**|**Modality-Inconsistent Continual Learning of Multimodal Large Language Models**|Weiguo Pian et.al.|[2412.13050](http://arxiv.org/abs/2412.13050)|null|null|
 |**2024-12-17**|**OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain**|Shuting Wang et.al.|[2412.13018](http://arxiv.org/abs/2412.13018)|**[link](https://github.com/ruc-nlpir/omnieval)**|null|
 |**2024-12-17**|**The Emergence of Strategic Reasoning of Large Language Models**|Dongwoo Lee et.al.|[2412.13013](http://arxiv.org/abs/2412.13013)|null|null|
@@ -519,7 +519,7 @@ layout: default
 |**2024-12-17**|**HCG 57: Evidence for shock-heated intergalactic gas from X-rays and optical emission line spectroscopy**|Ewan O'Sullivan et.al.|[2412.13055](http://arxiv.org/abs/2412.13055)|null|null|
 |**2024-12-17**|**Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks**|Kun Huang et.al.|[2412.13054](http://arxiv.org/abs/2412.13054)|null|null|
 |**2024-12-17**|**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**|Ruijie Chen et.al.|[2412.12982](http://arxiv.org/abs/2412.12982)|null|null|
-|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|null|
+|**2024-12-18**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|null|
 |**2024-12-17**|**ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**|Guillaume Couairon et.al.|[2412.12971](http://arxiv.org/abs/2412.12971)|**[link](https://github.com/inria/geoarches)**|null|
 |**2024-12-17**|**Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**|Moritz Reuss et.al.|[2412.12953](http://arxiv.org/abs/2412.12953)|null|null|
 |**2024-12-17**|**Emergent short-range repulsion for attractively coupled active particles**|Ritwick Sarkar et.al.|[2412.12934](http://arxiv.org/abs/2412.12934)|null|null|
@@ -872,7 +872,7 @@ layout: default
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|null|
 |**2024-12-17**|**Open-Set Heterogeneous Domain Adaptation: Theoretical Analysis and Algorithm**|Thai-Hoang Pham et.al.|[2412.13036](http://arxiv.org/abs/2412.13036)|null|null|
 |**2024-12-17**|**Cluster-guided Contrastive Class-imbalanced Graph Classification**|Wei Ju et.al.|[2412.12984](http://arxiv.org/abs/2412.12984)|null|null|
-|**2024-12-17**|**Graph Spring Neural ODEs for Link Sign Prediction**|Andrin Rehmann et.al.|[2412.12916](http://arxiv.org/abs/2412.12916)|null|null|
+|**2024-12-18**|**Graph Spring Neural ODEs for Link Sign Prediction**|Andrin Rehmann et.al.|[2412.12916](http://arxiv.org/abs/2412.12916)|null|null|
 |**2024-12-17**|**Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction**|Zhenjiang Mao et.al.|[2412.12870](http://arxiv.org/abs/2412.12870)|null|null|
 |**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858](http://arxiv.org/abs/2412.12858)|null|null|
 |**2024-12-17**|**ClarityEthic: Explainable Moral Judgment Utilizing Contrastive Ethical Insights from Large Language Models**|Yuxi Sun et.al.|[2412.12848](http://arxiv.org/abs/2412.12848)|null|null|
