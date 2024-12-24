@@ -1,4 +1,4 @@
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -466,7 +466,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Multimodal
 
@@ -479,7 +479,7 @@
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|null|
 |**2024-12-19**|**Progressive Multimodal Reasoning via Active Retrieval**|Guanting Dong et.al.|[2412.14835](http://arxiv.org/abs/2412.14835)|null|null|
-|**2024-12-19**|**Explainable Tampered Text Detection via Multimodal Large Models**|Chenfan Qu et.al.|[2412.14816](http://arxiv.org/abs/2412.14816)|null|null|
+|**2024-12-21**|**Explainable Tampered Text Detection via Multimodal Large Models**|Chenfan Qu et.al.|[2412.14816](http://arxiv.org/abs/2412.14816)|null|null|
 |**2024-12-18**|**Descriptive Caption Enhancement with Visual Specialists for Multimodal Perception**|Yanpeng Sun et.al.|[2412.14233](http://arxiv.org/abs/2412.14233)|**[link](https://github.com/syp2ysy/dce)**|null|
 |**2024-12-18**|**AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities**|Guillaume Astruc et.al.|[2412.14123](http://arxiv.org/abs/2412.14123)|**[link](https://github.com/gastruc/anysat)**|**[link](https://huggingface.co/g-astruc/AnySat)**|
 |**2024-12-19**|**G-VEval: A Versatile Metric for Evaluating Image and Video Captions Using GPT-4o**|Tony Cheng Tong et.al.|[2412.13647](http://arxiv.org/abs/2412.13647)|**[link](https://github.com/ztangaj/gveval)**|null|
@@ -620,7 +620,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -645,7 +645,7 @@
 |**2024-12-20**|**Grim Raindrop: A Translating Solution to Curve Diffusion Flow**|W. Jacob Ogden et.al.|[2412.15934](http://arxiv.org/abs/2412.15934)|null|null|
 |**2024-12-20**|**First Constraint on the Diffuse Supernova Neutrino Background through the CE $ν$ NS process from the LZ experiment**|Qing Xia et.al.|[2412.15886](http://arxiv.org/abs/2412.15886)|null|null|
 |**2024-12-20**|**Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**|Kai Brandenbusch et.al.|[2412.15853](http://arxiv.org/abs/2412.15853)|null|null|
-|**2024-12-20**|**A non-recursive Schur-Decomposition Algorithm for $N$ -Dimensional Matrix Equations**|Carlota M. Cuesta Romero et.al.|[2412.15840](http://arxiv.org/abs/2412.15840)|null|null|
+|**2024-12-20**|**A non-recursive Schur-Decomposition Algorithm for $N$ -Dimensional Matrix Equations**|Carlota M. Cuesta et.al.|[2412.15840](http://arxiv.org/abs/2412.15840)|null|null|
 |**2024-12-20**|**3D non-linear non-adiabatic MHD simulations of core density collapse event in LHD plasma**|A. Civit et.al.|[2412.15823](http://arxiv.org/abs/2412.15823)|null|null|
 |**2024-12-20**|**Imaging the transition from diffusive to Landauer resistivity dipoles**|David Kämpfer et.al.|[2412.15817](http://arxiv.org/abs/2412.15817)|null|null|
 |**2024-12-20**|**Sampling inverse subordinators and subdiffusions**|Ivan Biočić et.al.|[2412.15815](http://arxiv.org/abs/2412.15815)|null|null|
@@ -1079,7 +1079,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -1095,7 +1095,7 @@
 |**2024-12-19**|**Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification**|Zijie Zhou et.al.|[2412.15302](http://arxiv.org/abs/2412.15302)|**[link](https://github.com/Dodo-D-Caster/Tokenphormer)**|null|
 |**2024-12-19**|**Leveraging Color Channel Independence for Improved Unsupervised Object Detection**|Bastian Jäckl et.al.|[2412.15150](http://arxiv.org/abs/2412.15150)|null|null|
 |**2024-12-19**|**DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation**|Hourun Li et.al.|[2412.15005](http://arxiv.org/abs/2412.15005)|null|null|
-|**2024-12-19**|**Stitch Contrast and Segment_Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos**|Haitao Tian et.al.|[2412.14988](http://arxiv.org/abs/2412.14988)|null|null|
+|**2024-12-21**|**Stitch Contrast and Segment_Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos**|Haitao Tian et.al.|[2412.14988](http://arxiv.org/abs/2412.14988)|null|null|
 |**2024-12-19**|**Multimodal Hypothetical Summary for Retrieval-based Multi-image Question Answering**|Peize Li et.al.|[2412.14880](http://arxiv.org/abs/2412.14880)|null|null|
 |**2024-12-19**|**Entropy Regularized Task Representation Learning for Offline Meta-Reinforcement Learning**|Mohammadreza nakhaei et.al.|[2412.14834](http://arxiv.org/abs/2412.14834)|**[link](https://github.com/mohammadrezanakhaei/er-trl)**|null|
 |**2024-12-19**|**Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**|Yucheng Hu et.al.|[2412.14803](http://arxiv.org/abs/2412.14803)|null|null|
@@ -1338,5 +1338,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|null|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
