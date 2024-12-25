@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -661,7 +661,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|null|
-|**2024-12-23**|**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**|Rui Chen et.al.|[2412.17808](http://arxiv.org/abs/2412.17808)|null|null|
+|**2024-12-24**|**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**|Rui Chen et.al.|[2412.17808](http://arxiv.org/abs/2412.17808)|null|null|
 |**2024-12-23**|**Encoding off-shell effects in top pair production in Direct Diffusion networks**|Mathias Kuschick et.al.|[2412.17783](http://arxiv.org/abs/2412.17783)|null|null|
 |**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|**[link](https://huggingface.co/ChatterjeeLab/PepTune)**|
 |**2024-12-23**|**Thermal Quench Dynamics of Visons in Gapless Kitaev Spin Liquid**|Yang Yang et.al.|[2412.17774](http://arxiv.org/abs/2412.17774)|null|null|
@@ -681,7 +681,7 @@ layout: default
 |**2024-12-23**|**Traveling Waves in Bistable Reaction-Diffusion Cellular Automata**|Daniel Špale et.al.|[2412.17441](http://arxiv.org/abs/2412.17441)|null|null|
 |**2024-12-23**|**Effective transport by 2D turbulence: Vortex-gas intermittency vs. Kraichnan-Leith-Batchelor theory**|Julie Meunier et.al.|[2412.17431](http://arxiv.org/abs/2412.17431)|null|null|
 |**2024-12-23**|**AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows**|Hui Xiang et.al.|[2412.17394](http://arxiv.org/abs/2412.17394)|null|null|
-|**2024-12-23**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|null|
+|**2024-12-24**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|null|
 |**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346](http://arxiv.org/abs/2412.17346)|null|null|
 |**2024-12-23**|**Broadband Ground Motion Synthesis by Diffusion Model with Minimal Condition**|Jaeheun Jung et.al.|[2412.17333](http://arxiv.org/abs/2412.17333)|null|null|
 |**2024-12-23**|**Free-viewpoint Human Animation with Pose-correlated Reference Selection**|Fa-Ting Hong et.al.|[2412.17290](http://arxiv.org/abs/2412.17290)|null|null|
@@ -1164,7 +1164,7 @@ layout: default
 |**2024-12-21**|**From Pixels to Gigapixels: Bridging Local Inductive Bias and Long-Range Dependencies with Pixel-Mamba**|Zhongwei Qiu et.al.|[2412.16711](http://arxiv.org/abs/2412.16711)|null|null|
 |**2024-12-21**|**Leveraging Contrastive Learning for Semantic Segmentation with Consistent Labels Across Varying Appearances**|Javier Montalvo et.al.|[2412.16592](http://arxiv.org/abs/2412.16592)|null|null|
 |**2024-12-21**|**Effective and Efficient Representation Learning for Flight Trajectories**|Shuo Liu et.al.|[2412.16581](http://arxiv.org/abs/2412.16581)|null|null|
-|**2024-12-21**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|null|
+|**2024-12-24**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|null|
 |**2024-12-21**|**High-Dimensional Bayesian Optimization via Random Projection of Manifold Subspaces**|Quoc-Anh Hoang Nguyen et.al.|[2412.16554](http://arxiv.org/abs/2412.16554)|**[link](https://github.com/fsoft-aic/rpm-bo)**|null|
 |**2024-12-21**|**FairDD: Enhancing Fairness with domain-incremental learning in dermatological disease diagnosis**|Yiqin Luo et.al.|[2412.16542](http://arxiv.org/abs/2412.16542)|null|null|
 |**2024-12-21**|**Enhancing Contrastive Learning Inspired by the Philosophy of "The Blind Men and the Elephant"**|Yudong Zhang et.al.|[2412.16522](http://arxiv.org/abs/2412.16522)|**[link](https://github.com/btzyd/jointcrop)**|null|
