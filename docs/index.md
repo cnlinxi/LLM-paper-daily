@@ -767,12 +767,12 @@ layout: default
 |**2024-12-30**|**Downscaling of non van der Waals Semimetallic W5N6 with Resistivity Preservation**|Hongze Gao et.al.|[2412.21184](http://arxiv.org/abs/2412.21184)|null|null|
 |**2024-12-30**|**Perfect stationary solutions of reaction-diffusion equations on lattices and regular graphs**|Vladimír Švígler et.al.|[2412.21168](http://arxiv.org/abs/2412.21168)|null|null|
 |**2024-12-30**|**Systematic Benchmarking of Macrosegregation: The Performance of a Modified Hybrid Model**|Ali Moeinirad et.al.|[2412.21143](http://arxiv.org/abs/2412.21143)|null|null|
-|**2024-12-30**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|null|
+|**2025-01-02**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|null|
 |**2024-12-30**|**Positional information trade-offs in boundary-driven reaction-diffusion systems**|Jonas Berx et.al.|[2412.21113](http://arxiv.org/abs/2412.21113)|null|null|
 |**2024-12-30**|**Lyapunov-Based Deep Neural Networks for Adaptive Control of Stochastic Nonlinear Systems**|Saiedeh Akbari et.al.|[2412.21095](http://arxiv.org/abs/2412.21095)|null|null|
 |**2024-12-30**|**Co-diffusion of hydrogen and oxygen for dense oxyhydride synthesis**|Masaya Fujioka et.al.|[2412.21086](http://arxiv.org/abs/2412.21086)|null|null|
 |**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|**[link](https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model)**|null|
-|**2024-12-30**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|null|
+|**2025-01-02**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|null|
 |**2024-12-30**|**Pharmacometrics Modeling via Physics-Informed Neural Networks: Integrating Time-Variant Absorption Rates and Fractional Calculus for Enhancing Prediction Accuracy**|Nazanin Ahmadi et.al.|[2412.21076](http://arxiv.org/abs/2412.21076)|null|null|
 |**2024-12-30**|**Numerical analysis of a stabilized optimal control problem governed by a parabolic convection--diffusion equation**|Christos Pervolianakis et.al.|[2412.21070](http://arxiv.org/abs/2412.21070)|null|null|
 |**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063](http://arxiv.org/abs/2412.21063)|**[link](https://github.com/siywang541/Varformer)**|null|
@@ -1355,7 +1355,7 @@ layout: default
 |**2024-12-30**|**Unsupervised dense retrieval with conterfactual contrastive learning**|Haitian Chen et.al.|[2412.20756](http://arxiv.org/abs/2412.20756)|null|null|
 |**2024-12-30**|**NetFlowGen: Leveraging Generative Pre-training for Network Traffic Dynamics**|Jiawei Zhou et.al.|[2412.20635](http://arxiv.org/abs/2412.20635)|null|null|
 |**2024-12-29**|**Multimodal Variational Autoencoder: a Barycentric View**|Peijie Qiu et.al.|[2412.20487](http://arxiv.org/abs/2412.20487)|null|null|
-|**2024-12-29**|**EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers**|Daiheng Gao et.al.|[2412.20413](http://arxiv.org/abs/2412.20413)|null|null|
+|**2025-01-02**|**EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers**|Daiheng Gao et.al.|[2412.20413](http://arxiv.org/abs/2412.20413)|null|null|
 |**2024-12-29**|**Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning**|Zhifang Zhang et.al.|[2412.20392](http://arxiv.org/abs/2412.20392)|null|null|
 |**2024-12-28**|**Transformer-Based Contrastive Meta-Learning For Low-Resource Generalizable Activity Recognition**|Junyao Wang et.al.|[2412.20290](http://arxiv.org/abs/2412.20290)|null|null|
 |**2024-12-28**|**Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems**|Wen-Dong Jiang et.al.|[2412.20201](http://arxiv.org/abs/2412.20201)|null|null|
