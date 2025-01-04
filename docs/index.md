@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -35,7 +35,7 @@ layout: default
 |**2024-12-30**|**UBER: Uncertainty-Based Evolution with Large Language Models for Automatic Heuristic Design**|Zijie Chen et.al.|[2412.20694](http://arxiv.org/abs/2412.20694)|null|null|
 |**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682](http://arxiv.org/abs/2412.20682)|null|null|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|null|
-|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|null|null|
+|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|**[link](https://github.com/lqzxt/ngtr)**|null|
 |**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641](http://arxiv.org/abs/2412.20641)|null|null|
 |**2024-12-30**|**Knowledge Editing for Large Language Model with Knowledge Neuronal Ensemble**|Yongchang Li et.al.|[2412.20637](http://arxiv.org/abs/2412.20637)|null|null|
 |**2024-12-30**|**EVOLVE: Emotion and Visual Output Learning via LLM Evaluation**|Jordan Sinclair et.al.|[2412.20632](http://arxiv.org/abs/2412.20632)|null|null|
@@ -593,7 +593,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-12-30**|**Dialogue Director: Bridging the Gap in Dialogue Visualization for Multimodal Storytelling**|Min Zhang et.al.|[2412.20725](http://arxiv.org/abs/2412.20725)|null|null|
-|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|null|**[link](https://huggingface.co/leonnil/yolo-uniow)**|
+|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|**[link](https://github.com/thu-mig/yolo-uniow)**|**[link](https://huggingface.co/leonnil/yolo-uniow)**|
 |**2024-12-29**|**Audiopedia: Audio QA with Knowledge**|Abhirama Subramanyam Penamakuri et.al.|[2412.20619](http://arxiv.org/abs/2412.20619)|**[link](https://github.com/Abhiram4572/Audiopedia)**|null|
 |**2024-12-27**|**From Elements to Design: A Layered Approach for Automatic Graphic Design Composition**|Jiawei Lin et.al.|[2412.19712](http://arxiv.org/abs/2412.19712)|null|null|
 |**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142](http://arxiv.org/abs/2412.19142)|null|null|
@@ -779,7 +779,7 @@ layout: default
 |**2024-12-30**|**BridgePure: Revealing the Fragility of Black-box Data Protection**|Yihan Wang et.al.|[2412.21061](http://arxiv.org/abs/2412.21061)|null|null|
 |**2024-12-30**|**E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models**|Zhiyu Tan et.al.|[2412.21044](http://arxiv.org/abs/2412.21044)|null|null|
 |**2024-12-30**|**Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**|Wanglong Lu et.al.|[2412.21042](http://arxiv.org/abs/2412.21042)|**[link](https://github.com/longlongaaago/vspbfr)**|null|
-|**2024-12-30**|**A locally-conservative proximal Galerkin method for pointwise bound constraints**|Guosheng Fu et.al.|[2412.21039](http://arxiv.org/abs/2412.21039)|null|null|
+|**2024-12-30**|**A locally-conservative proximal Galerkin method for pointwise bound constraints**|Guosheng Fu et.al.|[2412.21039](http://arxiv.org/abs/2412.21039)|**[link](https://github.com/ramimasri/fospg-first-order-system-proximal-galerkin)**|null|
 |**2024-12-30**|**Considering experimental frame rates and robust segmentation analysis of piecewise-linear microparticle trajectories**|Keisha J. Cook et.al.|[2412.21025](http://arxiv.org/abs/2412.21025)|null|null|
 |**2024-12-30**|**Atomistic modeling of the structure and diffusion processes at Al(110)/Si(001) interphase boundaries obtained by vapor deposition**|Yang Li et.al.|[2412.20994](http://arxiv.org/abs/2412.20994)|null|null|
 |**2024-12-30**|**AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**|Yibo Wen et.al.|[2412.20984](http://arxiv.org/abs/2412.20984)|null|null|
