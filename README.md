@@ -1,4 +1,4 @@
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -38,7 +38,7 @@
 |**2025-01-07**|**Bridged Semantic Alignment for Zero-shot 3D Medical Image Diagnosis**|Haoran Lai et.al.|[2501.03565](http://arxiv.org/abs/2501.03565)|null|null|
 |**2025-01-07**|**PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models**|Lingzhi Yuan et.al.|[2501.03544](http://arxiv.org/abs/2501.03544)|null|null|
 |**2025-01-07**|**Deep Learning for Pathological Speech: A Survey**|Shakeel A. Sheikh et.al.|[2501.03536](http://arxiv.org/abs/2501.03536)|null|null|
-|**2025-01-07**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[2501.03535](http://arxiv.org/abs/2501.03535)|null|null|
+|**2025-01-08**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[2501.03535](http://arxiv.org/abs/2501.03535)|null|null|
 |**2025-01-07**|**A Sequential Optimal Learning Approach to Automated Prompt Engineering in Large Language Models**|Shuyang Wang et.al.|[2501.03508](http://arxiv.org/abs/2501.03508)|null|null|
 |**2025-01-07**|**Align-Pro: A Principled Approach to Prompt Optimization for LLM Alignment**|Prashant Trivedi et.al.|[2501.03486](http://arxiv.org/abs/2501.03486)|null|null|
 |**2025-01-07**|**Reading with Intent -- Neutralizing Intent**|Benjamin Reichman et.al.|[2501.03475](http://arxiv.org/abs/2501.03475)|null|null|
@@ -719,7 +719,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Multimodal
 
@@ -902,7 +902,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -1601,7 +1601,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -1615,7 +1615,7 @@
 |**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681](http://arxiv.org/abs/2501.03681)|null|null|
 |**2025-01-07**|**Action Quality Assessment via Hierarchical Pose-guided Multi-stage Contrastive Regression**|Mengshi Qi et.al.|[2501.03674](http://arxiv.org/abs/2501.03674)|null|null|
 |**2025-01-07**|**Discriminative Representation learning via Attention-Enhanced Contrastive Learning for Short Text Clustering**|Zhihao Yao et.al.|[2501.03584](http://arxiv.org/abs/2501.03584)|null|null|
-|**2025-01-07**|**Evaluating Image Caption via Cycle-consistent Text-to-Image Generation**|Tianyu Cui et.al.|[2501.03567](http://arxiv.org/abs/2501.03567)|null|null|
+|**2025-01-08**|**Evaluating Image Caption via Cycle-consistent Text-to-Image Generation**|Tianyu Cui et.al.|[2501.03567](http://arxiv.org/abs/2501.03567)|null|null|
 |**2025-01-07**|**Deep Learning within Tabular Data: Foundations, Challenges, Advances and Future Directions**|Weijieying Ren et.al.|[2501.03540](http://arxiv.org/abs/2501.03540)|null|null|
 |**2025-01-07**|**An Empirical Study of Accuracy-Robustness Tradeoff and Training Efficiency in Self-Supervised Learning**|Fatemeh Ghofrani et.al.|[2501.03507](http://arxiv.org/abs/2501.03507)|**[link](https://github.com/softsys4ai/cf-amc-ssl)**|null|
 |**2025-01-07**|**VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel Interacting with Language**|Zishuo Wan et.al.|[2501.03482](http://arxiv.org/abs/2501.03482)|null|null|
@@ -1969,5 +1969,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|null|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
