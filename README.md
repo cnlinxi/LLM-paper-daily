@@ -1,4 +1,4 @@
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -27,7 +27,7 @@
 |**2025-01-22**|**A Functional Software Reference Architecture for LLM-Integrated Systems**|Alessio Bucaioni et.al.|[2501.12904](http://arxiv.org/abs/2501.12904)|null|null|
 |**2025-01-22**|**Architectural Fusion Through Contextual Partitioning in Large Language Models: A Novel Approach to Parameterized Knowledge Integration**|Offa Kingsleigh et.al.|[2501.12901](http://arxiv.org/abs/2501.12901)|null|null|
 |**2025-01-22**|**Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback**|Yafu Li et.al.|[2501.12895](http://arxiv.org/abs/2501.12895)|**[link](https://github.com/yafuly/tpo)**|null|
-|**2025-01-22**|**Generative AI Misuse Potential in Cyber Security Education: A Case Study of a UK Degree Program**|Carlton Shepherd et.al.|[2501.12883](http://arxiv.org/abs/2501.12883)|null|null|
+|**2025-01-23**|**Generative AI Misuse Potential in Cyber Security Education: A Case Study of a UK Degree Program**|Carlton Shepherd et.al.|[2501.12883](http://arxiv.org/abs/2501.12883)|null|null|
 |**2025-01-22**|**WisdomBot: Tuning Large Language Models with Artificial Intelligence Knowledge**|Jingyuan Chen et.al.|[2501.12877](http://arxiv.org/abs/2501.12877)|null|null|
 |**2025-01-22**|**ACEBench: Who Wins the Match Point in Tool Learning?**|Chen Chen et.al.|[2501.12851](http://arxiv.org/abs/2501.12851)|null|null|
 |**2025-01-22**|**Adaptive Retrieval Without Self-Knowledge? Bringing Uncertainty Back Home**|Viktor Moskvoretskii et.al.|[2501.12835](http://arxiv.org/abs/2501.12835)|null|null|
@@ -1039,7 +1039,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
 ## Multimodal
 
@@ -1237,7 +1237,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -2240,7 +2240,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -2255,7 +2255,7 @@
 |**2025-01-21**|**Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos**|Yanlai Yang et.al.|[2501.12254](http://arxiv.org/abs/2501.12254)|null|null|
 |**2025-01-21**|**Score Combining for Contrastive OOD Detection**|Edward T. Reehorst et.al.|[2501.12204](http://arxiv.org/abs/2501.12204)|null|null|
 |**2025-01-21**|**High-dimensional multimodal uncertainty estimation by manifold alignment:Application to 3D right ventricular strain computations**|Maxime Di Folco et.al.|[2501.12178](http://arxiv.org/abs/2501.12178)|null|null|
-|**2025-01-21**|**Unified 3D MRI Representations via Sequence-Invariant Contrastive Learning**|Liam Chalcroft et.al.|[2501.12057](http://arxiv.org/abs/2501.12057)|null|null|
+|**2025-01-22**|**Unified 3D MRI Representations via Sequence-Invariant Contrastive Learning**|Liam Chalcroft et.al.|[2501.12057](http://arxiv.org/abs/2501.12057)|null|null|
 |**2025-01-21**|**Parameterised Quantum Circuits for Novel Representation Learning in Speech Emotion Recognition**|Thejan Rajapakshe et.al.|[2501.12050](http://arxiv.org/abs/2501.12050)|null|null|
 |**2025-01-21**|**Metamaterials that learn to change shape**|Yao Du et.al.|[2501.11958](http://arxiv.org/abs/2501.11958)|null|null|
 |**2025-01-21**|**Panoramic Interests: Stylistic-Content Aware Personalized Headline Generation**|Junhong Lian et.al.|[2501.11900](http://arxiv.org/abs/2501.11900)|**[link](https://github.com/ictmldm/SCAPE)**|null|
@@ -2704,5 +2704,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|null|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 

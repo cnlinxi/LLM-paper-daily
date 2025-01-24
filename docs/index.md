@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -21,7 +21,7 @@ layout: default
 |**2025-01-22**|**A Functional Software Reference Architecture for LLM-Integrated Systems**|Alessio Bucaioni et.al.|[2501.12904](http://arxiv.org/abs/2501.12904)|null|null|
 |**2025-01-22**|**Architectural Fusion Through Contextual Partitioning in Large Language Models: A Novel Approach to Parameterized Knowledge Integration**|Offa Kingsleigh et.al.|[2501.12901](http://arxiv.org/abs/2501.12901)|null|null|
 |**2025-01-22**|**Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback**|Yafu Li et.al.|[2501.12895](http://arxiv.org/abs/2501.12895)|**[link](https://github.com/yafuly/tpo)**|null|
-|**2025-01-22**|**Generative AI Misuse Potential in Cyber Security Education: A Case Study of a UK Degree Program**|Carlton Shepherd et.al.|[2501.12883](http://arxiv.org/abs/2501.12883)|null|null|
+|**2025-01-23**|**Generative AI Misuse Potential in Cyber Security Education: A Case Study of a UK Degree Program**|Carlton Shepherd et.al.|[2501.12883](http://arxiv.org/abs/2501.12883)|null|null|
 |**2025-01-22**|**WisdomBot: Tuning Large Language Models with Artificial Intelligence Knowledge**|Jingyuan Chen et.al.|[2501.12877](http://arxiv.org/abs/2501.12877)|null|null|
 |**2025-01-22**|**ACEBench: Who Wins the Match Point in Tool Learning?**|Chen Chen et.al.|[2501.12851](http://arxiv.org/abs/2501.12851)|null|null|
 |**2025-01-22**|**Adaptive Retrieval Without Self-Knowledge? Bringing Uncertainty Back Home**|Viktor Moskvoretskii et.al.|[2501.12835](http://arxiv.org/abs/2501.12835)|null|null|
@@ -2243,7 +2243,7 @@ layout: default
 |**2025-01-21**|**Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos**|Yanlai Yang et.al.|[2501.12254](http://arxiv.org/abs/2501.12254)|null|null|
 |**2025-01-21**|**Score Combining for Contrastive OOD Detection**|Edward T. Reehorst et.al.|[2501.12204](http://arxiv.org/abs/2501.12204)|null|null|
 |**2025-01-21**|**High-dimensional multimodal uncertainty estimation by manifold alignment:Application to 3D right ventricular strain computations**|Maxime Di Folco et.al.|[2501.12178](http://arxiv.org/abs/2501.12178)|null|null|
-|**2025-01-21**|**Unified 3D MRI Representations via Sequence-Invariant Contrastive Learning**|Liam Chalcroft et.al.|[2501.12057](http://arxiv.org/abs/2501.12057)|null|null|
+|**2025-01-22**|**Unified 3D MRI Representations via Sequence-Invariant Contrastive Learning**|Liam Chalcroft et.al.|[2501.12057](http://arxiv.org/abs/2501.12057)|null|null|
 |**2025-01-21**|**Parameterised Quantum Circuits for Novel Representation Learning in Speech Emotion Recognition**|Thejan Rajapakshe et.al.|[2501.12050](http://arxiv.org/abs/2501.12050)|null|null|
 |**2025-01-21**|**Metamaterials that learn to change shape**|Yao Du et.al.|[2501.11958](http://arxiv.org/abs/2501.11958)|null|null|
 |**2025-01-21**|**Panoramic Interests: Stylistic-Content Aware Personalized Headline Generation**|Junhong Lian et.al.|[2501.11900](http://arxiv.org/abs/2501.11900)|**[link](https://github.com/ictmldm/SCAPE)**|null|
