@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -20,7 +20,7 @@ layout: default
 |**2025-01-23**|**Enhancing LLMs for Governance with Human Oversight: Evaluating and Aligning LLMs on Expert Classification of Climate Misinformation for Detecting False or Misleading Claims about Climate Change**|Mowafak Allaham et.al.|[2501.13802](http://arxiv.org/abs/2501.13802)|null|null|
 |**2025-01-23**|**Not Every AI Problem is a Data Problem: We Should Be Intentional About Data Scaling**|Tanya Rodchenko et.al.|[2501.13779](http://arxiv.org/abs/2501.13779)|null|null|
 |**2025-01-23**|**Explainable XR: Understanding User Behaviors of XR Environments using LLM-assisted Analytics Framework**|Yoonsang Kim et.al.|[2501.13778](http://arxiv.org/abs/2501.13778)|**[link](https://github.com/yoonsang0910/explainablexr)**|null|
-|**2025-01-23**|**Do Large Language Models Truly Understand Geometric Structures?**|Xiaofeng Wang et.al.|[2501.13773](http://arxiv.org/abs/2501.13773)|null|null|
+|**2025-01-23**|**Do Large Language Models Truly Understand Geometric Structures?**|Xiaofeng Wang et.al.|[2501.13773](http://arxiv.org/abs/2501.13773)|**[link](https://github.com/banyedy/geomrel)**|null|
 |**2025-01-23**|**Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak**|Erjia Xiao et.al.|[2501.13772](http://arxiv.org/abs/2501.13772)|null|null|
 |**2025-01-23**|**UGMathBench: A Diverse and Dynamic Benchmark for Undergraduate-Level Mathematical Reasoning with Large Language Models**|Xin Xu et.al.|[2501.13766](http://arxiv.org/abs/2501.13766)|null|null|
 |**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|null|
@@ -32,7 +32,7 @@ layout: default
 |**2025-01-23**|**EventVL: Understand Event Streams via Multimodal Large Language Model**|Pengteng Li et.al.|[2501.13707](http://arxiv.org/abs/2501.13707)|null|null|
 |**2025-01-23**|**DI-BENCH: Benchmarking Large Language Models on Dependency Inference with Testable Repositories at Scale**|Linghao Zhang et.al.|[2501.13699](http://arxiv.org/abs/2501.13699)|null|null|
 |**2025-01-23**|**Question Answering on Patient Medical Records with Private Fine-Tuned LLMs**|Sara Kothari et.al.|[2501.13687](http://arxiv.org/abs/2501.13687)|null|null|
-|**2025-01-23**|**HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor**|Zihui Wu et.al.|[2501.13677](http://arxiv.org/abs/2501.13677)|null|null|
+|**2025-01-23**|**HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor**|Zihui Wu et.al.|[2501.13677](http://arxiv.org/abs/2501.13677)|**[link](https://github.com/wooozihui/HumorReject)**|null|
 |**2025-01-23**|**How to Complete Domain Tuning while Keeping General Ability in LLM: Adaptive Layer-wise and Element-wise Regularization**|Shezheng Song et.al.|[2501.13669](http://arxiv.org/abs/2501.13669)|null|null|
 |**2025-01-23**|**LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models**|Yizheng Sun et.al.|[2501.13652](http://arxiv.org/abs/2501.13652)|null|null|
 |**2025-01-23**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models**|Zhenghao Lin et.al.|[2501.13629](http://arxiv.org/abs/2501.13629)|null|null|
@@ -2313,7 +2313,7 @@ layout: default
 |**2025-01-23**|**Multi-Level Attention and Contrastive Learning for Enhanced Text Classification with an Optimized Transformer**|Jia Gao et.al.|[2501.13467](http://arxiv.org/abs/2501.13467)|null|null|
 |**2025-01-23**|**Deep Modularity Networks with Diversity--Preserving Regularization**|Yasmin Salehi et.al.|[2501.13451](http://arxiv.org/abs/2501.13451)|null|null|
 |**2025-01-23**|**Wasserstein-regularized Conformal Prediction under General Distribution Shift**|Rui Xu et.al.|[2501.13430](http://arxiv.org/abs/2501.13430)|null|null|
-|**2025-01-23**|**Rethinking the Sample Relations for Few-Shot Classification**|Guowei Yin et.al.|[2501.13418](http://arxiv.org/abs/2501.13418)|null|null|
+|**2025-01-23**|**Rethinking the Sample Relations for Few-Shot Classification**|Guowei Yin et.al.|[2501.13418](http://arxiv.org/abs/2501.13418)|**[link](https://github.com/HobbitLong/SupContrast)**|null|
 |**2025-01-23**|**ExLM: Rethinking the Impact of $\texttt{[MASK]}$ Tokens in Masked Language Models**|Kangjie Zheng et.al.|[2501.13397](http://arxiv.org/abs/2501.13397)|null|**[link](https://huggingface.co/exlm/dummy-model)**|
 |**2025-01-23**|**Retrievals Can Be Detrimental: A Contrastive Backdoor Attack Paradigm on Retrieval-Augmented Diffusion Models**|Hao Fang et.al.|[2501.13340](http://arxiv.org/abs/2501.13340)|null|null|
 |**2025-01-22**|**MEDFORM: A Foundation Model for Contrastive Learning of CT Imaging and Clinical Numeric Data in Multi-Cancer Analysis**|Daeun Jung et.al.|[2501.13277](http://arxiv.org/abs/2501.13277)|**[link](https://github.com/digitalhealthcarelab/25multimodalfoundationmodel)**|null|
