@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.26
+## Updated on 2025.01.27
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -1288,7 +1288,7 @@ layout: default
 |**2025-01-23**|**Exploring the interplay between small and large scales movements in a neotropical small mammal**|E. Brigatti et.al.|[2501.13688](http://arxiv.org/abs/2501.13688)|null|null|
 |**2025-01-23**|**Linearization of ergodic McKean SDEs and applications**|Grigorios A. Pavliotis et.al.|[2501.13655](http://arxiv.org/abs/2501.13655)|null|null|
 |**2025-01-23**|**Transfer matrix approach to quantum systems subject to certain Lindblad evolution**|Junaid Majeed Bhat et.al.|[2501.13560](http://arxiv.org/abs/2501.13560)|null|null|
-|**2025-01-23**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554](http://arxiv.org/abs/2501.13554)|**[link](https://github.com/byliutao/1prompt1story)**|null|
+|**2025-01-24**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554](http://arxiv.org/abs/2501.13554)|**[link](https://github.com/byliutao/1prompt1story)**|null|
 |**2025-01-23**|**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse**|Wenzhuo Ma et.al.|[2501.13528](http://arxiv.org/abs/2501.13528)|null|null|
 |**2025-01-23**|**Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement**|Chenxu Wu et.al.|[2501.13514](http://arxiv.org/abs/2501.13514)|null|null|
 |**2025-01-23**|**Brownian approximation of dynamical systems by Stein's method**|Juho Leppänen et.al.|[2501.13498](http://arxiv.org/abs/2501.13498)|null|null|
@@ -2314,7 +2314,7 @@ layout: default
 |**2025-01-23**|**Deep Modularity Networks with Diversity--Preserving Regularization**|Yasmin Salehi et.al.|[2501.13451](http://arxiv.org/abs/2501.13451)|null|null|
 |**2025-01-23**|**Wasserstein-regularized Conformal Prediction under General Distribution Shift**|Rui Xu et.al.|[2501.13430](http://arxiv.org/abs/2501.13430)|null|null|
 |**2025-01-23**|**Rethinking the Sample Relations for Few-Shot Classification**|Guowei Yin et.al.|[2501.13418](http://arxiv.org/abs/2501.13418)|**[link](https://github.com/HobbitLong/SupContrast)**|null|
-|**2025-01-23**|**ExLM: Rethinking the Impact of $\texttt{[MASK]}$ Tokens in Masked Language Models**|Kangjie Zheng et.al.|[2501.13397](http://arxiv.org/abs/2501.13397)|null|**[link](https://huggingface.co/exlm/dummy-model)**|
+|**2025-01-24**|**ExLM: Rethinking the Impact of [MASK] Tokens in Masked Language Models**|Kangjie Zheng et.al.|[2501.13397](http://arxiv.org/abs/2501.13397)|null|**[link](https://huggingface.co/exlm/dummy-model)**|
 |**2025-01-23**|**Retrievals Can Be Detrimental: A Contrastive Backdoor Attack Paradigm on Retrieval-Augmented Diffusion Models**|Hao Fang et.al.|[2501.13340](http://arxiv.org/abs/2501.13340)|null|null|
 |**2025-01-22**|**MEDFORM: A Foundation Model for Contrastive Learning of CT Imaging and Clinical Numeric Data in Multi-Cancer Analysis**|Daeun Jung et.al.|[2501.13277](http://arxiv.org/abs/2501.13277)|**[link](https://github.com/digitalhealthcarelab/25multimodalfoundationmodel)**|null|
 |**2025-01-22**|**Graph Representation Learning with Diffusion Generative Models**|Daniel Wesego et.al.|[2501.13133](http://arxiv.org/abs/2501.13133)|null|null|
