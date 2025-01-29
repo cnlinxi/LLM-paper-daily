@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -1362,7 +1362,7 @@ layout: default
 |**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928](http://arxiv.org/abs/2501.15928)|null|null|
 |**2025-01-27**|**Minimax rates of convergence of a binary classification procedure for time-homogeneous S.D.E paths**|Eddy Michel Ella Mintsa et.al.|[2501.15926](http://arxiv.org/abs/2501.15926)|null|null|
 |**2025-01-27**|**Stabilization of an unstable reaction-diffusion PDE with input delay despite state and input quantization**|Florent Koudohode et.al.|[2501.15924](http://arxiv.org/abs/2501.15924)|null|null|
-|**2025-01-27**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|null|
+|**2025-01-28**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|null|
 |**2025-01-27**|**Transient Finite Element Simulation of Accelerator Magnets Using Thermal Thin Shell Approximation**|Erik Schnaubelt et.al.|[2501.15871](http://arxiv.org/abs/2501.15871)|null|null|
 |**2025-01-27**|**Hydrodynamic limit for an active-passive exclusion process**|Deyue Li et.al.|[2501.15862](http://arxiv.org/abs/2501.15862)|null|null|
 |**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|null|
