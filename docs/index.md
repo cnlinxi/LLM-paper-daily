@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -1436,7 +1436,7 @@ layout: default
 |**2025-02-01**|**Embodied Intelligence for 3D Understanding: A Survey on 3D Scene Question Answering**|Zechuan Li et.al.|[2502.00342](http://arxiv.org/abs/2502.00342)|null|null|
 |**2025-02-01**|**Mordal: Automated Pretrained Model Selection for Vision Language Models**|Shiqi He et.al.|[2502.00241](http://arxiv.org/abs/2502.00241)|null|null|
 |**2025-01-31**|**Multimodal MRI-Ultrasound AI for Prostate Cancer Detection Outperforms Radiologist MRI Interpretation: A Multi-Center Study**|Hassan Jahanandish et.al.|[2502.00146](http://arxiv.org/abs/2502.00146)|null|null|
-|**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|**[link](https://huggingface.co/MBZUAI/AIN)**|
+|**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|**[link](https://github.com/mbzuai-oryx/AIN)**|**[link](https://huggingface.co/MBZUAI/AIN)**|
 |**2025-01-31**|**Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SCICAP Challenge 2023**|Ting-Yao E. Hsu et.al.|[2501.19353](http://arxiv.org/abs/2501.19353)|null|null|
 |**2025-01-30**|**Integrating LMM Planners and 3D Skill Policies for Generalizable Manipulation**|Yuelei Li et.al.|[2501.18733](http://arxiv.org/abs/2501.18733)|null|null|
 |**2025-01-30**|**AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment**|Yuqin Cao et.al.|[2501.18314](http://arxiv.org/abs/2501.18314)|null|null|
@@ -1650,7 +1650,7 @@ layout: default
 |**2025-02-10**|**Spatial Pattern Formation in Eco-Evolutionary Games with Environment-Driven Motion**|Tianyong Yao et.al.|[2502.06723](http://arxiv.org/abs/2502.06723)|null|null|
 |**2025-02-10**|**Neumann eigenmaps for landmark embedding**|Shashank Sule et.al.|[2502.06689](http://arxiv.org/abs/2502.06689)|null|null|
 |**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[2502.06682](http://arxiv.org/abs/2502.06682)|null|null|
-|**2025-02-10**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619](http://arxiv.org/abs/2502.06619)|null|null|
+|**2025-02-11**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619](http://arxiv.org/abs/2502.06619)|**[link](https://github.com/RikoLi/DCAC)**|null|
 |**2025-02-10**|**TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models**|Yangguang Li et.al.|[2502.06608](http://arxiv.org/abs/2502.06608)|null|null|
 |**2025-02-10**|**MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models**|Kamil Garifullin et.al.|[2502.06606](http://arxiv.org/abs/2502.06606)|null|null|
 |**2025-02-10**|**Surrogate models for diffusion on graphs via sparse polynomials**|Giuseppe Alessio D'Inverno et.al.|[2502.06595](http://arxiv.org/abs/2502.06595)|null|null|
@@ -2999,14 +2999,14 @@ layout: default
 |**2025-02-10**|**FairDropout: Using Example-Tied Dropout to Enhance Generalization of Minority Groups**|Geraldin Nanfack et.al.|[2502.06695](http://arxiv.org/abs/2502.06695)|null|null|
 |**2025-02-10**|**Prototype Contrastive Consistency Learning for Semi-Supervised Medical Image Segmentation**|Shihuan He et.al.|[2502.06650](http://arxiv.org/abs/2502.06650)|null|null|
 |**2025-02-10**|**Koopman-Equivariant Gaussian Processes**|Petar Bevanda et.al.|[2502.06645](http://arxiv.org/abs/2502.06645)|null|null|
-|**2025-02-10**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619](http://arxiv.org/abs/2502.06619)|null|null|
+|**2025-02-11**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619](http://arxiv.org/abs/2502.06619)|**[link](https://github.com/RikoLi/DCAC)**|null|
 |**2025-02-10**|**Sample-efficient Learning of Concepts with Theoretical Guarantees: from Data to Concepts without Interventions**|Hidde Fokkema et.al.|[2502.06536](http://arxiv.org/abs/2502.06536)|null|null|
 |**2025-02-10**|**Learning Clustering-based Prototypes for Compositional Zero-shot Learning**|Hongyu Qu et.al.|[2502.06501](http://arxiv.org/abs/2502.06501)|null|null|
 |**2025-02-10**|**Structure-preserving contrastive learning for spatial time series**|Yiru Jiao et.al.|[2502.06380](http://arxiv.org/abs/2502.06380)|**[link](https://github.com/Yiru-Jiao/spclt)**|null|
 |**2025-02-10**|**From Pixels to Components: Eigenvector Masking for Visual Representation Learning**|Alice Bizeul et.al.|[2502.06314](http://arxiv.org/abs/2502.06314)|null|null|
 |**2025-02-10**|**K-ON: Stacking Knowledge On the Head Layer of Large Language Model**|Lingbing Guo et.al.|[2502.06257](http://arxiv.org/abs/2502.06257)|null|null|
 |**2025-02-10**|**Multimodal Task Representation Memory Bank vs. Catastrophic Forgetting in Anomaly Detection**|You Zhou et.al.|[2502.06194](http://arxiv.org/abs/2502.06194)|null|null|
-|**2025-02-10**|**RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning**|Jian Xu et.al.|[2502.06101](http://arxiv.org/abs/2502.06101)|null|null|
+|**2025-02-11**|**RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning**|Jian Xu et.al.|[2502.06101](http://arxiv.org/abs/2502.06101)|null|null|
 |**2025-02-09**|**ARISE: Iterative Rule Induction and Synthetic Data Generation for Text Classification**|Yashwanth M. et.al.|[2502.05923](http://arxiv.org/abs/2502.05923)|null|null|
 |**2025-02-09**|**Contrastive Representation Distillation via Multi-Scale Feature Decoupling**|Cuipeng Wang et.al.|[2502.05835](http://arxiv.org/abs/2502.05835)|null|null|
 |**2025-02-09**|**Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models**|Jing-Xuan Zhang et.al.|[2502.05766](http://arxiv.org/abs/2502.05766)|null|null|
