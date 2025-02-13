@@ -1,4 +1,4 @@
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -25,16 +25,16 @@
 |**2025-02-11**|**Verifying LLM-Generated Code in the Context of Software Verification with Ada/SPARK**|Marcos Cramer et.al.|[2502.07728](http://arxiv.org/abs/2502.07728)|null|null|
 |**2025-02-11**|**A Framework for LLM-powered Design Assistants**|Swaroop Panda et.al.|[2502.07698](http://arxiv.org/abs/2502.07698)|null|null|
 |**2025-02-11**|**Large Language Models as Proxies for Theories of Human Linguistic Cognition**|Imry Ziv et.al.|[2502.07687](http://arxiv.org/abs/2502.07687)|null|null|
-|**2025-02-11**|**SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models**|Shihao Xia et.al.|[2502.07644](http://arxiv.org/abs/2502.07644)|null|null|
+|**2025-02-12**|**SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models**|Shihao Xia et.al.|[2502.07644](http://arxiv.org/abs/2502.07644)|null|null|
 |**2025-02-11**|**FoQA: A Faroese Question-Answering Dataset**|Annika Simonsen et.al.|[2502.07642](http://arxiv.org/abs/2502.07642)|null|null|
 |**2025-02-11**|**Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving**|Yong Lin et.al.|[2502.07640](http://arxiv.org/abs/2502.07640)|null|null|
 |**2025-02-11**|**Exploring Mobile Touch Interaction with Large Language Models**|Tim Zindulka et.al.|[2502.07629](http://arxiv.org/abs/2502.07629)|null|null|
-|**2025-02-11**|**Beyond Prompting: Time2Lang -- Bridging Time-Series Foundation Models and Large Language Models for Health Sensing**|Arvind Pillai et.al.|[2502.07608](http://arxiv.org/abs/2502.07608)|null|null|
+|**2025-02-12**|**Beyond Prompting: Time2Lang -- Bridging Time-Series Foundation Models and Large Language Models for Health Sensing**|Arvind Pillai et.al.|[2502.07608](http://arxiv.org/abs/2502.07608)|null|null|
 |**2025-02-11**|**Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models**|Jiacong Xu et.al.|[2502.07601](http://arxiv.org/abs/2502.07601)|null|null|
 |**2025-02-11**|**Towards spatial computing: recent advances in multimodal natural interaction for XR headsets**|Zhimin Wang et.al.|[2502.07598](http://arxiv.org/abs/2502.07598)|null|null|
 |**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|null|null|
 |**2025-02-11**|**JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation**|Shenyi Zhang et.al.|[2502.07557](http://arxiv.org/abs/2502.07557)|**[link](https://github.com/NISPLab/JBShield)**|null|
-|**2025-02-11**|**O1 Embedder: Let Retrievers Think Before Action**|Ruin Yan et.al.|[2502.07555](http://arxiv.org/abs/2502.07555)|null|null|
+|**2025-02-12**|**O1 Embedder: Let Retrievers Think Before Action**|Ruiran Yan et.al.|[2502.07555](http://arxiv.org/abs/2502.07555)|null|null|
 |**2025-02-11**|**Grammar Control in Dialogue Response Generation for Language Learning Chatbots**|Dominik Glandorf et.al.|[2502.07544](http://arxiv.org/abs/2502.07544)|null|null|
 |**2025-02-11**|**LLM-Sketch: Enhancing Network Sketches with LLM**|Yuanpeng Li et.al.|[2502.07495](http://arxiv.org/abs/2502.07495)|null|null|
 |**2025-02-11**|**Mask-Enhanced Autoregressive Prediction: Pay Less Attention to Learn More**|Xialie Zhuang et.al.|[2502.07490](http://arxiv.org/abs/2502.07490)|**[link](https://github.com/scitix/MEAP)**|null|
@@ -1455,7 +1455,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Multimodal
 
@@ -1679,7 +1679,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -1696,7 +1696,7 @@
 |**2025-02-11**|**Consistency Training with Physical Constraints**|Che-Chia Chang et.al.|[2502.07636](http://arxiv.org/abs/2502.07636)|null|null|
 |**2025-02-11**|**Tractable Transformers for Flexible Conditional Generation**|Anji Liu et.al.|[2502.07616](http://arxiv.org/abs/2502.07616)|null|null|
 |**2025-02-11**|**DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training**|Xin Tan et.al.|[2502.07590](http://arxiv.org/abs/2502.07590)|null|null|
-|**2025-02-11**|**Generative Modeling with Bayesian Sample Inference**|Marten Lienen et.al.|[2502.07580](http://arxiv.org/abs/2502.07580)|null|null|
+|**2025-02-11**|**Generative Modeling with Bayesian Sample Inference**|Marten Lienen et.al.|[2502.07580](http://arxiv.org/abs/2502.07580)|**[link](https://github.com/martenlienen/bsi)**|null|
 |**2025-02-11**|**Single-Step Consistent Diffusion Samplers**|Pascal Jutras-Dubé et.al.|[2502.07579](http://arxiv.org/abs/2502.07579)|null|null|
 |**2025-02-11**|**Diffusion-LAM: Probabilistic Limited Area Weather Forecasting with Diffusion**|Erik Larsson et.al.|[2502.07532](http://arxiv.org/abs/2502.07532)|null|null|
 |**2025-02-11**|**The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation**|Raman Dutt et.al.|[2502.07516](http://arxiv.org/abs/2502.07516)|null|null|
@@ -1704,7 +1704,7 @@
 |**2025-02-11**|**The Role of 11B4C Interlayers in Enhancing Fe/Si Multilayer Performance for Polarized Neutron Mirrors**|Anton Zubayer et.al.|[2502.07507](http://arxiv.org/abs/2502.07507)|null|null|
 |**2025-02-11**|**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**|Lin Zhu et.al.|[2502.07466](http://arxiv.org/abs/2502.07466)|null|null|
 |**2025-02-11**|**Effective description of Taylor dispersion in strongly corrugated channels**|Arthur Alexandre et.al.|[2502.07464](http://arxiv.org/abs/2502.07464)|null|null|
-|**2025-02-11**|**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**|Hongyu An et.al.|[2502.07381](http://arxiv.org/abs/2502.07381)|null|null|
+|**2025-02-12**|**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**|Hongyu An et.al.|[2502.07381](http://arxiv.org/abs/2502.07381)|null|null|
 |**2025-02-11**|**Semantic to Structure: Learning Structural Representations for Infringement Detection**|Chuanwei Huang et.al.|[2502.07323](http://arxiv.org/abs/2502.07323)|null|null|
 |**2025-02-11**|**Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials**|Qian Shao et.al.|[2502.07297](http://arxiv.org/abs/2502.07297)|null|null|
 |**2025-02-11**|**Exploratory Diffusion Policy for Unsupervised Reinforcement Learning**|Chengyang Ying et.al.|[2502.07279](http://arxiv.org/abs/2502.07279)|null|null|
@@ -3066,7 +3066,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -3076,7 +3076,7 @@
 |**2025-02-11**|**Contrastive Learning for Robust Representations of Neutrino Data**|Alex Wilkinson et.al.|[2502.07724](http://arxiv.org/abs/2502.07724)|null|null|
 |**2025-02-11**|**Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning**|Zhaoting Li et.al.|[2502.07645](http://arxiv.org/abs/2502.07645)|null|null|
 |**2025-02-11**|**Causal-Informed Contrastive Learning: Towards Bias-Resilient Pre-training under Concept Drift**|Xiaoyu Yang et.al.|[2502.07620](http://arxiv.org/abs/2502.07620)|null|null|
-|**2025-02-11**|**O1 Embedder: Let Retrievers Think Before Action**|Ruin Yan et.al.|[2502.07555](http://arxiv.org/abs/2502.07555)|null|null|
+|**2025-02-12**|**O1 Embedder: Let Retrievers Think Before Action**|Ruiran Yan et.al.|[2502.07555](http://arxiv.org/abs/2502.07555)|null|null|
 |**2025-02-11**|**JamendoMaxCaps: A Large Scale Music-caption Dataset with Imputed Metadata**|Abhinaba Roy et.al.|[2502.07461](http://arxiv.org/abs/2502.07461)|null|null|
 |**2025-02-11**|**MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification**|Anh-Tien Nguyen et.al.|[2502.07409](http://arxiv.org/abs/2502.07409)|null|null|
 |**2025-02-11**|**Uniform Kernel Prober**|Soumya Mukherjee et.al.|[2502.07369](http://arxiv.org/abs/2502.07369)|null|null|
@@ -3085,7 +3085,7 @@
 |**2025-02-11**|**CASC-AI: Consensus-aware Self-corrective AI Agents for Noise Cell Segmentation**|Ruining Deng et.al.|[2502.07302](http://arxiv.org/abs/2502.07302)|null|null|
 |**2025-02-11**|**Supervised Contrastive Block Disentanglement**|Taro Makino et.al.|[2502.07281](http://arxiv.org/abs/2502.07281)|null|null|
 |**2025-02-11**|**Dataset Ownership Verification in Contrastive Pre-trained Models**|Yuechen Xie et.al.|[2502.07276](http://arxiv.org/abs/2502.07276)|null|null|
-|**2025-02-11**|**DOGR: Leveraging Document-Oriented Contrastive Learning in Generative Retrieval**|Penghao Lu et.al.|[2502.07219](http://arxiv.org/abs/2502.07219)|null|null|
+|**2025-02-12**|**DOGR: Leveraging Document-Oriented Contrastive Learning in Generative Retrieval**|Penghao Lu et.al.|[2502.07219](http://arxiv.org/abs/2502.07219)|null|null|
 |**2025-02-11**|**Refine Knowledge of Large Language Models via Adaptive Contrastive Learning**|Yinghui Li et.al.|[2502.07184](http://arxiv.org/abs/2502.07184)|null|null|
 |**2025-02-11**|**Mesh2SSM++: A Probabilistic Framework for Unsupervised Learning of Statistical Shape Model of Anatomies from Surface Meshes**|Krithika Iyer et.al.|[2502.07145](http://arxiv.org/abs/2502.07145)|null|null|
 |**2025-02-10**|**From Image to Video: An Empirical Study of Diffusion Representations**|Pedro Vélez et.al.|[2502.07001](http://arxiv.org/abs/2502.07001)|null|null|
@@ -3697,5 +3697,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|null|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
