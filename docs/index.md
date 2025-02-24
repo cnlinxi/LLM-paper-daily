@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -29,16 +29,16 @@ layout: default
 |**2025-02-20**|**On the Influence of Context Size and Model Choice in Retrieval-Augmented Generation Systems**|Juraj Vladika et.al.|[2502.14759](http://arxiv.org/abs/2502.14759)|null|null|
 |**2025-02-20**|**TritonBench: Benchmarking Large Language Model Capabilities for Generating Triton Operators**|Jianling Li et.al.|[2502.14752](http://arxiv.org/abs/2502.14752)|null|null|
 |**2025-02-20**|**Large Language Models Struggle to Describe the Haystack without Human Help: Human-in-the-loop Evaluation of LLMs**|Zongxia Li et.al.|[2502.14748](http://arxiv.org/abs/2502.14748)|null|null|
-|**2025-02-20**|**Multi-Agent Coordination across Diverse Applications: A Survey**|Lijun Sun et.al.|[2502.14743](http://arxiv.org/abs/2502.14743)|null|null|
+|**2025-02-21**|**Multi-Agent Coordination across Diverse Applications: A Survey**|Lijun Sun et.al.|[2502.14743](http://arxiv.org/abs/2502.14743)|null|null|
 |**2025-02-20**|**SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines**|M-A-P Team et.al.|[2502.14739](http://arxiv.org/abs/2502.14739)|null|null|
 |**2025-02-20**|**EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration**|Minjie Hong et.al.|[2502.14735](http://arxiv.org/abs/2502.14735)|null|null|
 |**2025-02-20**|**WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models**|Yifu Chen et.al.|[2502.14727](http://arxiv.org/abs/2502.14727)|null|null|
-|**2025-02-20**|**I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search**|Zujie Liang et.al.|[2502.14693](http://arxiv.org/abs/2502.14693)|null|null|
+|**2025-02-21**|**I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search**|Zujie Liang et.al.|[2502.14693](http://arxiv.org/abs/2502.14693)|null|null|
 |**2025-02-20**|**Bridging the Gap: Transforming Natural Language Questions into SQL Queries via Abstract Query Pattern and Contextual Schema Markup**|Yonghui Kong et.al.|[2502.14682](http://arxiv.org/abs/2502.14682)|null|null|
 |**2025-02-20**|**How to Get Your LLM to Generate Challenging Problems for Evaluation**|Arkil Patel et.al.|[2502.14678](http://arxiv.org/abs/2502.14678)|null|null|
 |**2025-02-20**|**Data-Constrained Synthesis of Training Data for De-Identification**|Thomas Vakili et.al.|[2502.14677](http://arxiv.org/abs/2502.14677)|null|null|
-|**2025-02-20**|**Explanations of Deep Language Models Explain Language Representations in the Brain**|Maryam Rahimi et.al.|[2502.14671](http://arxiv.org/abs/2502.14671)|null|null|
-|**2025-02-20**|**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**|Alan Dao et.al.|[2502.14669](http://arxiv.org/abs/2502.14669)|null|null|
+|**2025-02-21**|**Explanations of Deep Language Models Explain Language Representations in the Brain**|Maryam Rahimi et.al.|[2502.14671](http://arxiv.org/abs/2502.14671)|null|null|
+|**2025-02-21**|**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**|Alan Dao et.al.|[2502.14669](http://arxiv.org/abs/2502.14669)|null|null|
 |**2025-02-20**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|null|
 |**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|null|
 |**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963](http://arxiv.org/abs/2502.13963)|null|null|
@@ -1925,7 +1925,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-02-20**|**Dynamic Concepts Personalization from Single Videos**|Rameen Abdal et.al.|[2502.14844](http://arxiv.org/abs/2502.14844)|null|null|
 |**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/abs/2502.14831)|null|null|
-|**2025-02-20**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|null|
+|**2025-02-21**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|null|
 |**2025-02-20**|**A Survey on Text-Driven 360-Degree Panorama Generation**|Hai Wang et.al.|[2502.14799](http://arxiv.org/abs/2502.14799)|null|null|
 |**2025-02-20**|**DC-ControlNet: Decoupling Inter- and Intra-Element Conditions in Image Generation with Diffusion Models**|Hongji Yang et.al.|[2502.14779](http://arxiv.org/abs/2502.14779)|null|null|
 |**2025-02-20**|**Making Universal Policies Universal**|Niklas Höpner et.al.|[2502.14777](http://arxiv.org/abs/2502.14777)|null|null|
@@ -1940,7 +1940,7 @@ layout: default
 |**2025-02-20**|**Single-image Reflectance and Transmittance Estimation from Any Flatbed Scanner**|Carlos Rodriguez-Pardo et.al.|[2502.14462](http://arxiv.org/abs/2502.14462)|null|null|
 |**2025-02-20**|**Growth of Ex-situ Diffuse Intragroup Light in Simulated Galaxy Groups**|B. Bilata-Woldeyes et.al.|[2502.14461](http://arxiv.org/abs/2502.14461)|null|null|
 |**2025-02-20**|**Isotropic superconductivity in pressurized trilayer nickelate La4Ni3O10**|Di Peng et.al.|[2502.14410](http://arxiv.org/abs/2502.14410)|null|null|
-|**2025-02-20**|**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**|Ke Cao et.al.|[2502.14377](http://arxiv.org/abs/2502.14377)|null|null|
+|**2025-02-21**|**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**|Ke Cao et.al.|[2502.14377](http://arxiv.org/abs/2502.14377)|null|null|
 |**2025-02-20**|**Textured 3D Regenerative Morphing with 3D Diffusion Prior**|Songlin Yang et.al.|[2502.14316](http://arxiv.org/abs/2502.14316)|null|null|
 |**2025-02-20**|**Towards efficient quantum algorithms for diffusion probability models**|Yunfei Wang et.al.|[2502.14252](http://arxiv.org/abs/2502.14252)|null|null|
 |**2025-02-20**|**Pandora3D: A Comprehensive Framework for High-Quality 3D Shape and Texture Generation**|Jiayu Yang et.al.|[2502.14247](http://arxiv.org/abs/2502.14247)|null|null|
@@ -1949,7 +1949,7 @@ layout: default
 |**2025-02-20**|**Meridional Circulation. I. A Formation Channel for Lithium-rich and Super Lithium-rich Red Clump Stars**|Xue-Feng Li et.al.|[2502.14201](http://arxiv.org/abs/2502.14201)|null|null|
 |**2025-02-20**|**Bayesian SegNet for Semantic Segmentation with Improved Interpretation of Microstructural Evolution During Irradiation of Materials**|Marjolein Oostrom et.al.|[2502.14184](http://arxiv.org/abs/2502.14184)|null|null|
 |**2025-02-19**|**Understanding SGD with Exponential Moving Average: A Case Study in Linear Regression**|Xuheng Li et.al.|[2502.14123](http://arxiv.org/abs/2502.14123)|null|null|
-|**2025-02-19**|**Puzzling $B(E2;0^+\rightarrow 2^+)$ strength in the proton dripline nucleus $^{36}$ Ca**|Z. C. Xu et.al.|[2502.14106](http://arxiv.org/abs/2502.14106)|null|null|
+|**2025-02-21**|**Puzzling $B(E2;0^+\rightarrow 2^+)$ strength in the proton dripline nucleus $^{36}$ Ca**|Z. C. Xu et.al.|[2502.14106](http://arxiv.org/abs/2502.14106)|null|null|
 |**2025-02-19**|**DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models**|Daewon Chae et.al.|[2502.14070](http://arxiv.org/abs/2502.14070)|null|null|
 |**2025-02-19**|**IP-Composer: Semantic Composition of Visual Concepts**|Sara Dorfman et.al.|[2502.13951](http://arxiv.org/abs/2502.13951)|null|null|
 |**2025-02-19**|**Image compositing is all you need for data augmentation**|Ang Jia Ning Shermaine et.al.|[2502.13936](http://arxiv.org/abs/2502.13936)|null|null|
