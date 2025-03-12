@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -39,6 +39,17 @@ layout: default
 |**2025-03-10**|**A Graph-based Verification Framework for Fact-Checking**|Yani Huang et.al.|[2503.07282](http://arxiv.org/abs/2503.07282)|null|null|
 |**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[2503.07234](http://arxiv.org/abs/2503.07234)|null|null|
 |**2025-03-10**|**Control Flow-Augmented Decompiler based on Large Language Model**|Peipei Liu et.al.|[2503.07215](http://arxiv.org/abs/2503.07215)|null|null|
+|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202](http://arxiv.org/abs/2503.07202)|null|null|
+|**2025-03-10**|**Contextual Cues in Machine Translation: Investigating the Potential of Multi-Source Input Strategies in LLMs and NMT Systems**|Lia Shahnazaryan et.al.|[2503.07195](http://arxiv.org/abs/2503.07195)|null|null|
+|**2025-03-10**|**MRCEval: A Comprehensive, Challenging and Accessible Machine Reading Comprehension Benchmark**|Shengkun Ma et.al.|[2503.07144](http://arxiv.org/abs/2503.07144)|null|null|
+|**2025-03-10**|**Application of Multiple Chain-of-Thought in Contrastive Reasoning for Implicit Sentiment Analysis**|Liwei Yang et.al.|[2503.07140](http://arxiv.org/abs/2503.07140)|null|null|
+|**2025-03-10**|**Quantizing Large Language Models for Code Generation: A Differentiated Replication**|Alessandro Giagnorio et.al.|[2503.07103](http://arxiv.org/abs/2503.07103)|null|null|
+|**2025-03-10**|**A Novel Ophthalmic Benchmark for Evaluating Multimodal Large Language Models with Fundus Photographs and OCT Images**|Xiaoyi Liang et.al.|[2503.07094](http://arxiv.org/abs/2503.07094)|null|null|
+|**2025-03-10**|**Linguistic Knowledge Transfer Learning for Speech Enhancement**|Kuo-Hsuan Hung et.al.|[2503.07078](http://arxiv.org/abs/2503.07078)|null|null|
+|**2025-03-10**|**DistiLLM-2: A Contrastive Approach Boosts the Distillation of LLMs**|Jongwoo Ko et.al.|[2503.07067](http://arxiv.org/abs/2503.07067)|null|null|
+|**2025-03-10**|**Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning**|Huilin Deng et.al.|[2503.07065](http://arxiv.org/abs/2503.07065)|null|null|
+|**2025-03-10**|**TCM-3CEval: A Triaxial Benchmark for Assessing Responses from Large Language Models in Traditional Chinese Medicine**|Tianai Huang et.al.|[2503.07041](http://arxiv.org/abs/2503.07041)|null|null|
+|**2025-03-10**|**Bot Wars Evolved: Orchestrating Competing LLMs in a Counterstrike Against Phone Scams**|Nardine Basta et.al.|[2503.07036](http://arxiv.org/abs/2503.07036)|null|null|
 |**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683](http://arxiv.org/abs/2503.05683)|null|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|null|
 |**2025-03-07**|**Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings**|Xuanqing Liu et.al.|[2503.05620](http://arxiv.org/abs/2503.05620)|null|null|
@@ -2059,7 +2070,7 @@ layout: default
 |**2025-03-01**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|**[link](https://github.com/tianyi-lab/R2-T2)**|null|
 |**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172](http://arxiv.org/abs/2502.20172)|**[link](https://github.com/chenllliang/dreamengine)**|null|
 |**2025-03-01**|**MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge**|Yuntao Du et.al.|[2502.19870](http://arxiv.org/abs/2502.19870)|**[link](https://github.com/MMKE-Bench-ICLR/MMKE-Bench)**|**[link](https://huggingface.co/kailinjiang/MMKE-Bench)**|
-|**2025-03-10**|**Knowledge Bridger: Towards Training-free Missing Multi-modality Completion**|Guanzhou Ke et.al.|[2502.19834](http://arxiv.org/abs/2502.19834)|null|null|
+|**2025-03-11**|**Knowledge Bridger: Towards Training-free Missing Multi-modality Completion**|Guanzhou Ke et.al.|[2502.19834](http://arxiv.org/abs/2502.19834)|null|null|
 |**2025-02-25**|**Mind the Gap: Bridging the Divide Between AI Aspirations and the Reality of Autonomous Characterization**|Grace Guinan et.al.|[2502.18604](http://arxiv.org/abs/2502.18604)|null|null|
 |**2025-02-25**|**Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs**|Gaye Colakoglu et.al.|[2502.18179](http://arxiv.org/abs/2502.18179)|**[link](https://github.com/gayecolakoglu/layie-llm)**|null|
 |**2025-02-24**|**Contrastive Visual Data Augmentation**|Yu Zhou et.al.|[2502.17709](http://arxiv.org/abs/2502.17709)|null|null|
@@ -2342,19 +2353,23 @@ layout: default
 |**2025-03-10**|**Efficient Distillation of Classifier-Free Guidance using Adapters**|Cristian Perez Jensen et.al.|[2503.07274](http://arxiv.org/abs/2503.07274)|null|null|
 |**2025-03-10**|**DeepNuParc: A Novel Deep Clustering Framework for Fine-scale Parcellation of Brain Nuclei Using Diffusion MRI Tractography**|Haolin He et.al.|[2503.07263](http://arxiv.org/abs/2503.07263)|**[link](https://github.com/HarlandZZC/deep_nuclei_parcellation)**|null|
 |**2025-03-10**|**Testing for Markovian character of transfer of fluctuations in solar wind turbulence on kinetic scales**|Dariusz Wójcik et.al.|[2503.07255](http://arxiv.org/abs/2503.07255)|null|null|
-|**2025-03-10**|**AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis**|Zhangyu Lai et.al.|[2503.07253](http://arxiv.org/abs/2503.07253)|null|null|
+|**2025-03-11**|**AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis**|Zhangyu Lai et.al.|[2503.07253](http://arxiv.org/abs/2503.07253)|null|null|
 |**2025-03-10**|**Stochastic Epidemic Models with Partial Information**|Florent Ouabo Kamkumo et.al.|[2503.07251](http://arxiv.org/abs/2503.07251)|null|null|
-|**2025-03-10**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|null|
+|**2025-03-11**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|null|
 |**2025-03-10**|**Exact solutions to the cancer laser ablation modeling**|Luisa Consiglieri et.al.|[2503.07226](http://arxiv.org/abs/2503.07226)|null|null|
 |**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209](http://arxiv.org/abs/2503.07209)|null|null|
 |**2025-03-10**|**POINT: a web-based platform for pharmacological investigation enhanced by multi-omics networks and knowledge graphs**|Zihao He et.al.|[2503.07203](http://arxiv.org/abs/2503.07203)|null|null|
-|**2025-03-10**|**Effective and Efficient Masked Image Generation Models**|Zebin You et.al.|[2503.07197](http://arxiv.org/abs/2503.07197)|null|null|
+|**2025-03-10**|**Effective and Efficient Masked Image Generation Models**|Zebin You et.al.|[2503.07197](http://arxiv.org/abs/2503.07197)|**[link](https://github.com/ML-GSAI/eMIGM)**|null|
 |**2025-03-10**|**On a class of triangular cross-diffusion systems and its fast reaction approximation**|Elisabetta Brocchieri et.al.|[2503.07156](http://arxiv.org/abs/2503.07156)|null|null|
-|**2025-03-10**|**Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms**|Jiaming Song et.al.|[2503.07154](http://arxiv.org/abs/2503.07154)|null|null|
+|**2025-03-11**|**Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms**|Jiaming Song et.al.|[2503.07154](http://arxiv.org/abs/2503.07154)|null|null|
 |**2025-03-10**|**Controllable 3D Outdoor Scene Generation via Scene Graphs**|Yuheng Liu et.al.|[2503.07152](http://arxiv.org/abs/2503.07152)|null|null|
 |**2025-03-10**|**Measuring the degree of clustering and diffusion of trans-Neptunian objects**|Gabriele Pichierri et.al.|[2503.07146](http://arxiv.org/abs/2503.07146)|null|null|
 |**2025-03-10**|**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**|Hanzhi Chen et.al.|[2503.07135](http://arxiv.org/abs/2503.07135)|null|null|
 |**2025-03-10**|**Stability of propagating terraces in spatially periodic multistable equations in $\mathbb{R}^N$**|Thomas Giletti et.al.|[2503.07128](http://arxiv.org/abs/2503.07128)|null|null|
+|**2025-03-10**|**Exposure Bias Reduction for Enhancing Diffusion Transformer Feature Caching**|Zhen Zou et.al.|[2503.07120](http://arxiv.org/abs/2503.07120)|null|null|
+|**2025-03-10**|**Global Context Is All You Need for Parallel Efficient Tractography Parcellation**|Valentin von Bornhaupt et.al.|[2503.07104](http://arxiv.org/abs/2503.07104)|null|null|
+|**2025-03-10**|**High temperature 1H DOSY NMR reveals sourdough fermentation of wheat flour alters the molecular structure of water-extractable arabinoxylans**|Pasquinel Weckx et.al.|[2503.07071](http://arxiv.org/abs/2503.07071)|null|null|
+|**2025-03-10**|**Generative method for aerodynamic optimization based on classifier-free guided denoising diffusion probabilistic model**|Shisong Deng et.al.|[2503.07056](http://arxiv.org/abs/2503.07056)|null|null|
 |**2025-03-10**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689](http://arxiv.org/abs/2503.05689)|null|null|
 |**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665](http://arxiv.org/abs/2503.05665)|null|null|
 |**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638](http://arxiv.org/abs/2503.05638)|null|**[link](https://huggingface.co/TrajectoryCrafter/TrajectoryCrafter)**|
