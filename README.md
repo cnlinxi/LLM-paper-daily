@@ -1,4 +1,4 @@
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,7 @@
 |**2025-03-18**|**Aligning Multimodal LLM with Human Preference: A Survey**|Tao Yu et.al.|[2503.14504](http://arxiv.org/abs/2503.14504)|null|null|
 |**2025-03-18**|**Engineering Scientific Assistants using Interactive Structured Induction of Programs**|Shraddha Surana et.al.|[2503.14488](http://arxiv.org/abs/2503.14488)|null|null|
 |**2025-03-18**|**Gricean Norms as a Basis for Effective Collaboration**|Fardin Saad et.al.|[2503.14484](http://arxiv.org/abs/2503.14484)|null|null|
-|**2025-03-18**|**Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM**|Xinyu Fang et.al.|[2503.14478](http://arxiv.org/abs/2503.14478)|null|null|
+|**2025-03-19**|**Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM**|Xinyu Fang et.al.|[2503.14478](http://arxiv.org/abs/2503.14478)|null|null|
 |**2025-03-18**|**EnvBench: A Benchmark for Automated Environment Setup**|Aleksandra Eliseeva et.al.|[2503.14443](http://arxiv.org/abs/2503.14443)|**[link](https://github.com/JetBrains-Research/EnvBench)**|null|
 |**2025-03-18**|**LLM-FE: Automated Feature Engineering for Tabular Data with LLMs as Evolutionary Optimizers**|Nikhil Abhyankar et.al.|[2503.14434](http://arxiv.org/abs/2503.14434)|null|null|
 |**2025-03-18**|**PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play**|Wei Fang et.al.|[2503.14432](http://arxiv.org/abs/2503.14432)|null|null|
@@ -27,13 +27,13 @@
 |**2025-03-18**|**Good/Evil Reputation Judgment of Celebrities by LLMs via Retrieval Augmented Generation**|Rikuto Tsuchida et.al.|[2503.14382](http://arxiv.org/abs/2503.14382)|null|null|
 |**2025-03-18**|**On the Standard Performance Criteria for Applied Control Design: PID, MPC or Machine Learning Controller?**|Pouria Sarhadi et.al.|[2503.14379](http://arxiv.org/abs/2503.14379)|null|null|
 |**2025-03-18**|**MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration**|Yisen Xu et.al.|[2503.14340](http://arxiv.org/abs/2503.14340)|null|null|
-|**2025-03-18**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/abs/2503.14324)|null|null|
+|**2025-03-19**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/abs/2503.14324)|null|null|
 |**2025-03-18**|**COPA: Comparing the Incomparable to Explore the Pareto Front**|Adrián Javaloy et.al.|[2503.14321](http://arxiv.org/abs/2503.14321)|null|null|
-|**2025-03-18**|**Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs**|Nicolas Le Roux et.al.|[2503.14286](http://arxiv.org/abs/2503.14286)|null|null|
+|**2025-03-19**|**Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs**|Nicolas Le Roux et.al.|[2503.14286](http://arxiv.org/abs/2503.14286)|null|null|
 |**2025-03-18**|**DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal**|Vaibhav Aggarwal et.al.|[2503.14269](http://arxiv.org/abs/2503.14269)|null|null|
 |**2025-03-18**|**InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being**|Guang Dai et.al.|[2503.14257](http://arxiv.org/abs/2503.14257)|null|null|
 |**2025-03-18**|**Towards a Barrier-free GeoQA Portal: Natural Language Interaction with Geospatial Data Using Multi-Agent LLMs and Semantic Search**|Yu Feng et.al.|[2503.14251](http://arxiv.org/abs/2503.14251)|null|null|
-|**2025-03-18**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|null|null|
+|**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|null|null|
 |**2025-03-18**|**CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion Models**|Yuyang Xue et.al.|[2503.14232](http://arxiv.org/abs/2503.14232)|null|null|
 |**2025-03-18**|**Decision Tree Induction Through LLMs via Semantically-Aware Evolution**|Tennison Liu et.al.|[2503.14217](http://arxiv.org/abs/2503.14217)|null|null|
 |**2025-03-18**|**Inferring Event Descriptions from Time Series with Language Models**|Mingtian Tan et.al.|[2503.14190](http://arxiv.org/abs/2503.14190)|null|null|
@@ -2234,7 +2234,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
 ## Multimodal
 
@@ -2557,7 +2557,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -2582,7 +2582,7 @@
 |**2025-03-18**|**LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**|Yu Cheng et.al.|[2503.14325](http://arxiv.org/abs/2503.14325)|null|**[link](https://huggingface.co/Yumic/LeanVAE)**|
 |**2025-03-18**|**Fractional fast diffusion with initial data a Radon measure**|Jorge Ruiz-Cases et.al.|[2503.14296](http://arxiv.org/abs/2503.14296)|null|null|
 |**2025-03-18**|**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation**|Jiang Qin et.al.|[2503.14275](http://arxiv.org/abs/2503.14275)|null|null|
-|**2025-03-18**|**CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution**|Runyi Li et.al.|[2503.14272](http://arxiv.org/abs/2503.14272)|null|null|
+|**2025-03-19**|**CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution**|Runyi Li et.al.|[2503.14272](http://arxiv.org/abs/2503.14272)|null|null|
 |**2025-03-18**|**CINNAMON: A hybrid approach to change point detection and parameter estimation in single-particle tracking data**|Jakub Malinowski et.al.|[2503.14253](http://arxiv.org/abs/2503.14253)|null|null|
 |**2025-03-18**|**CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion Models**|Yuyang Xue et.al.|[2503.14232](http://arxiv.org/abs/2503.14232)|null|null|
 |**2025-03-18**|**Mathematical modeling of Buruli ulcer spread**|Shimi Chettiparambil Mohanan et.al.|[2503.14230](http://arxiv.org/abs/2503.14230)|null|null|
@@ -4703,7 +4703,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -4712,7 +4712,7 @@
 |**2025-03-18**|**Weakly Supervised Spatial Implicit Neural Representation Learning for 3D MRI-Ultrasound Deformable Image Registration in HDR Prostate Brachytherapy**|Jing Wang et.al.|[2503.14395](http://arxiv.org/abs/2503.14395)|null|null|
 |**2025-03-18**|**Advancing Medical Representation Learning Through High-Quality Data**|Negin Baghbanzadeh et.al.|[2503.14377](http://arxiv.org/abs/2503.14377)|null|null|
 |**2025-03-18**|**MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts**|Runqi Meng et.al.|[2503.14355](http://arxiv.org/abs/2503.14355)|null|null|
-|**2025-03-18**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/abs/2503.14324)|null|null|
+|**2025-03-19**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/abs/2503.14324)|null|null|
 |**2025-03-18**|**AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation**|Wuwei Huang et.al.|[2503.14185](http://arxiv.org/abs/2503.14185)|null|null|
 |**2025-03-18**|**Marten: Visual Question Answering with Mask Generation for Multi-modal Document Understanding**|Zining Wang et.al.|[2503.14140](http://arxiv.org/abs/2503.14140)|null|null|
 |**2025-03-18**|**BG-Triangle: Bézier Gaussian Triangle for 3D Vectorization and Rendering**|Minye Wu et.al.|[2503.13961](http://arxiv.org/abs/2503.13961)|null|null|
@@ -5668,5 +5668,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
