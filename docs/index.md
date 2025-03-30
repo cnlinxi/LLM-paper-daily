@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -16,7 +16,7 @@ layout: default
 |**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683](http://arxiv.org/abs/2503.21683)|null|null|
 |**2025-03-27**|**JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community**|Yunze Xiao et.al.|[2503.21679](http://arxiv.org/abs/2503.21679)|null|null|
 |**2025-03-27**|**How do language models learn facts? Dynamics, curricula and hallucinations**|Nicolas Zucchet et.al.|[2503.21676](http://arxiv.org/abs/2503.21676)|null|null|
-|**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674](http://arxiv.org/abs/2503.21674)|null|null|
+|**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674](http://arxiv.org/abs/2503.21674)|**[link](https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design)**|null|
 |**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/abs/2503.21620)|null|null|
 |**2025-03-27**|**Evaluating book summaries from internal knowledge in Large Language Models: a cross-model and semantic consistency approach**|Javier Coronado-Blázquez et.al.|[2503.21613](http://arxiv.org/abs/2503.21613)|null|null|
 |**2025-03-27**|**GenEdit: Compounding Operators and Continuous Improvement to Tackle Text-to-SQL in the Enterprise**|Karime Maamari et.al.|[2503.21602](http://arxiv.org/abs/2503.21602)|null|null|
@@ -25,7 +25,7 @@ layout: default
 |**2025-03-27**|**debug-gym: A Text-Based Environment for Interactive Debugging**|Xingdi Yuan et.al.|[2503.21557](http://arxiv.org/abs/2503.21557)|null|null|
 |**2025-03-27**|**SWI: Speaking with Intent in Large Language Models**|Yuwei Yin et.al.|[2503.21544](http://arxiv.org/abs/2503.21544)|**[link](https://github.com/YuweiYin/SWI)**|null|
 |**2025-03-27**|**Combining Artificial Users and Psychotherapist Assessment to Evaluate Large Language Model-based Mental Health Chatbots**|Florian Onur Kuhlmeier et.al.|[2503.21540](http://arxiv.org/abs/2503.21540)|null|null|
-|**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504](http://arxiv.org/abs/2503.21504)|null|null|
+|**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504](http://arxiv.org/abs/2503.21504)|**[link](https://github.com/DHZ68/KOM-EI)**|null|
 |**2025-03-27**|**OpenHuEval: Evaluating Large Language Model on Hungarian Specifics**|Haote Yang et.al.|[2503.21500](http://arxiv.org/abs/2503.21500)|**[link](https://github.com/opendatalab/openhueval)**|null|
 |**2025-03-27**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480](http://arxiv.org/abs/2503.21480)|null|null|
 |**2025-03-27**|**Harnessing Chain-of-Thought Metadata for Task Routing and Adversarial Prompt Detection**|Ryan Marinelli et.al.|[2503.21464](http://arxiv.org/abs/2503.21464)|**[link](https://github.com/rymarinelli/number_of_thoughts)**|null|
@@ -2459,7 +2459,7 @@ layout: default
 |**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782](http://arxiv.org/abs/2503.21782)|**[link](https://github.com/amshaker/mobile-videogpt)**|null|
 |**2025-03-27**|**MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**|Liuyue Xie et.al.|[2503.21699](http://arxiv.org/abs/2503.21699)|null|null|
 |**2025-03-27**|**FusionSegReID: Advancing Person Re-Identification with Multimodal Retrieval and Precise Segmentation**|Jincheng Yan et.al.|[2503.21595](http://arxiv.org/abs/2503.21595)|null|null|
-|**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504](http://arxiv.org/abs/2503.21504)|null|null|
+|**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504](http://arxiv.org/abs/2503.21504)|**[link](https://github.com/DHZ68/KOM-EI)**|null|
 |**2025-03-27**|**UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning**|Hongxuan Tang et.al.|[2503.21193](http://arxiv.org/abs/2503.21193)|null|null|
 |**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|null|
 |**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756](http://arxiv.org/abs/2503.20756)|**[link](https://github.com/zjunlp/easyedit)**|null|
@@ -2467,7 +2467,7 @@ layout: default
 |**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118](http://arxiv.org/abs/2503.20118)|null|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|null|
 |**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|null|null|
-|**2025-03-25**|**Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**|Hongcheng Gao et.al.|[2503.19622](http://arxiv.org/abs/2503.19622)|null|null|
+|**2025-03-25**|**Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**|Hongcheng Gao et.al.|[2503.19622](http://arxiv.org/abs/2503.19622)|**[link](https://github.com/hongcheng-gao/haven)**|null|
 |**2025-03-25**|**Membership Inference Attacks on Large-Scale Models: A Survey**|Hengyu Wu et.al.|[2503.19338](http://arxiv.org/abs/2503.19338)|null|null|
 |**2025-03-27**|**Image-to-Text for Medical Reports Using Adaptive Co-Attention and Triple-LSTM Module**|Yishen Liu et.al.|[2503.18297](http://arxiv.org/abs/2503.18297)|null|null|
 |**2025-03-21**|**Audio-Enhanced Vision-Language Modeling with Latent Space Broadening for High Quality Data Expansion**|Yu Sun et.al.|[2503.17551](http://arxiv.org/abs/2503.17551)|null|null|
@@ -5196,7 +5196,7 @@ layout: default
 |**2025-03-25**|**Scaling Vision Pre-Training to 4K Resolution**|Baifeng Shi et.al.|[2503.19903](http://arxiv.org/abs/2503.19903)|null|null|
 |**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|null|null|
 |**2025-03-25**|**SeLIP: Similarity Enhanced Contrastive Language Image Pretraining for Multi-modal Head MRI**|Zhiyang Liu et.al.|[2503.19801](http://arxiv.org/abs/2503.19801)|null|null|
-|**2025-03-25**|**Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations**|Jungin Park et.al.|[2503.19706](http://arxiv.org/abs/2503.19706)|null|null|
+|**2025-03-25**|**Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations**|Jungin Park et.al.|[2503.19706](http://arxiv.org/abs/2503.19706)|**[link](https://github.com/park-jungin/byov)**|null|
 |**2025-03-25**|**A-MESS: Anchor based Multimodal Embedding with Semantic Synchronization for Multimodal Intent Recognition**|Yaomin Shen et.al.|[2503.19474](http://arxiv.org/abs/2503.19474)|null|null|
 |**2025-03-25**|**Causal invariant geographic network representations with feature and structural distribution shifts**|Yuhan Wang et.al.|[2503.19382](http://arxiv.org/abs/2503.19382)|null|null|
 |**2025-03-25**|**A Comprehensive Analysis of Mamba for 3D Volumetric Medical Image Segmentation**|Chaohan Wang et.al.|[2503.19308](http://arxiv.org/abs/2503.19308)|null|null|
