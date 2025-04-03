@@ -1,4 +1,4 @@
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -20,16 +20,16 @@
 |**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|null|
 |**2025-03-31**|**BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models**|Alok Abhishek et.al.|[2503.24310](http://arxiv.org/abs/2503.24310)|null|**[link](https://huggingface.co/camenduru/beats)**|
 |**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/abs/2503.24307)|null|null|
-|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|null|null|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|**[link](https://github.com/linjc16/Rec-R1)**|null|
 |**2025-03-31**|**Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality**|Sewoong Lee et.al.|[2503.24277](http://arxiv.org/abs/2503.24277)|**[link](https://github.com/sewoonglee/top-afa-sae)**|null|
 |**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245](http://arxiv.org/abs/2503.24245)|null|null|
 |**2025-03-31**|**What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**|Qiyuan Zhang et.al.|[2503.24235](http://arxiv.org/abs/2503.24235)|null|null|
 |**2025-03-31**|**Synthetic News Generation for Fake News Classification**|Abdul Sittar et.al.|[2503.24206](http://arxiv.org/abs/2503.24206)|null|null|
 |**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198](http://arxiv.org/abs/2503.24198)|null|null|
-|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|null|
+|**2025-04-02**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|null|
 |**2025-03-31**|**Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms**|Shuoming Zhang et.al.|[2503.24191](http://arxiv.org/abs/2503.24191)|null|null|
 |**2025-03-31**|**LLM4FS: Leveraging Large Language Models for Feature Selection and How to Improve It**|Jianhao Li et.al.|[2503.24157](http://arxiv.org/abs/2503.24157)|null|null|
-|**2025-04-01**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|null|
+|**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|null|
 |**2025-03-31**|**Is LLM the Silver Bullet to Low-Resource Languages Machine Translation?**|Yewei Song et.al.|[2503.24102](http://arxiv.org/abs/2503.24102)|null|null|
 |**2025-03-31**|**TransMamba: Flexibly Switching between Transformer and Mamba**|Yixing Li et.al.|[2503.24067](http://arxiv.org/abs/2503.24067)|null|null|
 |**2025-03-31**|**Artificial Conversations, Real Results: Fostering Language Detection with Synthetic Data**|Fatemeh Mohammadi et.al.|[2503.24062](http://arxiv.org/abs/2503.24062)|null|null|
@@ -40,7 +40,7 @@
 |**2025-03-31**|**Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving**|Wei Gao et.al.|[2503.24000](http://arxiv.org/abs/2503.24000)|**[link](https://github.com/llmkvsys/rethink-kv-compression)**|null|
 |**2025-03-31**|**Green MLOps to Green GenOps: An Empirical Study of Energy Consumption in Discriminative and Generative AI Operations**|Adrián Sánchez-Mompó et.al.|[2503.23934](http://arxiv.org/abs/2503.23934)|null|null|
 |**2025-03-31**|**Model Hemorrhage and the Robustness Limits of Large Language Models**|Ziyang Ma et.al.|[2503.23924](http://arxiv.org/abs/2503.23924)|null|null|
-|**2025-03-31**|**Entropy-Based Adaptive Weighting for Self-Training**|Xiaoxuan Wang et.al.|[2503.23913](http://arxiv.org/abs/2503.23913)|null|null|
+|**2025-03-31**|**Entropy-Based Adaptive Weighting for Self-Training**|Xiaoxuan Wang et.al.|[2503.23913](http://arxiv.org/abs/2503.23913)|**[link](https://github.com/mandyyyyii/east)**|null|
 |**2025-03-31**|**Rubrik's Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset**|Diana Galvan-Sosa et.al.|[2503.23899](http://arxiv.org/abs/2503.23899)|null|null|
 |**2025-03-31**|**Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement**|Yuqiao Tan et.al.|[2503.23895](http://arxiv.org/abs/2503.23895)|**[link](https://github.com/trae1oung/dyprag)**|null|
 |**2025-03-31**|**SchemaAgent: A Multi-Agents Framework for Generating Relational Database Schema**|Qin Wang et.al.|[2503.23886](http://arxiv.org/abs/2503.23886)|null|null|
@@ -2522,7 +2522,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Multimodal
 
@@ -2545,7 +2545,7 @@
 |**2025-03-26**|**Qwen2.5-Omni Technical Report**|Jin Xu et.al.|[2503.20215](http://arxiv.org/abs/2503.20215)|null|null|
 |**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118](http://arxiv.org/abs/2503.20118)|null|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|null|
-|**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|null|null|
+|**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|**[link](https://github.com/haoyu-bu/CAFe)**|null|
 |**2025-03-25**|**Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**|Hongcheng Gao et.al.|[2503.19622](http://arxiv.org/abs/2503.19622)|**[link](https://github.com/hongcheng-gao/haven)**|null|
 |**2025-03-25**|**Membership Inference Attacks on Large-Scale Models: A Survey**|Hengyu Wu et.al.|[2503.19338](http://arxiv.org/abs/2503.19338)|null|null|
 |**2025-03-27**|**Image-to-Text for Medical Reports Using Adaptive Co-Attention and Triple-LSTM Module**|Yishen Liu et.al.|[2503.18297](http://arxiv.org/abs/2503.18297)|null|null|
@@ -2875,7 +2875,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -2886,10 +2886,10 @@
 |**2025-03-31**|**NoProp: Training Neural Networks without Back-propagation or Forward-propagation**|Qinyu Li et.al.|[2503.24322](http://arxiv.org/abs/2503.24322)|null|null|
 |**2025-03-31**|**Dynamical properties of particulate composites derived from ultradense stealthy hyperuniform sphere packings**|Carlo Vanoni et.al.|[2503.24297](http://arxiv.org/abs/2503.24297)|null|null|
 |**2025-03-31**|**Quark production in the bottom-up thermalization**|Sergio Barrera Cabodevila et.al.|[2503.24291](http://arxiv.org/abs/2503.24291)|null|null|
-|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|null|null|
+|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|**[link](https://github.com/fpramunno/ldm_superresolution)**|null|
 |**2025-04-01**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|null|
 |**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210](http://arxiv.org/abs/2503.24210)|null|null|
-|**2025-03-31**|**Controlled Latent Diffusion Models for 3D Porous Media Reconstruction**|Danilo Naiff et.al.|[2503.24083](http://arxiv.org/abs/2503.24083)|null|null|
+|**2025-03-31**|**Controlled Latent Diffusion Models for 3D Porous Media Reconstruction**|Danilo Naiff et.al.|[2503.24083](http://arxiv.org/abs/2503.24083)|**[link](https://github.com/Lacadame/PoreGen)**|null|
 |**2025-03-31**|**Evaluating Variational Quantum Eigensolver and Quantum Dynamics Algorithms on the Advection-Diffusion Equation**|A. Barış Özgüler et.al.|[2503.24045](http://arxiv.org/abs/2503.24045)|null|null|
 |**2025-03-31**|**Relevance of the Computational Models of Bacterial Interactions in the simulation of Biofilm Growth**|Gabriel Santos-Díaz et.al.|[2503.23998](http://arxiv.org/abs/2503.23998)|null|null|
 |**2025-03-31**|**Quenching phenomena in a system of non-local diffusion equations**|José M. Arrieta et.al.|[2503.23994](http://arxiv.org/abs/2503.23994)|null|null|
@@ -2906,7 +2906,7 @@
 |**2025-04-01**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|null|
 |**2025-03-31**|**Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism**|Linghao Feng et.al.|[2503.23767](http://arxiv.org/abs/2503.23767)|null|null|
 |**2025-03-31**|**StrokeFusion: Vector Sketch Generation via Joint Stroke-UDF Encoding and Latent Sequence Diffusion**|Jin Zhou et.al.|[2503.23752](http://arxiv.org/abs/2503.23752)|null|null|
-|**2025-03-31**|**Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space**|Yi Liu et.al.|[2503.23717](http://arxiv.org/abs/2503.23717)|null|null|
+|**2025-03-31**|**Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space**|Yi Liu et.al.|[2503.23717](http://arxiv.org/abs/2503.23717)|**[link](https://github.com/ly403/emrdm)**|null|
 |**2025-03-31**|**Expanding-and-Shrinking Binary Neural Networks**|Xulong Shi et.al.|[2503.23709](http://arxiv.org/abs/2503.23709)|**[link](https://github.com/imfinethanks/esbnn)**|null|
 |**2025-03-31**|**Paramagnetic half-moon shaped diffuse scattering arising from 3D magnetic frustration**|Nelly Natsch et.al.|[2503.23704](http://arxiv.org/abs/2503.23704)|null|null|
 |**2025-03-31**|**Construction of Hyperchaotic Maps Based on 3D-CCC and its Applications in Image Encryption**|Jilei Sun et.al.|[2503.23655](http://arxiv.org/abs/2503.23655)|null|null|
@@ -5309,7 +5309,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -6399,5 +6399,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
