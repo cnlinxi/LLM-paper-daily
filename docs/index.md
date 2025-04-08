@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -15,7 +15,7 @@ layout: default
 |**2025-04-04**|**EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline**|Peter Baile Chen et.al.|[2504.03598](http://arxiv.org/abs/2504.03598)|null|null|
 |**2025-04-04**|**Agentic Knowledgeable Self-awareness**|Shuofei Qiao et.al.|[2504.03553](http://arxiv.org/abs/2504.03553)|null|null|
 |**2025-04-04**|**Neutralizing the Narrative: AI-Powered Debiasing of Online News Articles**|Chen Wei Kuo et.al.|[2504.03520](http://arxiv.org/abs/2504.03520)|null|null|
-|**2025-04-04**|**LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications**|Botao Zhu et.al.|[2504.03444](http://arxiv.org/abs/2504.03444)|null|null|
+|**2025-04-07**|**LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications**|Botao Zhu et.al.|[2504.03444](http://arxiv.org/abs/2504.03444)|null|null|
 |**2025-04-04**|**Know What You do Not Know: Verbalized Uncertainty Estimation Robustness on Corrupted Images in Vision-Language Models**|Mirko Borszukovszki et.al.|[2504.03440](http://arxiv.org/abs/2504.03440)|null|null|
 |**2025-04-04**|**Locations of Characters in Narratives: Andersen and Persuasion Datasets**|Batuhan Ozyurt et.al.|[2504.03434](http://arxiv.org/abs/2504.03434)|null|null|
 |**2025-04-04**|**Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning**|Sanghwan Bae et.al.|[2504.03380](http://arxiv.org/abs/2504.03380)|null|null|
@@ -30,7 +30,7 @@ layout: default
 |**2025-04-04**|**Explain with Visual Keypoints Like a Real Mentor! A Benchmark for Multimodal Solution Explanation**|Jaewoo Park et.al.|[2504.03197](http://arxiv.org/abs/2504.03197)|null|null|
 |**2025-04-04**|**Learning Natural Language Constraints for Safe Reinforcement Learning of Language Agents**|Jaymari Chua et.al.|[2504.03185](http://arxiv.org/abs/2504.03185)|null|null|
 |**2025-04-04**|**Efficient Dynamic Clustering-Based Document Compression for Retrieval-Augmented-Generation**|Weitao Li et.al.|[2504.03165](http://arxiv.org/abs/2504.03165)|null|null|
-|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160](http://arxiv.org/abs/2504.03160)|null|null|
+|**2025-04-07**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160](http://arxiv.org/abs/2504.03160)|null|null|
 |**2025-04-04**|**Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**|Junlang Qian et.al.|[2504.03159](http://arxiv.org/abs/2504.03159)|null|null|
 |**2025-04-04**|**TokenFLEX: Unified VLM Training for Flexible Visual Tokens Inference**|Junshan Hu et.al.|[2504.03154](http://arxiv.org/abs/2504.03154)|null|null|
 |**2025-04-04**|**Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)**|Jing Bi et.al.|[2504.03151](http://arxiv.org/abs/2504.03151)|null|null|
@@ -2992,7 +2992,7 @@ layout: default
 |**2025-04-04**|**Uniqueness results of a nonlinear stochastic diffusion-convection equation with reflection**|Niklas Sapountzoglou et.al.|[2504.03417](http://arxiv.org/abs/2504.03417)|null|null|
 |**2025-04-04**|**A new energy method for shortening and straightening complete curves**|Tatsuya Miura et.al.|[2504.03395](http://arxiv.org/abs/2504.03395)|null|null|
 |**2025-04-04**|**Stochastic Control of Drawdowns via Reinsurance under Random Inspection**|Kira Dudziak et.al.|[2504.03319](http://arxiv.org/abs/2504.03319)|null|null|
-|**2025-04-04**|**Unexpected clustering pattern in dwarf galaxies challenges formation models**|Ziwen Zhang et.al.|[2504.03305](http://arxiv.org/abs/2504.03305)|null|null|
+|**2025-04-07**|**Unexpected clustering pattern in dwarf galaxies challenges formation models**|Ziwen Zhang et.al.|[2504.03305](http://arxiv.org/abs/2504.03305)|null|null|
 |**2025-04-04**|**FaR: Enhancing Multi-Concept Text-to-Image Diffusion via Concept Fusion and Localized Refinement**|Gia-Nghia Tran et.al.|[2504.03292](http://arxiv.org/abs/2504.03292)|null|null|
 |**2025-04-04**|**Space-Time Encoded Modulation for High-Fidelity Diffuse Optical Imaging**|Ben Wiesel et.al.|[2504.03246](http://arxiv.org/abs/2504.03246)|null|null|
 |**2025-04-04**|**Accurate stochastic simulation of nonlinear reactions between closest particles**|Taylor Kearney et.al.|[2504.03215](http://arxiv.org/abs/2504.03215)|null|null|
