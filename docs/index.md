@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -17,7 +17,7 @@ layout: default
 |**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111](http://arxiv.org/abs/2504.13111)|null|null|
 |**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092](http://arxiv.org/abs/2504.13092)|null|null|
 |**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|**[link](https://github.com/hannight/ramdocs)**|null|
-|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|null|
 |**2025-04-17**|**Early Accessibility: Automating Alt-Text Generation for UI Icons During App Development**|Sabrina Haque et.al.|[2504.13069](http://arxiv.org/abs/2504.13069)|null|null|
 |**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068](http://arxiv.org/abs/2504.13068)|null|null|
 |**2025-04-17**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins**|Yao Mu et.al.|[2504.13059](http://arxiv.org/abs/2504.13059)|null|null|
@@ -32,13 +32,13 @@ layout: default
 |**2025-04-17**|**Accommodate Knowledge Conflicts in Retrieval-augmented LLMs: Towards Reliable Response Generation in the Wild**|Jiatai Wang et.al.|[2504.12982](http://arxiv.org/abs/2504.12982)|null|null|
 |**2025-04-17**|**QLLM: Do We Really Need a Mixing Network for Credit Assignment in Multi-Agent Reinforcement Learning?**|Zhouyang Jiang et.al.|[2504.12961](http://arxiv.org/abs/2504.12961)|null|null|
 |**2025-04-17**|**Are Retrials All You Need? Enhancing Large Language Model Reasoning Without Verbalized Feedback**|Nearchos Potamitis et.al.|[2504.12951](http://arxiv.org/abs/2504.12951)|null|null|
-|**2025-04-17**|**Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots**|Xi Zheng et.al.|[2504.12943](http://arxiv.org/abs/2504.12943)|null|null|
+|**2025-04-18**|**Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots**|Xi Zheng et.al.|[2504.12943](http://arxiv.org/abs/2504.12943)|null|null|
 |**2025-04-17**|**Explainable AI in Usable Privacy and Security: Challenges and Opportunities**|Vincent Freiberger et.al.|[2504.12931](http://arxiv.org/abs/2504.12931)|null|null|
 |**2025-04-17**|**ConExion: Concept Extraction with Large Language Models**|Ebrahim Norouzi et.al.|[2504.12915](http://arxiv.org/abs/2504.12915)|**[link](https://github.com/ise-fizkarlsruhe/concept_extraction)**|null|
 |**2025-04-17**|**MAIN: Mutual Alignment Is Necessary for instruction tuning**|Fanyi Yang et.al.|[2504.12913](http://arxiv.org/abs/2504.12913)|null|null|
 |**2025-04-17**|**Benchmarking Multi-National Value Alignment for Large Language Models**|Chengyi Ju et.al.|[2504.12911](http://arxiv.org/abs/2504.12911)|null|null|
 |**2025-04-17**|**Information Gain-Guided Causal Intervention for Autonomous Debiasing Large Language Models**|Zhouhao Sun et.al.|[2504.12898](http://arxiv.org/abs/2504.12898)|null|null|
-|**2025-04-17**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|null|
+|**2025-04-18**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|null|
 |**2025-04-16**|**BitNet b1.58 2B4T Technical Report**|Shuming Ma et.al.|[2504.12285](http://arxiv.org/abs/2504.12285)|null|null|
 |**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|null|null|
 |**2025-04-16**|**FLIP Reasoning Challenge**|Andreas Plesner et.al.|[2504.12256](http://arxiv.org/abs/2504.12256)|null|null|
@@ -2915,7 +2915,7 @@ layout: default
 |**2025-04-13**|**TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning**|Xingjian Zhang et.al.|[2504.09641](http://arxiv.org/abs/2504.09641)|**[link](https://github.com/zhangxj199/tinyllava-video-r1)**|**[link](https://huggingface.co/Zhang199/TinyLLaVA-Video-R1)**|
 |**2025-04-13**|**Don't Deceive Me: Mitigating Gaslighting through Attention Reallocation in LMMs**|Pengkun Jiao et.al.|[2504.09456](http://arxiv.org/abs/2504.09456)|null|null|
 |**2025-04-12**|**Application of Contrastive Learning on ECG Data: Evaluating Performance in Japanese and Classification with Around 100 Labels**|Junichiro Takahashi et.al.|[2504.09302](http://arxiv.org/abs/2504.09302)|null|null|
-|**2025-04-12**|**PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks**|Jianyu Wu et.al.|[2504.09258](http://arxiv.org/abs/2504.09258)|null|null|
+|**2025-04-18**|**PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks**|Jianyu Wu et.al.|[2504.09258](http://arxiv.org/abs/2504.09258)|null|null|
 |**2025-04-12**|**FVQ: A Large-Scale Dataset and A LMM-based Method for Face Video Quality Assessment**|Sijing Wu et.al.|[2504.09255](http://arxiv.org/abs/2504.09255)|null|null|
 |**2025-04-11**|**Mimic In-Context Learning for Multimodal Tasks**|Yuchu Jiang et.al.|[2504.08851](http://arxiv.org/abs/2504.08851)|null|null|
 |**2025-04-09**|**ColonScopeX: Leveraging Explainable Expert Systems with Multimodal Data for Improved Early Diagnosis of Colorectal Cancer**|Natalia Sikora et.al.|[2504.08824](http://arxiv.org/abs/2504.08824)|null|null|
@@ -3297,7 +3297,7 @@ layout: default
 |**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|**[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)**|null|
 |**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|null|
 |**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu et.al.|[2504.13078](http://arxiv.org/abs/2504.13078)|**[link](https://github.com/rizavelioglu/tryoffdiff)**|null|
-|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|null|
 |**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072](http://arxiv.org/abs/2504.13072)|null|null|
 |**2025-04-17**|**ArtistAuditor: Auditing Artist Style Pirate in Text-to-Image Generation Models**|Linkang Du et.al.|[2504.13061](http://arxiv.org/abs/2504.13061)|**[link](https://github.com/jozenn/artistauditor)**|null|
 |**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|**[link](https://github.com/led-666/ttrd3)**|null|
