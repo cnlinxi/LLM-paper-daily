@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -18,7 +18,7 @@ layout: default
 |**2025-04-21**|**Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs**|Marina Sakharova et.al.|[2504.15210](http://arxiv.org/abs/2504.15210)|null|null|
 |**2025-04-21**|**Compute-Optimal LLMs Provably Generalize Better With Scale**|Marc Finzi et.al.|[2504.15208](http://arxiv.org/abs/2504.15208)|null|null|
 |**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205](http://arxiv.org/abs/2504.15205)|null|null|
-|**2025-04-21**|**Synergistic Weak-Strong Collaboration by Aligning Preferences**|Yizhu Jiao et.al.|[2504.15188](http://arxiv.org/abs/2504.15188)|null|null|
+|**2025-04-22**|**Synergistic Weak-Strong Collaboration by Aligning Preferences**|Yizhu Jiao et.al.|[2504.15188](http://arxiv.org/abs/2504.15188)|null|null|
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|null|
 |**2025-04-21**|**The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks**|Joan C. Timoneda et.al.|[2504.15160](http://arxiv.org/abs/2504.15160)|null|null|
 |**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Juyeon Kim et.al.|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|null|
@@ -3378,7 +3378,7 @@ layout: default
 |**2025-04-21**|**Artificial compressibility method for the incompressible Navier-Stokes equations with variable density**|Cappanera Loic et.al.|[2504.15151](http://arxiv.org/abs/2504.15151)|null|null|
 |**2025-04-21**|**Automatic Generation of Aerobatic Flight in Complex Environments via Diffusion Models**|Yuhang Zhong et.al.|[2504.15138](http://arxiv.org/abs/2504.15138)|null|null|
 |**2025-04-21**|**Bubble-assisted micromixing via thermally excited intrinsic air within microfluidic systems**|Seyed Shahriar Riazi et.al.|[2504.15124](http://arxiv.org/abs/2504.15124)|null|null|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|null|
+|**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|null|
 |**2025-04-21**|**Generative Artificial Intelligence for Beamforming in Low-Altitude Economy**|Geng Sun et.al.|[2504.15079](http://arxiv.org/abs/2504.15079)|null|null|
 |**2025-04-21**|**Structure-guided Diffusion Transformer for Low-Light Image Enhancement**|Xiangchen Yin et.al.|[2504.15054](http://arxiv.org/abs/2504.15054)|null|null|
 |**2025-04-21**|**Potential Vibrational Modes Tied to Diffuse Interstellar Bands**|Daniel Majaess et.al.|[2504.15050](http://arxiv.org/abs/2504.15050)|null|null|
@@ -3390,7 +3390,7 @@ layout: default
 |**2025-04-21**|**On the consistency of pseudo-potential lattice Boltzmann methods**|Luiz Eduardo Czelusniak et.al.|[2504.15018](http://arxiv.org/abs/2504.15018)|null|null|
 |**2025-04-21**|**Insert Anything: Image Insertion via In-Context Editing in DiT**|Wensong Song et.al.|[2504.15009](http://arxiv.org/abs/2504.15009)|null|null|
 |**2025-04-21**|**Decay of mass for a semilinear heat equation on Heisenberg group**|Ahmad Z. Fino et.al.|[2504.14998](http://arxiv.org/abs/2504.14998)|null|null|
-|**2025-04-21**|**Ultra-diffuse galaxies in the EAGLE simulation**|Haonan Zheng et.al.|[2504.14973](http://arxiv.org/abs/2504.14973)|null|null|
+|**2025-04-22**|**Ultra-diffuse galaxies in the EAGLE simulation**|Haonan Zheng et.al.|[2504.14973](http://arxiv.org/abs/2504.14973)|null|null|
 |**2025-04-21**|**PIV-FlowDiffuser:Transfer-learning-based denoising diffusion models for PIV**|Qianyu Zhu et.al.|[2504.14952](http://arxiv.org/abs/2504.14952)|**[link](https://github.com/zhu-qianyu/piv-flowdiffuser)**|null|
 |**2025-04-21**|**TWIG: Two-Step Image Generation using Segmentation Masks in Diffusion Models**|Mazharul Islam Rakib et.al.|[2504.14933](http://arxiv.org/abs/2504.14933)|null|null|
 |**2025-04-21**|**Kernel-learning parameter prediction and evaluation in algebraic multigrid method for several PDEs**|Juan Zhang et.al.|[2504.14930](http://arxiv.org/abs/2504.14930)|null|null|
@@ -6243,7 +6243,7 @@ layout: default
 |**2025-04-21**|**Improving Sound Source Localization with Joint Slot Attention on Image and Audio**|Inho Kim et.al.|[2504.15118](http://arxiv.org/abs/2504.15118)|null|null|
 |**2025-04-21**|**Learning via mechanosensitivity and activity in cytoskeletal networks**|Deb S. Banerjee et.al.|[2504.15107](http://arxiv.org/abs/2504.15107)|null|null|
 |**2025-04-21**|**Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention**|Van Thuy Hoang et.al.|[2504.15075](http://arxiv.org/abs/2504.15075)|null|null|
-|**2025-04-21**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041](http://arxiv.org/abs/2504.15041)|**[link](https://github.com/LiuShiBen/DAFC)**|null|
+|**2025-04-22**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041](http://arxiv.org/abs/2504.15041)|**[link](https://github.com/LiuShiBen/DAFC)**|null|
 |**2025-04-21**|**CSI2Dig: Recovering Digit Content from Smartphone Loudspeakers Using Channel State Information**|Yangyang Gu et.al.|[2504.14812](http://arxiv.org/abs/2504.14812)|null|null|
 |**2025-04-21**|**Dynamic Contrastive Skill Learning with State-Transition Based Skill Clustering and Dynamic Length Adjustment**|Jinwoo Choi et.al.|[2504.14805](http://arxiv.org/abs/2504.14805)|null|null|
 |**2025-04-21**|**The 1st EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval**|Junchen Fu et.al.|[2504.14788](http://arxiv.org/abs/2504.14788)|null|null|
