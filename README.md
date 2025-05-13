@@ -1,4 +1,4 @@
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -20,7 +20,7 @@
 |**2025-05-09**|**A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets**|Ryan Lagasse et.al.|[2505.06150](http://arxiv.org/abs/2505.06150)|null|null|
 |**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|null|
 |**2025-05-09**|**LLMs Get Lost In Multi-Turn Conversation**|Philippe Laban et.al.|[2505.06120](http://arxiv.org/abs/2505.06120)|**[link](https://github.com/microsoft/lost_in_conversation)**|null|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|null|
+|**2025-05-12**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|null|
 |**2025-05-09**|**Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs**|Sam Bush et.al.|[2505.06096](http://arxiv.org/abs/2505.06096)|null|null|
 |**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085](http://arxiv.org/abs/2505.06085)|null|null|
 |**2025-05-09**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|null|
@@ -39,12 +39,12 @@
 |**2025-05-09**|**A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work**|Xiangzhe Yuan et.al.|[2505.05786](http://arxiv.org/abs/2505.05786)|null|null|
 |**2025-05-09**|**Sparse Attention Remapping with Clustering for Efficient LLM Decoding on PIM**|Zehao Fan et.al.|[2505.05772](http://arxiv.org/abs/2505.05772)|null|null|
 |**2025-05-09**|**Multi-Agent Systems for Robotic Autonomy with LLMs**|Junhong Chen et.al.|[2505.05762](http://arxiv.org/abs/2505.05762)|null|null|
-|**2025-05-09**|**APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning**|Azim Ospanov et.al.|[2505.05758](http://arxiv.org/abs/2505.05758)|null|null|
+|**2025-05-12**|**APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning**|Azim Ospanov et.al.|[2505.05758](http://arxiv.org/abs/2505.05758)|null|null|
 |**2025-05-09**|**Evolutionary thoughts: integration of large language models and evolutionary algorithms**|Antonio Jimeno Yepes et.al.|[2505.05756](http://arxiv.org/abs/2505.05756)|null|null|
 |**2025-05-09**|**Harnessing LLMs Explanations to Boost Surrogate Models in Tabular Data Classification**|Ruxue Shi et.al.|[2505.05744](http://arxiv.org/abs/2505.05744)|null|null|
 |**2025-05-09**|**Multimodal Integrated Knowledge Transfer to Large Language Models through Preference Optimization with Biomedical Applications**|Da Wu et.al.|[2505.05736](http://arxiv.org/abs/2505.05736)|null|null|
-|**2025-05-09**|**Understanding Stragglers in Large Model Training Using What-if Analysis**|Jinkun Lin et.al.|[2505.05713](http://arxiv.org/abs/2505.05713)|**[link](https://github.com/bytedance-seed/straggleranalysis)**|null|
-|**2025-05-09**|**LLM-Text Watermarking based on Lagrange Interpolation**|Jarosław Janas et.al.|[2505.05712](http://arxiv.org/abs/2505.05712)|null|null|
+|**2025-05-12**|**Understanding Stragglers in Large Model Training Using What-if Analysis**|Jinkun Lin et.al.|[2505.05713](http://arxiv.org/abs/2505.05713)|**[link](https://github.com/bytedance-seed/straggleranalysis)**|null|
+|**2025-05-12**|**LLM-Text Watermarking based on Lagrange Interpolation**|Jarosław Janas et.al.|[2505.05712](http://arxiv.org/abs/2505.05712)|null|null|
 |**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|
 |**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
 |**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
@@ -3418,7 +3418,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Multimodal
 
@@ -3860,7 +3860,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -7153,7 +7153,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -7162,12 +7162,12 @@
 |**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|null|
 |**2025-05-09**|**Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies**|Xu Han et.al.|[2505.06145](http://arxiv.org/abs/2505.06145)|null|null|
 |**2025-05-09**|**Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous Information Networks**|Hongye Zheng et.al.|[2505.05989](http://arxiv.org/abs/2505.05989)|null|null|
-|**2025-05-09**|**Multi-Modal Molecular Representation Learning via Structure Awareness**|Rong Yin et.al.|[2505.05877](http://arxiv.org/abs/2505.05877)|null|null|
+|**2025-05-12**|**Multi-Modal Molecular Representation Learning via Structure Awareness**|Rong Yin et.al.|[2505.05877](http://arxiv.org/abs/2505.05877)|null|null|
 |**2025-05-09**|**Automated Learning of Semantic Embedding Representations for Diffusion Models**|Limai Jiang et.al.|[2505.05732](http://arxiv.org/abs/2505.05732)|null|null|
 |**2025-05-08**|**PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models**|Alejandro Velez-Arce et.al.|[2505.05577](http://arxiv.org/abs/2505.05577)|**[link](https://github.com/apliko-xyz/pytdc)**|null|
-|**2025-05-08**|**Rethinking Graph Contrastive Learning through Relative Similarity Preservation**|Zhiyuan Ning et.al.|[2505.05533](http://arxiv.org/abs/2505.05533)|null|null|
+|**2025-05-12**|**Rethinking Graph Contrastive Learning through Relative Similarity Preservation**|Zhiyuan Ning et.al.|[2505.05533](http://arxiv.org/abs/2505.05533)|null|null|
 |**2025-05-09**|**Long-Term Individual Causal Effect Estimation via Identifiable Latent Representation Learning**|Ruichu Cai et.al.|[2505.05192](http://arxiv.org/abs/2505.05192)|**[link](https://github.com/learnwjj/ICEVAE)**|null|
-|**2025-05-08**|**Stochastic Variational Propagation: Local, Scalable and Efficient Alternative to Backpropagation**|Bojian Yin et.al.|[2505.05181](http://arxiv.org/abs/2505.05181)|null|null|
+|**2025-05-12**|**Stochastic Variational Propagation: Local, Scalable and Efficient Alternative to Backpropagation**|Bojian Yin et.al.|[2505.05181](http://arxiv.org/abs/2505.05181)|null|null|
 |**2025-05-08**|**A Conjoint Graph Representation Learning Framework for Hypertension Comorbidity Risk Prediction**|Leming Zhou et.al.|[2505.05094](http://arxiv.org/abs/2505.05094)|null|null|
 |**2025-05-08**|**Learning dynamically inspired invariant subspaces for Koopman and transfer operator approximation**|Gary Froyland et.al.|[2505.05085](http://arxiv.org/abs/2505.05085)|null|null|
 |**2025-05-08**|**Adaptive Contextual Embedding for Robust Far-View Borehole Detection**|Xuesong Liu et.al.|[2505.05008](http://arxiv.org/abs/2505.05008)|null|null|
@@ -8562,5 +8562,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
