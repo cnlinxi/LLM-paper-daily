@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -19,19 +19,19 @@ layout: default
 |**2025-05-12**|**PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes**|Daniel Ogenrwot et.al.|[2505.07700](http://arxiv.org/abs/2505.07700)|null|null|
 |**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|null|
 |**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|null|
-|**2025-05-12**|**OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**|Arun S. Maiya et.al.|[2505.07672](http://arxiv.org/abs/2505.07672)|null|null|
+|**2025-05-13**|**OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**|Arun S. Maiya et.al.|[2505.07672](http://arxiv.org/abs/2505.07672)|**[link](https://github.com/amaiya/onprem)**|null|
 |**2025-05-12**|**Benchmarking Retrieval-Augmented Generation for Chemistry**|Xianrui Zhong et.al.|[2505.07671](http://arxiv.org/abs/2505.07671)|null|null|
 |**2025-05-12**|**A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development**|Werner Geyer et.al.|[2505.07664](http://arxiv.org/abs/2505.07664)|null|null|
 |**2025-05-12**|**JobHop: A Large-Scale Dataset of Career Trajectories**|Iman Johary et.al.|[2505.07653](http://arxiv.org/abs/2505.07653)|null|null|
 |**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634](http://arxiv.org/abs/2505.07634)|null|null|
-|**2025-05-12**|**Concept-Level Explainability for Auditing & Steering LLM Responses**|Kenza Amara et.al.|[2505.07610](http://arxiv.org/abs/2505.07610)|null|null|
+|**2025-05-12**|**Concept-Level Explainability for Auditing & Steering LLM Responses**|Kenza Amara et.al.|[2505.07610](http://arxiv.org/abs/2505.07610)|**[link](https://github.com/k-amara/ConceptX)**|null|
 |**2025-05-12**|**TACOS: Temporally-aligned Audio CaptiOnS for Language-Audio Pretraining**|Paul Primus et.al.|[2505.07609](http://arxiv.org/abs/2505.07609)|null|null|
 |**2025-05-12**|**MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining**|Xiaomi LLM-Core Team et.al.|[2505.07608](http://arxiv.org/abs/2505.07608)|**[link](https://github.com/xiaomimimo/mimo)**|null|
 |**2025-05-12**|**Characterizing the Investigative Methods of Fictional Detectives with Large Language Models**|Edirlei Soares de Lima et.al.|[2505.07601](http://arxiv.org/abs/2505.07601)|null|null|
 |**2025-05-12**|**Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent**|Ziyang Huang et.al.|[2505.07596](http://arxiv.org/abs/2505.07596)|null|null|
 |**2025-05-12**|**A Multi-Dimensional Constraint Framework for Evaluating and Improving Instruction Following in Large Language Models**|Junjie Ye et.al.|[2505.07591](http://arxiv.org/abs/2505.07591)|null|null|
 |**2025-05-12**|**SecReEvalBench: A Multi-turned Security Resilience Evaluation Benchmark for Large Language Models**|Huining Cui et.al.|[2505.07584](http://arxiv.org/abs/2505.07584)|null|null|
-|**2025-05-12**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581](http://arxiv.org/abs/2505.07581)|null|null|
+|**2025-05-12**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581](http://arxiv.org/abs/2505.07581)|**[link](https://github.com/RUC-GSAI/YuLan-OneSim)**|null|
 |**2025-05-12**|**Direct Density Ratio Optimization: A Statistically Consistent Approach to Aligning Large Language Models**|Rei Higuchi et.al.|[2505.07558](http://arxiv.org/abs/2505.07558)|null|null|
 |**2025-05-12**|**Injecting Knowledge Graphs into Large Language Models**|Erica Coppolillo et.al.|[2505.07554](http://arxiv.org/abs/2505.07554)|null|null|
 |**2025-05-12**|**Towards Requirements Engineering for RAG Systems**|Tor Sporsem et.al.|[2505.07553](http://arxiv.org/abs/2505.07553)|null|null|
@@ -3455,10 +3455,10 @@ layout: default
 |**2025-05-08**|**Looking Beyond Language Priors: Enhancing Visual Comprehension and Attention in Multimodal Models**|Aarti Ghatkesar et.al.|[2505.05626](http://arxiv.org/abs/2505.05626)|null|null|
 |**2025-05-08**|**Does CLIP perceive art the same way we do?**|Andrea Asperti et.al.|[2505.05229](http://arxiv.org/abs/2505.05229)|null|null|
 |**2025-05-08**|**A Benchmark Dataset and a Framework for Urdu Multimodal Named Entity Recognition**|Hussain Ahmad et.al.|[2505.05148](http://arxiv.org/abs/2505.05148)|null|null|
-|**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|null|null|
+|**2025-05-13**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|**[link](https://github.com/360cvgroup/fg-clip)**|null|
 |**2025-05-07**|**OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning**|Xianhang Li et.al.|[2505.04601](http://arxiv.org/abs/2505.04601)|null|null|
 |**2025-05-07**|**VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning**|Trinh T. L. Vuong et.al.|[2505.04192](http://arxiv.org/abs/2505.04192)|**[link](https://github.com/trinhvg/videopath-llava)**|null|
-|**2025-05-07**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631](http://arxiv.org/abs/2505.03631)|null|null|
+|**2025-05-07**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631](http://arxiv.org/abs/2505.03631)|**[link](https://github.com/clh124/LMM-PVQA)**|null|
 |**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|**[link](https://github.com/jiangfeibo/comlam)**|null|
 |**2025-05-06**|**Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant**|Haonan Wang et.al.|[2505.03380](http://arxiv.org/abs/2505.03380)|null|null|
 |**2025-05-06**|**Adversarial Attacks in Multimodal Systems: A Practitioner's Survey**|Shashank Kapoor et.al.|[2505.03084](http://arxiv.org/abs/2505.03084)|null|null|
@@ -3921,7 +3921,7 @@ layout: default
 |**2025-05-12**|**GAN-based synthetic FDG PET images from T1 brain MRI can serve to improve performance of deep unsupervised anomaly detection models**|Daria Zotova et.al.|[2505.07364](http://arxiv.org/abs/2505.07364)|null|null|
 |**2025-05-12**|**Generative Pre-trained Autoregressive Diffusion Transformer**|Yuan Zhang et.al.|[2505.07344](http://arxiv.org/abs/2505.07344)|null|null|
 |**2025-05-12**|**Nitrogen and oxygen transport and reactions during plasma nitridation of zirconium thin films**|Luc Pichon et.al.|[2505.07316](http://arxiv.org/abs/2505.07316)|null|null|
-|**2025-05-12**|**CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks**|Ce Hao et.al.|[2505.07261](http://arxiv.org/abs/2505.07261)|null|null|
+|**2025-05-13**|**CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks**|Ce Hao et.al.|[2505.07261](http://arxiv.org/abs/2505.07261)|null|null|
 |**2025-05-12**|**Brightness Characteristics of the Qianfan Satellites and Evidence That Some Are Tumbling**|Anthony Mallama et.al.|[2505.07194](http://arxiv.org/abs/2505.07194)|null|null|
 |**2025-05-12**|**ReCDAP: Relation-Based Conditional Diffusion with Attention Pooling for Few-Shot Knowledge Graph Completion**|Jeongho Kim et.al.|[2505.07171](http://arxiv.org/abs/2505.07171)|**[link](https://github.com/hou27/recdap-fkgc)**|null|
 |**2025-05-09**|**Long time behaviour of Mean Field Games with fractional diffusion**|Olav Ersland et.al.|[2505.06183](http://arxiv.org/abs/2505.06183)|null|null|
@@ -7229,7 +7229,7 @@ layout: default
 |**2025-05-11**|**Joint Low-level and High-level Textual Representation Learning with Multiple Masking Strategies**|Zhengmi Tang et.al.|[2505.06855](http://arxiv.org/abs/2505.06855)|null|null|
 |**2025-05-11**|**Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning**|Ye Zhu et.al.|[2505.06796](http://arxiv.org/abs/2505.06796)|**[link](https://github.com/yunan-wang33/sdml)**|null|
 |**2025-05-10**|**SimMIL: A Universal Weakly Supervised Pre-Training Framework for Multi-Instance Learning in Whole Slide Pathology Images**|Yicheng Song et.al.|[2505.06710](http://arxiv.org/abs/2505.06710)|null|null|
-|**2025-05-10**|**Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws**|Xiyuan Wei et.al.|[2505.06699](http://arxiv.org/abs/2505.06699)|null|null|
+|**2025-05-13**|**Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws**|Xiyuan Wei et.al.|[2505.06699](http://arxiv.org/abs/2505.06699)|null|null|
 |**2025-05-10**|**A Contrastive Federated Semi-Supervised Learning Intrusion Detection Framework for Internet of Robotic Things**|Yifan Zeng et.al.|[2505.06636](http://arxiv.org/abs/2505.06636)|null|null|
 |**2025-05-10**|**ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation**|Zhongquan Zhou et.al.|[2505.06628](http://arxiv.org/abs/2505.06628)|null|null|
 |**2025-05-10**|**Weakly Supervised Temporal Sentence Grounding via Positive Sample Mining**|Lu Dong et.al.|[2505.06557](http://arxiv.org/abs/2505.06557)|null|null|
