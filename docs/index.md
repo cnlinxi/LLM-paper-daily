@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783](http://arxiv.org/abs/2505.08783)|null|null|
 |**2025-05-13**|**HealthBench: Evaluating Large Language Models Towards Improved Human Health**|Rahul K. Arora et.al.|[2505.08775](http://arxiv.org/abs/2505.08775)|**[link](https://github.com/openai/simple-evals)**|null|
-|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|null|
+|**2025-05-14**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|null|
 |**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750](http://arxiv.org/abs/2505.08750)|null|null|
 |**2025-05-13**|**DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models**|Xiaoyang Chen et.al.|[2505.08744](http://arxiv.org/abs/2505.08744)|**[link](https://github.com/deepmathllm/deepmath)**|null|
 |**2025-05-13**|**Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies**|Xiaoliang Luo et.al.|[2505.08739](http://arxiv.org/abs/2505.08739)|null|null|
@@ -3938,7 +3938,7 @@ layout: default
 |**2025-05-13**|**Are We Paying Attention to Her? Investigating Gender Disambiguation and Attention in Machine Translation**|Chiara Manna et.al.|[2505.08546](http://arxiv.org/abs/2505.08546)|null|null|
 |**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|null|
 |**2025-05-13**|**Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks**|Chenru Duan et.al.|[2505.08531](http://arxiv.org/abs/2505.08531)|null|null|
-|**2025-05-13**|**Improving Data Fidelity via Diffusion Model-based Correction and Super resolution**|Wuzhe Xu et.al.|[2505.08526](http://arxiv.org/abs/2505.08526)|null|null|
+|**2025-05-14**|**Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution**|Wuzhe Xu et.al.|[2505.08526](http://arxiv.org/abs/2505.08526)|null|null|
 |**2025-05-13**|**Nonlinear Evolution Toward the Linear Diffusive Profile in the Presence of Couette Flow**|Ning Liu et.al.|[2505.08486](http://arxiv.org/abs/2505.08486)|null|null|
 |**2025-05-13**|**Benchmarking distinguishable cluster methods to platinum standard CCSDT(Q) non covalent interaction energies in the A24 dataset**|S. Lambie et.al.|[2505.08483](http://arxiv.org/abs/2505.08483)|null|null|
 |**2025-05-13**|**Determining evolutionary equations by a single passive boundary observation**|Hongyu Liu et.al.|[2505.08473](http://arxiv.org/abs/2505.08473)|null|null|
@@ -7284,7 +7284,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-05-13**|**DFA-CON: A Contrastive Learning Approach for Detecting Copyright Infringement in DeepFake Art**|Haroon Wahab et.al.|[2505.08552](http://arxiv.org/abs/2505.08552)|null|null|
-|**2025-05-12**|**OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain**|Wenzhen Yue et.al.|[2505.08550](http://arxiv.org/abs/2505.08550)|**[link](https://github.com/jackyue1994/OLinear)**|null|
+|**2025-05-14**|**OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain**|Wenzhen Yue et.al.|[2505.08550](http://arxiv.org/abs/2505.08550)|**[link](https://github.com/jackyue1994/OLinear)**|null|
 |**2025-05-13**|**Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning**|Xinyue Wang et.al.|[2505.08361](http://arxiv.org/abs/2505.08361)|null|null|
 |**2025-05-13**|**Improving Unsupervised Task-driven Models of Ventral Visual Stream via Relative Position Predictivity**|Dazhong Rong et.al.|[2505.08316](http://arxiv.org/abs/2505.08316)|**[link](https://github.com/rdz98/unsup-vvs)**|null|
 |**2025-05-13**|**LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|null|
