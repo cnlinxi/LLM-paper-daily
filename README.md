@@ -1,4 +1,4 @@
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,7 @@
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|null|
 |**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559](http://arxiv.org/abs/2505.10559)|null|null|
 |**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/abs/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|null|
-|**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543](http://arxiv.org/abs/2505.10543)|null|null|
+|**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543](http://arxiv.org/abs/2505.10543)|**[link](https://github.com/ann-w/towards-a-deeper-understanding-of-reasoning-capabilities-in-large-language-models)**|null|
 |**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541](http://arxiv.org/abs/2505.10541)|**[link](https://github.com/welldonepf/stme)**|null|
 |**2025-05-15**|**S3C2 Summit 2024-09: Industry Secure Software Supply Chain Summit**|Imranur Rahman et.al.|[2505.10538](http://arxiv.org/abs/2505.10538)|null|null|
 |**2025-05-15**|**RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs**|Vibha Belavadi et.al.|[2505.10495](http://arxiv.org/abs/2505.10495)|null|null|
@@ -37,7 +37,7 @@
 |**2025-05-15**|**Empirically evaluating commonsense intelligence in large language models with large-scale human judgments**|Tuan Dung Nguyen et.al.|[2505.10309](http://arxiv.org/abs/2505.10309)|null|null|
 |**2025-05-15**|**From Questions to Clinical Recommendations: Large Language Models Driving Evidence-Based Clinical Decision Making**|Dubai Li et.al.|[2505.10282](http://arxiv.org/abs/2505.10282)|**[link](https://github.com/somewordstoolate/quicker)**|null|
 |**2025-05-15**|**The Evolving Landscape of Generative Large Language Models and Traditional Natural Language Processing in Medicine**|Rui Yang et.al.|[2505.10261](http://arxiv.org/abs/2505.10261)|null|null|
-|**2025-05-15**|**Comparing LLM Text Annotation Skills: A Study on Human Rights Violations in Social Media Data**|Poli Apollinaire Nemkova et.al.|[2505.10260](http://arxiv.org/abs/2505.10260)|null|null|
+|**2025-05-15**|**Comparing LLM Text Annotation Skills: A Study on Human Rights Violations in Social Media Data**|Poli Apollinaire Nemkova et.al.|[2505.10260](http://arxiv.org/abs/2505.10260)|**[link](https://github.com/PoliNemkova/LLM_labeling_skills)**|null|
 |**2025-05-15**|**Informed Forecasting: Leveraging Auxiliary Knowledge to Boost LLM Performance on Time Series Forecasting**|Mohammadmahdi Ghasemloo et.al.|[2505.10213](http://arxiv.org/abs/2505.10213)|null|null|
 |**2025-05-15**|**Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M**|Dario Di Palma et.al.|[2505.10212](http://arxiv.org/abs/2505.10212)|**[link](https://github.com/sisinflab/llm-memoryinspector)**|null|
 |**2025-05-15**|**VQ-Logits: Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits**|Jintian Shao et.al.|[2505.10202](http://arxiv.org/abs/2505.10202)|null|null|
@@ -3546,7 +3546,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
 
 ## Multimodal
 
@@ -4007,7 +4007,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -4030,7 +4030,7 @@
 |**2025-05-15**|**Spectral quantum algorithm for passive scalar transport in shear flows**|Philipp Pfeffer et.al.|[2505.10136](http://arxiv.org/abs/2505.10136)|null|null|
 |**2025-05-15**|**Data-driven discovery of the equations of turbulent convection**|Christopher J. Wareing et.al.|[2505.10109](http://arxiv.org/abs/2505.10109)|null|null|
 |**2025-05-15**|**FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation**|Jun Guo et.al.|[2505.10075](http://arxiv.org/abs/2505.10075)|null|null|
-|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046](http://arxiv.org/abs/2505.10046)|null|null|
+|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046](http://arxiv.org/abs/2505.10046)|**[link](https://github.com/tang-bd/fuse-dit)**|null|
 |**2025-05-15**|**ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction**|Shijie Lyu et.al.|[2505.10027](http://arxiv.org/abs/2505.10027)|null|null|
 |**2025-05-15**|**From Air to Wear: Personalized 3D Digital Fashion with AR/VR Immersive 3D Sketching**|Ying Zang et.al.|[2505.09998](http://arxiv.org/abs/2505.09998)|null|null|
 |**2025-05-15**|**Ordered-subsets Multi-diffusion Model for Sparse-view CT Reconstruction**|Pengfei Yu et.al.|[2505.09985](http://arxiv.org/abs/2505.09985)|null|null|
@@ -4039,7 +4039,7 @@
 |**2025-05-15**|**Improving the Euclidean Diffusion Generation of Manifold Data by Mitigating Score Function Singularity**|Zichen Liu et.al.|[2505.09922](http://arxiv.org/abs/2505.09922)|null|null|
 |**2025-05-15**|**Diffusion-SAFE: Shared Autonomy Framework with Diffusion for Safe Human-to-Robot Driving Handover**|Yunxin Fan et.al.|[2505.09889](http://arxiv.org/abs/2505.09889)|null|null|
 |**2025-05-15**|**Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior**|Yanlong Yang et.al.|[2505.09887](http://arxiv.org/abs/2505.09887)|null|null|
-|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|null|null|
+|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|**[link](https://gitlab.com/nct_tso_public/surgvgen)**|null|
 |**2025-05-14**|**Atwood effects on nonlocality of the scalar transport closure in three-dimensional Rayleigh-Taylor mixing**|Dana Lynn Ona-Lansigan Lavacot et.al.|[2505.09850](http://arxiv.org/abs/2505.09850)|null|null|
 |**2025-05-14**|**ImplicitStainer: Data-Efficient Medical Image Translation for Virtual Antibody-based Tissue Staining Using Local Implicit Functions**|Tushar Kataria et.al.|[2505.09831](http://arxiv.org/abs/2505.09831)|null|null|
 |**2025-05-14**|**On the Well-Posedness of Green's Function Reconstruction via the Kirchhoff-Helmholtz Equation for One-Speed Neutron Diffusion**|Roberto Ponciroli et.al.|[2505.09766](http://arxiv.org/abs/2505.09766)|null|null|
@@ -7428,7 +7428,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -8886,5 +8886,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250518>back to top</a>)</p>
 
