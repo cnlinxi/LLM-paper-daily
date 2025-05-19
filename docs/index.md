@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -26,7 +26,7 @@ layout: default
 |**2025-05-15**|**Multi-domain Multilingual Sentiment Analysis in Industry: Predicting Aspect-based Opinion Quadruples**|Benjamin White et.al.|[2505.10389](http://arxiv.org/abs/2505.10389)|null|null|
 |**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|null|
 |**2025-05-15**|**FactsR: A Safer Method for Producing High Quality Healthcare Documentation**|Victor Petrén Bach Hansen et.al.|[2505.10360](http://arxiv.org/abs/2505.10360)|null|null|
-|**2025-05-15**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354](http://arxiv.org/abs/2505.10354)|**[link](https://github.com/szu-tera/ldir)**|null|
+|**2025-05-16**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354](http://arxiv.org/abs/2505.10354)|**[link](https://github.com/szu-tera/ldir)**|null|
 |**2025-05-15**|**AutoPentest: Enhancing Vulnerability Management With Autonomous LLM Agents**|Julius Henke et.al.|[2505.10321](http://arxiv.org/abs/2505.10321)|**[link](https://github.com/juliushenke/autopentest)**|null|
 |**2025-05-15**|**Empirically evaluating commonsense intelligence in large language models with large-scale human judgments**|Tuan Dung Nguyen et.al.|[2505.10309](http://arxiv.org/abs/2505.10309)|null|null|
 |**2025-05-15**|**From Questions to Clinical Recommendations: Large Language Models Driving Evidence-Based Clinical Decision Making**|Dubai Li et.al.|[2505.10282](http://arxiv.org/abs/2505.10282)|**[link](https://github.com/somewordstoolate/quicker)**|null|
@@ -4013,7 +4013,7 @@ layout: default
 |**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446](http://arxiv.org/abs/2505.10446)|null|null|
 |**2025-05-15**|**Score-based diffusion nowcasting of GOES imagery**|Randy J. Chase et.al.|[2505.10432](http://arxiv.org/abs/2505.10432)|null|null|
 |**2025-05-15**|**Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**|Jianhao Huang et.al.|[2505.10405](http://arxiv.org/abs/2505.10405)|null|null|
-|**2025-05-15**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311](http://arxiv.org/abs/2505.10311)|null|null|
+|**2025-05-16**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311](http://arxiv.org/abs/2505.10311)|null|null|
 |**2025-05-15**|**Stochastic oscillators out of equilibrium: scaling limits and correlation estimates**|Patrícia Gonçalves et.al.|[2505.10256](http://arxiv.org/abs/2505.10256)|null|null|
 |**2025-05-15**|**ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization**|Wenhao Shen et.al.|[2505.10250](http://arxiv.org/abs/2505.10250)|**[link](https://github.com/shenwenhao01/adhmr)**|null|
 |**2025-05-15**|**Space-Time Multigrid Methods Suitable for Topology Optimisation of Transient Heat Conduction**|Magnus Appel et.al.|[2505.10168](http://arxiv.org/abs/2505.10168)|null|null|
@@ -4033,7 +4033,7 @@ layout: default
 |**2025-05-14**|**Atwood effects on nonlocality of the scalar transport closure in three-dimensional Rayleigh-Taylor mixing**|Dana Lynn Ona-Lansigan Lavacot et.al.|[2505.09850](http://arxiv.org/abs/2505.09850)|null|null|
 |**2025-05-14**|**ImplicitStainer: Data-Efficient Medical Image Translation for Virtual Antibody-based Tissue Staining Using Local Implicit Functions**|Tushar Kataria et.al.|[2505.09831](http://arxiv.org/abs/2505.09831)|null|null|
 |**2025-05-14**|**On the Well-Posedness of Green's Function Reconstruction via the Kirchhoff-Helmholtz Equation for One-Speed Neutron Diffusion**|Roberto Ponciroli et.al.|[2505.09766](http://arxiv.org/abs/2505.09766)|null|null|
-|**2025-05-14**|**Convergence of approximate solutions constructed by the finite volume method for the moisture transport model in porous media**|Akiko Morimura et.al.|[2505.09763](http://arxiv.org/abs/2505.09763)|null|null|
+|**2025-05-16**|**Convergence of approximate solutions constructed by the finite volume method for the moisture transport model in porous media**|Akiko Morimura et.al.|[2505.09763](http://arxiv.org/abs/2505.09763)|null|null|
 |**2025-05-14**|**Charge density waves and soft phonon evolution in the superconductor BaNi $_2$(As$_{1-x}$P$_x$)$_2$**|Tom Lacmann et.al.|[2505.09752](http://arxiv.org/abs/2505.09752)|null|null|
 |**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609](http://arxiv.org/abs/2505.09609)|null|null|
 |**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|**[link](https://huggingface.co/LightLab/Laneway)**|
@@ -7444,9 +7444,9 @@ layout: default
 |**2025-05-14**|**OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain**|Wenzhen Yue et.al.|[2505.08550](http://arxiv.org/abs/2505.08550)|**[link](https://github.com/jackyue1994/OLinear)**|null|
 |**2025-05-13**|**Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning**|Xinyue Wang et.al.|[2505.08361](http://arxiv.org/abs/2505.08361)|null|null|
 |**2025-05-13**|**Improving Unsupervised Task-driven Models of Ventral Visual Stream via Relative Position Predictivity**|Dazhong Rong et.al.|[2505.08316](http://arxiv.org/abs/2505.08316)|**[link](https://github.com/rdz98/unsup-vvs)**|null|
-|**2025-05-13**|**LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|null|
+|**2025-05-15**|**Large Language Model Enhancers for Graph Neural Networks: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|null|
 |**2025-05-13**|**Training Strategies for Efficient Embodied Reasoning**|William Chen et.al.|[2505.08243](http://arxiv.org/abs/2505.08243)|null|null|
-|**2025-05-13**|**A Multi-scale Representation Learning Framework for Long-Term Time Series Forecasting**|Boshi Gao et.al.|[2505.08199](http://arxiv.org/abs/2505.08199)|null|null|
+|**2025-05-16**|**A Multi-scale Representation Learning Framework for Long-Term Time Series Forecasting**|Boshi Gao et.al.|[2505.08199](http://arxiv.org/abs/2505.08199)|null|null|
 |**2025-05-13**|**Empowering Vision Transformers with Multi-Scale Causal Intervention for Long-Tailed Image Classification**|Xiaoshuo Yan et.al.|[2505.08173](http://arxiv.org/abs/2505.08173)|null|null|
 |**2025-05-13**|**Hyperbolic Contrastive Learning with Model-augmentation for Knowledge-aware Recommendation**|Shengyin Sun et.al.|[2505.08157](http://arxiv.org/abs/2505.08157)|**[link](https://github.com/sunshy-1/HCMKR)**|null|
 |**2025-05-12**|**The Correspondence Between Bounded Graph Neural Networks and Fragments of First-Order Logic**|Bernardo Cuenca Grau et.al.|[2505.08021](http://arxiv.org/abs/2505.08021)|null|null|
