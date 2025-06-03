@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -3918,12 +3918,12 @@ layout: default
 |**2025-05-27**|**Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models**|Yufei Zhan et.al.|[2505.20753](http://arxiv.org/abs/2505.20753)|**[link](https://github.com/jefferyzhan/griffon)**|null|
 |**2025-05-26**|**CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic**|Yuxuan Sun et.al.|[2505.20510](http://arxiv.org/abs/2505.20510)|null|null|
 |**2025-05-26**|**MangaVQA and MangaLMM: A Benchmark and Specialized Model for Multimodal Manga Understanding**|Jeonghun Baek et.al.|[2505.20298](http://arxiv.org/abs/2505.20298)|**[link](https://github.com/manga109/mangalmm)**|null|
-|**2025-05-26**|**VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction**|Zhiwen Fan et.al.|[2505.20279](http://arxiv.org/abs/2505.20279)|**[link](https://github.com/VITA-Group/VLM-3R)**|null|
+|**2025-06-01**|**VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction**|Zhiwen Fan et.al.|[2505.20279](http://arxiv.org/abs/2505.20279)|**[link](https://github.com/VITA-Group/VLM-3R)**|null|
 |**2025-05-26**|**Ten Principles of AI Agent Economics**|Ke Yang et.al.|[2505.20273](http://arxiv.org/abs/2505.20273)|null|null|
 |**2025-05-26**|**Hard Negative Contrastive Learning for Fine-Grained Geometric Understanding in Large Multimodal Models**|Kai Sun et.al.|[2505.20152](http://arxiv.org/abs/2505.20152)|**[link](https://github.com/thu-keg/mmgeolm)**|null|
 |**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|null|
 |**2025-05-26**|**Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain)**|Subba Reddy Oota et.al.|[2505.20029](http://arxiv.org/abs/2505.20029)|**[link](https://github.com/subbareddy248/mllm_instruction_brain)**|null|
-|**2025-05-26**|**Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model**|Lucas Ueda et.al.|[2505.20007](http://arxiv.org/abs/2505.20007)|**[link](https://github.com/AI-Unicamp/interspeech_ser)**|null|
+|**2025-05-30**|**Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model**|Lucas Ueda et.al.|[2505.20007](http://arxiv.org/abs/2505.20007)|**[link](https://github.com/AI-Unicamp/interspeech_ser)**|null|
 |**2025-05-26**|**Modeling Beyond MOS: Quality Assessment Models Must Integrate Context, Reasoning, and Multimodality**|Mohamed Amine Kerkouri et.al.|[2505.19696](http://arxiv.org/abs/2505.19696)|null|null|
 |**2025-05-26**|**Benchmarking Large Multimodal Models for Ophthalmic Visual Question Answering with OphthalWeChat**|Pusheng Xu et.al.|[2505.19624](http://arxiv.org/abs/2505.19624)|null|null|
 |**2025-05-26**|**Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models**|Yifan Jia et.al.|[2505.19509](http://arxiv.org/abs/2505.19509)|**[link](https://github.com/mllmkcbench/mllmkc)**|null|
