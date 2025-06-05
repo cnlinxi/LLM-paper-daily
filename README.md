@@ -1,4 +1,4 @@
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -19,7 +19,7 @@
 |**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|null|
 |**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|null|
 |**2025-06-03**|**AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation**|Prashanth Vijayaraghavan et.al.|[2506.03122](http://arxiv.org/abs/2506.03122)|null|null|
-|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|null|
+|**2025-06-04**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|null|
 |**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|null|
 |**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|null|
 |**2025-06-03**|**Facts Do Care About Your Language: Assessing Answer Quality of Multilingual LLMs**|Yuval Kansal et.al.|[2506.03051](http://arxiv.org/abs/2506.03051)|null|null|
@@ -34,13 +34,13 @@
 |**2025-06-03**|**Mitigating Manipulation and Enhancing Persuasion: A Reflective Multi-Agent Approach for Legal Argument Generation**|Li Zhang et.al.|[2506.02992](http://arxiv.org/abs/2506.02992)|null|null|
 |**2025-06-03**|**Performance of leading large language models in May 2025 in Membership of the Royal College of General Practitioners-style examination questions: a cross-sectional analysis**|Richard Armitage et.al.|[2506.02987](http://arxiv.org/abs/2506.02987)|null|null|
 |**2025-06-03**|**Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation**|Dingwei Chen et.al.|[2506.02973](http://arxiv.org/abs/2506.02973)|null|null|
-|**2025-06-03**|**Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|null|
+|**2025-06-04**|**PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|null|
 |**2025-06-03**|**FlowerTune: A Cross-Domain Benchmark for Federated Fine-Tuning of Large Language Models**|Yan Gao et.al.|[2506.02961](http://arxiv.org/abs/2506.02961)|null|null|
 |**2025-06-03**|**HACo-Det: A Study Towards Fine-Grained Machine-Generated Text Detection under Human-AI Coauthoring**|Zhixiong Su et.al.|[2506.02959](http://arxiv.org/abs/2506.02959)|null|null|
 |**2025-06-03**|**Towards More Effective Fault Detection in LLM-Based Unit Test Generation**|Guancheng Wang et.al.|[2506.02954](http://arxiv.org/abs/2506.02954)|null|null|
 |**2025-06-03**|**Adaptive Graph Pruning for Multi-Agent Communication**|Boyi Li et.al.|[2506.02951](http://arxiv.org/abs/2506.02951)|null|null|
 |**2025-06-03**|**Quantitative LLM Judges**|Aishwarya Sahoo et.al.|[2506.02945](http://arxiv.org/abs/2506.02945)|null|null|
-|**2025-06-03**|**A Multi-agent LLM-based JUit Test Generation with Strong Oracles**|Qinghua Xu et.al.|[2506.02943](http://arxiv.org/abs/2506.02943)|null|null|
+|**2025-06-04**|**A Multi-agent LLM-based JUnit Test Generation with Strong Oracles**|Qinghua Xu et.al.|[2506.02943](http://arxiv.org/abs/2506.02943)|null|null|
 |**2025-06-03**|**Memory-Efficient Split Federated Learning for LLM Fine-Tuning on Heterogeneous Mobile Devices**|Xiaopei Chen et.al.|[2506.02940](http://arxiv.org/abs/2506.02940)|null|null|
 |**2025-06-03**|**Large Processor Chip Model**|Kaiyan Chang et.al.|[2506.02929](http://arxiv.org/abs/2506.02929)|null|null|
 |**2025-06-03**|**INESC-ID @ eRisk 2025: Exploring Fine-Tuned, Similarity-Based, and Prompt-Based Approaches to Depression Symptom Identification**|Diogo A. P. Nunes et.al.|[2506.02924](http://arxiv.org/abs/2506.02924)|null|null|
@@ -3932,7 +3932,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Multimodal
 
@@ -4473,7 +4473,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -4483,7 +4483,7 @@
 |**2025-06-03**|**Change of bifurcation type in 2D free boundary model of a moving cell with nonlinear diffusion**|Leonid Berlyand et.al.|[2506.03138](http://arxiv.org/abs/2506.03138)|null|null|
 |**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|null|
 |**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|null|
-|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|**[link](https://huggingface.co/Dcm226/Dcm)**|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|**[link](https://huggingface.co/cszy98/DCM)**|
 |**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|null|
 |**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|null|
 |**2025-06-03**|**ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**|Di Chang et.al.|[2506.03107](http://arxiv.org/abs/2506.03107)|null|null|
@@ -8279,7 +8279,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -8289,7 +8289,7 @@
 |**2025-06-03**|**FORLA:Federated Object-centric Representation Learning with Slot Attention**|Guiqiu Liao et.al.|[2506.02964](http://arxiv.org/abs/2506.02964)|null|null|
 |**2025-06-03**|**Investigating Mask-aware Prototype Learning for Tabular Anomaly Detection**|Ruiying Lu et.al.|[2506.02757](http://arxiv.org/abs/2506.02757)|null|null|
 |**2025-06-03**|**Enriching Location Representation with Detailed Semantic Information**|Junyuan Liu et.al.|[2506.02744](http://arxiv.org/abs/2506.02744)|null|null|
-|**2025-06-03**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|null|
+|**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|null|
 |**2025-06-03**|**Large-scale Self-supervised Video Foundation Model for Intelligent Surgery**|Shu Yang et.al.|[2506.02692](http://arxiv.org/abs/2506.02692)|null|null|
 |**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661](http://arxiv.org/abs/2506.02661)|null|null|
 |**2025-06-03**|**Simple, Good, Fast: Self-Supervised World Models Free of Baggage**|Jan Robine et.al.|[2506.02612](http://arxiv.org/abs/2506.02612)|null|null|
@@ -8308,7 +8308,7 @@
 |**2025-06-02**|**Unpacking Softmax: How Temperature Drives Representation Collapse, Compression, and Generalization**|Wojciech Masarczyk et.al.|[2506.01562](http://arxiv.org/abs/2506.01562)|null|null|
 |**2025-06-02**|**Deep learning of thermodynamic laws from microscopic dynamics**|Hiroto Kuroyanagi et.al.|[2506.01506](http://arxiv.org/abs/2506.01506)|null|null|
 |**2025-06-02**|**SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition**|Yiping Li et.al.|[2506.01471](http://arxiv.org/abs/2506.01471)|null|null|
-|**2025-06-03**|**MobCLIP: Learning General-purpose Geospatial Representation at Scale**|Ya Wen et.al.|[2506.01297](http://arxiv.org/abs/2506.01297)|null|null|
+|**2025-06-04**|**MobCLIP: Learning General-purpose Geospatial Representation at Scale**|Ya Wen et.al.|[2506.01297](http://arxiv.org/abs/2506.01297)|null|null|
 |**2025-06-01**|**Self-Supervised Multi-View Representation Learning using Vision-Language Model for 3D/4D Facial Expression Recognition**|Muzammil Behzad et.al.|[2506.01203](http://arxiv.org/abs/2506.01203)|null|null|
 |**2025-06-01**|**Perceptual Inductive Bias Is What You Need Before Contrastive Learning**|Tianqin Li et.al.|[2506.01201](http://arxiv.org/abs/2506.01201)|null|null|
 |**2025-06-01**|**Slow Feature Analysis on Markov Chains from Goal-Directed Behavior**|Merlin Schüler et.al.|[2506.01145](http://arxiv.org/abs/2506.01145)|null|null|
@@ -9962,5 +9962,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
