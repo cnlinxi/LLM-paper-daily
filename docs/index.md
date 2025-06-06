@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -22,7 +22,7 @@ layout: default
 |**2025-06-04**|**MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos**|Kejian Zhu et.al.|[2506.04141](http://arxiv.org/abs/2506.04141)|null|null|
 |**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|null|
 |**2025-06-04**|**Guided Speculative Inference for Efficient Test-Time Alignment of LLMs**|Jonathan Geuter et.al.|[2506.04118](http://arxiv.org/abs/2506.04118)|null|null|
-|**2025-06-04**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|null|
+|**2025-06-05**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|null|
 |**2025-06-04**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|null|
 |**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089](http://arxiv.org/abs/2506.04089)|null|null|
 |**2025-06-04**|**Multimodal Tabular Reasoning with Privileged Structured Information**|Jun-Peng Jiang et.al.|[2506.04088](http://arxiv.org/abs/2506.04088)|null|null|
@@ -3977,7 +3977,7 @@ layout: default
 |**2025-05-30**|**Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework**|Can Polat et.al.|[2506.00302](http://arxiv.org/abs/2506.00302)|null|null|
 |**2025-05-30**|**When Large Multimodal Models Confront Evolving Knowledge:Challenges and Pathways**|Kailin Jiang et.al.|[2505.24449](http://arxiv.org/abs/2505.24449)|null|null|
 |**2025-05-29**|**Towards disentangling the contributions of articulation and acoustics in multimodal phoneme recognition**|Sean Foley et.al.|[2505.24059](http://arxiv.org/abs/2505.24059)|null|null|
-|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|null|
+|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|**[link](https://github.com/CrashedBboy/SGGIC)**|null|
 |**2025-05-29**|**Evaluating AI capabilities in detecting conspiracy theories on YouTube**|Leonardo La Rocca et.al.|[2505.23570](http://arxiv.org/abs/2505.23570)|**[link](https://github.com/leoli51/youtube-conspiracy-detection)**|null|
 |**2025-05-29**|**UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning**|Weijia Mao et.al.|[2505.23380](http://arxiv.org/abs/2505.23380)|**[link](https://github.com/showlab/unirl)**|**[link](https://huggingface.co/benzweijia/UniRL)**|
 |**2025-05-29**|**ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering**|Jingxuan Wei et.al.|[2505.23242](http://arxiv.org/abs/2505.23242)|null|null|
@@ -4508,8 +4508,8 @@ layout: default
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|null|
 |**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214](http://arxiv.org/abs/2506.04214)|null|null|
-|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|null|
-|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|null|null|
+|**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|null|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|null|
 |**2025-06-04**|**Fluctuations in the number of local minima in discrete-time fractional Brownian motion**|Maxim Dolgushev et.al.|[2506.04159](http://arxiv.org/abs/2506.04159)|null|null|
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|null|
 |**2025-06-04**|**A robust matrix-free approach for large-scale non-isothermal high-contrast viscosity Stokes flow on blended domains with applications to geophysics**|Andreas Burkhart et.al.|[2506.04157](http://arxiv.org/abs/2506.04157)|null|null|
@@ -4520,9 +4520,9 @@ layout: default
 |**2025-06-04**|**MudiNet: Task-guided Disentangled Representation Learning for 5G Indoor Multipath-assisted Positioning**|Ye Tian et.al.|[2506.04024](http://arxiv.org/abs/2506.04024)|null|null|
 |**2025-06-04**|**Large deviations for scaled families of Schrödinger bridges with reflection**|Viktor Nilsson et.al.|[2506.03999](http://arxiv.org/abs/2506.03999)|null|null|
 |**2025-06-04**|**Beyond water limitation in vegetation-autotoxicity patterning: a cross-diffusion model**|Francesco Giannino et.al.|[2506.03981](http://arxiv.org/abs/2506.03981)|null|null|
-|**2025-06-04**|**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**|Haoxuan Chen et.al.|[2506.03979](http://arxiv.org/abs/2506.03979)|null|null|
+|**2025-06-05**|**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**|Haoxuan Chen et.al.|[2506.03979](http://arxiv.org/abs/2506.03979)|null|null|
 |**2025-06-04**|**Impact of triangularity on edge transport and divertor detachment: a SOLPS-ITER study of TCV L-mode plasmas**|Fabio Mombelli et.al.|[2506.03966](http://arxiv.org/abs/2506.03966)|null|null|
-|**2025-06-04**|**Block Alpha-Circulant Preconditioners for All-at-Once Diffusion-Based Covariance Operators**|Jemima M. Tabeart et.al.|[2506.03947](http://arxiv.org/abs/2506.03947)|null|null|
+|**2025-06-05**|**Block Alpha-Circulant Preconditioners for All-at-Once Diffusion-Based Covariance Operators**|Jemima M. Tabeart et.al.|[2506.03947](http://arxiv.org/abs/2506.03947)|null|null|
 |**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|null|
 |**2025-06-04**|**Gravothermal expansion of dwarf spheroidal galaxies heated by dark subhaloes**|Jorge Peñarrubia et.al.|[2506.03904](http://arxiv.org/abs/2506.03904)|null|null|
 |**2025-06-04**|**Tungsten erosion and scrape-off layer transport modelling in L-mode helium plasma discharges in ASDEX Upgrade**|G. Alberti et.al.|[2506.03883](http://arxiv.org/abs/2506.03883)|null|null|
@@ -8352,7 +8352,7 @@ layout: default
 |**2025-06-04**|**When Does Closeness in Distribution Imply Representational Similarity? An Identifiability Perspective**|Beatrix M. G. Nielsen et.al.|[2506.03784](http://arxiv.org/abs/2506.03784)|null|null|
 |**2025-06-04**|**How PARTs assemble into wholes: Learning the relative composition of images**|Melika Ayoughi et.al.|[2506.03682](http://arxiv.org/abs/2506.03682)|null|null|
 |**2025-06-04**|**KG-BiLM: Knowledge Graph Embedding via Bidirectional Language Models**|Zirui Chen et.al.|[2506.03576](http://arxiv.org/abs/2506.03576)|null|null|
-|**2025-06-04**|**POLARIS: A High-contrast Polarimetric Imaging Benchmark Dataset for Exoplanetary Disk Representation Learning**|Fangyi Cao et.al.|[2506.03511](http://arxiv.org/abs/2506.03511)|null|null|
+|**2025-06-04**|**POLARIS: A High-contrast Polarimetric Imaging Benchmark Dataset for Exoplanetary Disk Representation Learning**|Fangyi Cao et.al.|[2506.03511](http://arxiv.org/abs/2506.03511)|**[link](https://github.com/astraeus999/POLARIS_img_analysis)**|null|
 |**2025-06-04**|**Heterogeneous Skeleton-Based Action Representation Learning**|Hongsong Wang et.al.|[2506.03481](http://arxiv.org/abs/2506.03481)|null|null|
 |**2025-06-03**|**HYFuse: Aligning Heterogeneous Speech Pre-Trained Representations in Hyperbolic Space for Speech Emotion Recognition**|Orchid Chetia Phukan et.al.|[2506.03403](http://arxiv.org/abs/2506.03403)|null|null|
 |**2025-06-03**|**Temporal Vegetation Index-Based Unsupervised Crop Stress Detection via Eigenvector-Guided Contrastive Learning**|Shafqaat Ahmad et.al.|[2506.03394](http://arxiv.org/abs/2506.03394)|null|null|
