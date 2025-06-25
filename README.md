@@ -1,4 +1,4 @@
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -28,11 +28,11 @@
 |**2025-06-23**|**Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training**|Jonathan Cook et.al.|[2506.18777](http://arxiv.org/abs/2506.18777)|null|null|
 |**2025-06-23**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728](http://arxiv.org/abs/2506.18728)|null|null|
 |**2025-06-23**|**LLM-enhanced Interactions in Human-Robot Collaborative Drawing with Older Adults**|Marianne Bossema et.al.|[2506.18711](http://arxiv.org/abs/2506.18711)|null|null|
-|**2025-06-23**|**Benchmarking the Pedagogical Knowledge of Large Language Models**|Maxime Lelièvre et.al.|[2506.18710](http://arxiv.org/abs/2506.18710)|null|null|
+|**2025-06-24**|**Benchmarking the Pedagogical Knowledge of Large Language Models**|Maxime Lelièvre et.al.|[2506.18710](http://arxiv.org/abs/2506.18710)|null|null|
 |**2025-06-23**|**Is There a Case for Conversation Optimized Tokenizers in Large Language Models?**|Raquel Ferrando et.al.|[2506.18674](http://arxiv.org/abs/2506.18674)|null|null|
 |**2025-06-23**|**Harnessing the Power of Reinforcement Learning for Language-Model-Based Information Retriever via Query-Document Co-Augmentation**|Jingming Liu et.al.|[2506.18670](http://arxiv.org/abs/2506.18670)|null|null|
 |**2025-06-23**|**A Random Matrix Analysis of In-context Memorization for Nonlinear Attention**|Zhenyu Liao et.al.|[2506.18656](http://arxiv.org/abs/2506.18656)|null|null|
-|**2025-06-23**|**ReDit: Reward Dithering for Improved LLM Policy Optimization**|Chenxing Wei et.al.|[2506.18631](http://arxiv.org/abs/2506.18631)|null|null|
+|**2025-06-24**|**ReDit: Reward Dithering for Improved LLM Policy Optimization**|Chenxing Wei et.al.|[2506.18631](http://arxiv.org/abs/2506.18631)|null|null|
 |**2025-06-23**|**AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs**|Piotr Matys et.al.|[2506.18628](http://arxiv.org/abs/2506.18628)|null|null|
 |**2025-06-23**|**The Anatomy of Speech Persuasion: Linguistic Shifts in LLM-Modified Speeches**|Alisa Barkar et.al.|[2506.18621](http://arxiv.org/abs/2506.18621)|null|null|
 |**2025-06-23**|**Reply to "Emergent LLM behaviors are observationally equivalent to data leakage"**|Ariel Flint Ashery et.al.|[2506.18600](http://arxiv.org/abs/2506.18600)|null|null|
@@ -40,7 +40,7 @@
 |**2025-06-23**|**Parallel Continuous Chain-of-Thought with Jacobi Iteration**|Haoyi Wu et.al.|[2506.18582](http://arxiv.org/abs/2506.18582)|null|null|
 |**2025-06-23**|**VisualChef: Generating Visual Aids in Cooking via Mask Inpainting**|Oleh Kuzyk et.al.|[2506.18569](http://arxiv.org/abs/2506.18569)|null|null|
 |**2025-06-23**|**T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent**|Hong Qing Yu et.al.|[2506.18559](http://arxiv.org/abs/2506.18559)|null|null|
-|**2025-06-23**|**Object-aware Sound Source Localization via Audio-Visual Scene Understanding**|Sung Jin Um et.al.|[2506.18557](http://arxiv.org/abs/2506.18557)|null|null|
+|**2025-06-24**|**Object-aware Sound Source Localization via Audio-Visual Scene Understanding**|Sung Jin Um et.al.|[2506.18557](http://arxiv.org/abs/2506.18557)|null|null|
 |**2025-06-23**|**Security Assessment of DeepSeek and GPT Series Models against Jailbreak Attacks**|Xiaodong Wu et.al.|[2506.18543](http://arxiv.org/abs/2506.18543)|null|null|
 |**2025-06-23**|**MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis**|Yuting Zhang et.al.|[2506.18512](http://arxiv.org/abs/2506.18512)|null|null|
 |**2025-06-23**|**Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance**|Yu Han et.al.|[2506.18511](http://arxiv.org/abs/2506.18511)|null|null|
@@ -4348,7 +4348,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Multimodal
 
@@ -4362,7 +4362,7 @@
 |**2025-06-22**|**PP-DocBee2: Improved Baselines with Efficient Data for Multimodal Document Understanding**|Kui Huang et.al.|[2506.18023](http://arxiv.org/abs/2506.18023)|null|null|
 |**2025-06-21**|**PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models**|Lintao Wang et.al.|[2506.17667](http://arxiv.org/abs/2506.17667)|null|null|
 |**2025-06-21**|**Can Generated Images Serve as a Viable Modality for Text-Centric Multimodal Learning?**|Yuesheng Huang et.al.|[2506.17623](http://arxiv.org/abs/2506.17623)|null|null|
-|**2025-06-20**|**AI-based Multimodal Biometrics for Detecting Smartphone Distractions: Application to Online Learning**|Alvaro Becerra et.al.|[2506.17364](http://arxiv.org/abs/2506.17364)|null|null|
+|**2025-06-24**|**AI-based Multimodal Biometrics for Detecting Smartphone Distractions: Application to Online Learning**|Alvaro Becerra et.al.|[2506.17364](http://arxiv.org/abs/2506.17364)|null|null|
 |**2025-06-20**|**MUCAR: Benchmarking Multilingual Cross-Modal Ambiguity Resolution for Multimodal Large Language Models**|Xiaolong Wang et.al.|[2506.17046](http://arxiv.org/abs/2506.17046)|null|null|
 |**2025-06-20**|**With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You**|Fabian Gröger et.al.|[2506.16895](http://arxiv.org/abs/2506.16895)|null|null|
 |**2025-06-19**|**Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding**|Vishesh Tripathi et.al.|[2506.16035](http://arxiv.org/abs/2506.16035)|null|null|
@@ -4962,7 +4962,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -4978,7 +4978,7 @@
 |**2025-06-23**|**Flow-Aware Diffusion for Real-Time VR Restoration: Enhancing Spatiotemporal Coherence and Efficiency**|Yitong Zhu et.al.|[2506.18786](http://arxiv.org/abs/2506.18786)|null|null|
 |**2025-06-23**|**DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model**|Bao Thach et.al.|[2506.18779](http://arxiv.org/abs/2506.18779)|null|null|
 |**2025-06-23**|**DPG loss functions for learning parameter-to-solution maps by neural networks**|Pablo Cortés Castillo et.al.|[2506.18773](http://arxiv.org/abs/2506.18773)|null|null|
-|**2025-06-23**|**MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners**|Fang-Duo Tsai et.al.|[2506.18729](http://arxiv.org/abs/2506.18729)|null|null|
+|**2025-06-24**|**MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners**|Fang-Duo Tsai et.al.|[2506.18729](http://arxiv.org/abs/2506.18729)|null|null|
 |**2025-06-23**|**Steady-State Heating of Diffuse Coronal Plasma in a Solar Active Region**|Gregory D. Fleishman et.al.|[2506.18723](http://arxiv.org/abs/2506.18723)|null|null|
 |**2025-06-23**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|null|
 |**2025-06-23**|**Stabilization of Quasilinear Parabolic Equations by Cubic Feedback at Boundary with Estimated Region of Attraction**|Mohamed Camil Belhadjoudja et.al.|[2506.18634](http://arxiv.org/abs/2506.18634)|null|null|
@@ -4991,7 +4991,7 @@
 |**2025-06-23**|**Virtual failure assessment diagrams for hydrogen transmission pipelines**|J. Wijnen et.al.|[2506.18554](http://arxiv.org/abs/2506.18554)|null|null|
 |**2025-06-23**|**Auto-Regressively Generating Multi-View Consistent Images**|JiaKui Hu et.al.|[2506.18527](http://arxiv.org/abs/2506.18527)|null|null|
 |**2025-06-23**|**GANs vs. Diffusion Models for virtual staining with the HER2match dataset**|Pascal Klöckner et.al.|[2506.18484](http://arxiv.org/abs/2506.18484)|null|null|
-|**2025-06-23**|**Numerically studying Pesticide diffusion in air using Langevin formalism**|Utkarsh Patel et.al.|[2506.18483](http://arxiv.org/abs/2506.18483)|null|null|
+|**2025-06-24**|**Numerically studying Pesticide diffusion in air using Langevin formalism**|Utkarsh Patel et.al.|[2506.18483](http://arxiv.org/abs/2506.18483)|null|null|
 |**2025-06-23**|**DIP: Unsupervised Dense In-Context Post-training of Visual Representations**|Sophia Sirko-Galouchenko et.al.|[2506.18463](http://arxiv.org/abs/2506.18463)|null|null|
 |**2025-06-23**|**X-ray emission in IllustrisTNG circum-cluster environments. II -- Possible origins of the soft X-ray excess emission**|Celine Gouin et.al.|[2506.18459](http://arxiv.org/abs/2506.18459)|null|null|
 |**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|null|
@@ -9184,7 +9184,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -9208,8 +9208,8 @@
 |**2025-06-20**|**A Survey of State Representation Learning for Deep Reinforcement Learning**|Ayoub Echchahed et.al.|[2506.17518](http://arxiv.org/abs/2506.17518)|null|null|
 |**2025-06-20**|**EASE: Embodied Active Event Perception via Self-Supervised Energy Minimization**|Zhou Chen et.al.|[2506.17516](http://arxiv.org/abs/2506.17516)|null|null|
 |**2025-06-19**|**CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning**|Changwen Xu et.al.|[2506.17345](http://arxiv.org/abs/2506.17345)|null|null|
-|**2025-06-20**|**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**|Teng Li et.al.|[2506.17202](http://arxiv.org/abs/2506.17202)|null|null|
-|**2025-06-20**|**Cross-Modal Epileptic Signal Harmonization: Frequency Domain Mapping Quantization for Pre-training a Unified Neurophysiological Transformer**|Runkai Zhang et.al.|[2506.17068](http://arxiv.org/abs/2506.17068)|null|null|
+|**2025-06-20**|**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**|Teng Li et.al.|[2506.17202](http://arxiv.org/abs/2506.17202)|**[link](https://github.com/tliby/unifork)**|null|
+|**2025-06-20**|**Cross-Modal Epileptic Signal Harmonization: Frequency Domain Mapping Quantization for Pre-training a Unified Neurophysiological Transformer**|Runkai Zhang et.al.|[2506.17068](http://arxiv.org/abs/2506.17068)|**[link](https://github.com/runkzhang/epint)**|null|
 |**2025-06-20**|**Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding**|Jongmin Park et.al.|[2506.16754](http://arxiv.org/abs/2506.16754)|null|null|
 |**2025-06-20**|**H-QuEST: Accelerating Query-by-Example Spoken Term Detection with Hierarchical Indexing**|Akanksha Singh et.al.|[2506.16751](http://arxiv.org/abs/2506.16751)|null|null|
 |**2025-06-20**|**A Simple Contrastive Framework Of Item Tokenization For Generative Recommendation**|Penglong Zhai et.al.|[2506.16683](http://arxiv.org/abs/2506.16683)|null|null|
@@ -11049,5 +11049,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
