@@ -1,4 +1,4 @@
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -4444,7 +4444,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## Multimodal
 
@@ -4460,9 +4460,9 @@
 |**2025-06-23**|**OpenEvents V1: Large-Scale Benchmark Dataset for Multimodal Event Grounding**|Hieu Nguyen et.al.|[2506.18372](http://arxiv.org/abs/2506.18372)|null|null|
 |**2025-06-23**|**BrainSymphony: A Transformer-Driven Fusion of fMRI Time Series and Structural Connectivity**|Moein Khajehnejad et.al.|[2506.18314](http://arxiv.org/abs/2506.18314)|null|null|
 |**2025-06-22**|**ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation**|Junying Chen et.al.|[2506.18095](http://arxiv.org/abs/2506.18095)|null|null|
-|**2025-06-22**|**MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering**|Jisheng Dang et.al.|[2506.18071](http://arxiv.org/abs/2506.18071)|null|null|
+|**2025-06-27**|**MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering**|Jisheng Dang et.al.|[2506.18071](http://arxiv.org/abs/2506.18071)|null|null|
 |**2025-06-25**|**PP-DocBee2: Improved Baselines with Efficient Data for Multimodal Document Understanding**|Kui Huang et.al.|[2506.18023](http://arxiv.org/abs/2506.18023)|null|null|
-|**2025-06-25**|**PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models**|Lintao Wang et.al.|[2506.17667](http://arxiv.org/abs/2506.17667)|null|null|
+|**2025-06-27**|**PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models**|Lintao Wang et.al.|[2506.17667](http://arxiv.org/abs/2506.17667)|null|null|
 |**2025-06-21**|**Can Generated Images Serve as a Viable Modality for Text-Centric Multimodal Learning?**|Yuesheng Huang et.al.|[2506.17623](http://arxiv.org/abs/2506.17623)|null|null|
 |**2025-06-24**|**AI-based Multimodal Biometrics for Detecting Smartphone Distractions: Application to Online Learning**|Alvaro Becerra et.al.|[2506.17364](http://arxiv.org/abs/2506.17364)|null|null|
 |**2025-06-20**|**MUCAR: Benchmarking Multilingual Cross-Modal Ambiguity Resolution for Multimodal Large Language Models**|Xiaolong Wang et.al.|[2506.17046](http://arxiv.org/abs/2506.17046)|null|null|
@@ -5064,7 +5064,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -5083,10 +5083,10 @@
 |**2025-06-26**|**Exploring Adapter Design Tradeoffs for Low Resource Music Generation**|Atharva Mehta et.al.|[2506.21298](http://arxiv.org/abs/2506.21298)|null|null|
 |**2025-06-26**|**HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**|Diego Biagini et.al.|[2506.21287](http://arxiv.org/abs/2506.21287)|null|null|
 |**2025-06-26**|**Hiding behind a curtain of dust: Gas and dust properties of an ultra-luminous strongly-lensed z = 3.75 galaxy behind the Milky Way disk**|Belén Alcalde Pampliega et.al.|[2506.21283](http://arxiv.org/abs/2506.21283)|null|null|
-|**2025-06-26**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272](http://arxiv.org/abs/2506.21272)|null|null|
+|**2025-06-27**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272](http://arxiv.org/abs/2506.21272)|null|null|
 |**2025-06-26**|**Video Virtual Try-on with Conditional Diffusion Transformer Inpainter**|Cheng Zou et.al.|[2506.21270](http://arxiv.org/abs/2506.21270)|null|null|
 |**2025-06-26**|**BitMark for Infinity: Watermarking Bitwise Autoregressive Image Generative Models**|Louis Kerner et.al.|[2506.21209](http://arxiv.org/abs/2506.21209)|null|null|
-|**2025-06-26**|**AC-driven Spin Valves: Capacitive Behavior and Resonator Applications**|Yunwen Liu et.al.|[2506.21176](http://arxiv.org/abs/2506.21176)|null|null|
+|**2025-06-27**|**Alternating Spintronics: Capacitive Behavior of Spin Valves and Resonator Applications**|Yunwen Liu et.al.|[2506.21176](http://arxiv.org/abs/2506.21176)|null|null|
 |**2025-06-26**|**Compressed and Smooth Latent Space for Text Diffusion Modeling**|Viacheslav Meshchaninov et.al.|[2506.21170](http://arxiv.org/abs/2506.21170)|null|null|
 |**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|null|
 |**2025-06-26**|**Learning to See in the Extremely Dark**|Hai Jiang et.al.|[2506.21132](http://arxiv.org/abs/2506.21132)|null|null|
@@ -5095,12 +5095,12 @@
 |**2025-06-26**|**Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions**|Zhuochen Miao et.al.|[2506.21057](http://arxiv.org/abs/2506.21057)|null|null|
 |**2025-06-26**|**Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling**|Hansam Cho et.al.|[2506.21045](http://arxiv.org/abs/2506.21045)|null|null|
 |**2025-06-26**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|null|
-|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|null|
+|**2025-06-27**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|null|
 |**2025-06-26**|**Instella-T2I: Pushing the Limits of 1D Discrete Latent Space Image Generation**|Ze Wang et.al.|[2506.21022](http://arxiv.org/abs/2506.21022)|null|null|
-|**2025-06-26**|**The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion**|Bang Gong et.al.|[2506.21008](http://arxiv.org/abs/2506.21008)|null|null|
+|**2025-06-27**|**The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion**|Bang Gong et.al.|[2506.21008](http://arxiv.org/abs/2506.21008)|null|null|
 |**2025-06-26**|**From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging**|Tao Liu et.al.|[2506.20977](http://arxiv.org/abs/2506.20977)|null|null|
 |**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|null|
-|**2025-06-26**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|null|
+|**2025-06-27**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|null|
 |**2025-06-26**|**Antibody Design and Optimization with Multi-scale Equivariant Graph Diffusion Models for Accurate Complex Antigen Binding**|Jiameng Chen et.al.|[2506.20957](http://arxiv.org/abs/2506.20957)|null|null|
 |**2025-06-25**|**DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**|Sungjae Park et.al.|[2506.20668](http://arxiv.org/abs/2506.20668)|null|null|
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|null|
@@ -9382,7 +9382,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -9412,7 +9412,7 @@
 |**2025-06-24**|**Global and Local Contrastive Learning for Joint Representations from Cardiac MRI and ECG**|Alexander Selivanov et.al.|[2506.20683](http://arxiv.org/abs/2506.20683)|null|null|
 |**2025-06-25**|**Disentangled representations of microscopy images**|Jacopo Dapueto et.al.|[2506.20649](http://arxiv.org/abs/2506.20649)|null|null|
 |**2025-06-25**|**Causal Representation Learning with Observational Grouping for CXR Classification**|Rajat Rasal et.al.|[2506.20582](http://arxiv.org/abs/2506.20582)|null|null|
-|**2025-06-25**|**Causal Inference for Latent Outcomes Learned with Factor Models**|Jenna M. Landy et.al.|[2506.20549](http://arxiv.org/abs/2506.20549)|null|null|
+|**2025-06-26**|**Causal Inference for Latent Outcomes Learned with Factor Models**|Jenna M. Landy et.al.|[2506.20549](http://arxiv.org/abs/2506.20549)|null|null|
 |**2025-06-25**|**Multimodal Representation Learning and Fusion**|Qihang Jin et.al.|[2506.20494](http://arxiv.org/abs/2506.20494)|null|null|
 |**2025-06-25**|**Permutation Equivariant Neural Controlled Differential Equations for Dynamic Graph Representation Learning**|Torben Berndt et.al.|[2506.20324](http://arxiv.org/abs/2506.20324)|null|null|
 |**2025-06-25**|**Forensic Study of Paintings Through the Comparison of Fabrics**|Juan José Murillo-Fuentes et.al.|[2506.20272](http://arxiv.org/abs/2506.20272)|null|null|
@@ -11289,5 +11289,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
