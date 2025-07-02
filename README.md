@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|null|
+|**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|**[link](https://huggingface.co/Calligrapher2025/Calligrapher)**|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|null|
 |**2025-06-30**|**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**|Xiangtai Li et.al.|[2506.24102](http://arxiv.org/abs/2506.24102)|null|null|
@@ -26,7 +26,7 @@
 |**2025-06-30**|**TaP: A Taxonomy-Guided Framework for Automated and Scalable Preference Data Generation**|Renren Jin et.al.|[2506.23979](http://arxiv.org/abs/2506.23979)|null|null|
 |**2025-06-30**|**Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders**|Mathis Le Bail et.al.|[2506.23951](http://arxiv.org/abs/2506.23951)|null|null|
 |**2025-06-30**|**AI Risk-Management Standards Profile for General-Purpose AI (GPAI) and Foundation Models**|Anthony M. Barrett et.al.|[2506.23949](http://arxiv.org/abs/2506.23949)|null|null|
-|**2025-06-30**|**Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**|Yang Dai et.al.|[2506.23940](http://arxiv.org/abs/2506.23940)|null|null|
+|**2025-07-01**|**Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**|Yang Dai et.al.|[2506.23940](http://arxiv.org/abs/2506.23940)|null|null|
 |**2025-06-30**|**Leveraging the Potential of Prompt Engineering for Hate Speech Detection in Low-Resource Languages**|Ruhina Tabasshum Prome et.al.|[2506.23930](http://arxiv.org/abs/2506.23930)|null|null|
 |**2025-06-30**|**IMPACT: Inflectional Morphology Probes Across Complex Typologies**|Mohammed J. Saeed et.al.|[2506.23929](http://arxiv.org/abs/2506.23929)|null|null|
 |**2025-06-30**|**Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice**|Akshit Kumar et.al.|[2506.23924](http://arxiv.org/abs/2506.23924)|null|null|
@@ -37,11 +37,11 @@
 |**2025-06-30**|**A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents**|Hang Su et.al.|[2506.23844](http://arxiv.org/abs/2506.23844)|null|null|
 |**2025-06-30**|**Towards the "Digital Me": A vision of authentic Conversational Agents powered by personal Human Digital Twins**|Lluís C. Coll et.al.|[2506.23826](http://arxiv.org/abs/2506.23826)|null|null|
 |**2025-06-30**|**Flash-VStream: Efficient Real-Time Understanding for Long Video Streams**|Haoji Zhang et.al.|[2506.23825](http://arxiv.org/abs/2506.23825)|null|null|
-|**2025-06-30**|**The Impact of AI on Educational Assessment: A Framework for Constructive Alignment**|Patrick Stokkink et.al.|[2506.23815](http://arxiv.org/abs/2506.23815)|null|null|
+|**2025-07-01**|**The Impact of AI on Educational Assessment: A Framework for Constructive Alignment**|Patrick Stokkink et.al.|[2506.23815](http://arxiv.org/abs/2506.23815)|null|null|
 |**2025-06-30**|**Leveraging a Multi-Agent LLM-Based System to Educate Teachers in Hate Incidents Management**|Ewelina Gajewska et.al.|[2506.23774](http://arxiv.org/abs/2506.23774)|null|null|
 |**2025-06-30**|**Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead**|Hongzhou Rao et.al.|[2506.23762](http://arxiv.org/abs/2506.23762)|null|null|
 |**2025-06-30**|**A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications**|Boyang Yang et.al.|[2506.23749](http://arxiv.org/abs/2506.23749)|null|null|
-|**2025-06-30**|**Positional Bias in Binary Question Answering: How Uncertainty Shapes Model Preferences**|Tiziano Labruna et.al.|[2506.23743](http://arxiv.org/abs/2506.23743)|null|null|
+|**2025-07-01**|**Positional Bias in Binary Question Answering: How Uncertainty Shapes Model Preferences**|Tiziano Labruna et.al.|[2506.23743](http://arxiv.org/abs/2506.23743)|null|null|
 |**2025-06-30**|**AutoEvoEval: An Automated Framework for Evolving Close-Ended LLM Evaluation Data**|JiaRu Wu et.al.|[2506.23735](http://arxiv.org/abs/2506.23735)|null|null|
 |**2025-06-30**|**Radioactive Watermarks in Diffusion and Autoregressive Image Generative Models**|Michel Meintz et.al.|[2506.23731](http://arxiv.org/abs/2506.23731)|null|null|
 |**2025-06-30**|**If You Had to Pitch Your Ideal Software -- Evaluating Large Language Models to Support User Scenario Writing for User Experience Experts and Laypersons**|Patrick Stadler et.al.|[2506.23694](http://arxiv.org/abs/2506.23694)|null|null|
@@ -4508,7 +4508,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Multimodal
 
@@ -4540,7 +4540,7 @@
 |**2025-06-20**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|null|
 |**2025-06-17**|**MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models**|Hongyu Wang et.al.|[2506.14435](http://arxiv.org/abs/2506.14435)|null|null|
 |**2025-06-16**|**ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection**|Shang-Chi Tsai et.al.|[2506.13956](http://arxiv.org/abs/2506.13956)|null|null|
-|**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|**[link](https://github.com/liqiiiii/dllm-survey)**|null|
+|**2025-07-01**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|**[link](https://github.com/liqiiiii/dllm-survey)**|null|
 |**2025-06-22**|**Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model**|Shaolei Zhang et.al.|[2506.13642](http://arxiv.org/abs/2506.13642)|**[link](https://github.com/ictnlp/stream-omni)**|null|
 |**2025-06-16**|**MambaMia: A State-Space-Model-Based Compression for Efficient Video Understanding in Large Multimodal Models**|Geewook Kim et.al.|[2506.13564](http://arxiv.org/abs/2506.13564)|null|null|
 |**2025-06-19**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|null|
@@ -5133,7 +5133,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -5149,10 +5149,10 @@
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|null|
 |**2025-06-30**|**Faster Diffusion Models via Higher-Order Approximation**|Gen Li et.al.|[2506.24042](http://arxiv.org/abs/2506.24042)|null|null|
 |**2025-06-30**|**Supervised Diffusion-Model-Based PET Image Reconstruction**|George Webber et.al.|[2506.24034](http://arxiv.org/abs/2506.24034)|null|null|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|null|
+|**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|null|
 |**2025-06-30**|**Toward Simple and Robust Contrastive Explanations for Image Classification by Leveraging Instance Similarity and Concept Relevance**|Yuliia Kaidashova et.al.|[2506.23975](http://arxiv.org/abs/2506.23975)|null|null|
 |**2025-06-30**|**Explicit modified Euler approximations of the Aït-Sahalia type model with Poisson jumps**|Yingsong Jiang et.al.|[2506.23947](http://arxiv.org/abs/2506.23947)|null|null|
-|**2025-06-30**|**Diffusion and heat dissipation in marginally stable linear time-delayed Langevin systems**|Xin Wang et.al.|[2506.23939](http://arxiv.org/abs/2506.23939)|null|null|
+|**2025-07-01**|**Diffusion and heat dissipation in marginally stable linear time-delayed Langevin systems**|Xin Wang et.al.|[2506.23939](http://arxiv.org/abs/2506.23939)|null|null|
 |**2025-06-30**|**Decoding Noise in Nanofluidic Systems: Adsorption versus Diffusion Signatures in Power Spectra**|Anna Drummond Young et.al.|[2506.23867](http://arxiv.org/abs/2506.23867)|null|null|
 |**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|null|
 |**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801](http://arxiv.org/abs/2506.23801)|null|null|
@@ -9515,13 +9515,13 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Representation Learning
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|null|
+|**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|null|
 |**2025-06-30**|**Scaling Self-Supervised Representation Learning for Symbolic Piano Performance**|Louis Bradshaw et.al.|[2506.23869](http://arxiv.org/abs/2506.23869)|null|null|
 |**2025-06-30**|**Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning**|Mingcheng Qu et.al.|[2506.23827](http://arxiv.org/abs/2506.23827)|null|null|
 |**2025-06-30**|**When Test-Time Adaptation Meets Self-Supervised Models**|Jisu Han et.al.|[2506.23529](http://arxiv.org/abs/2506.23529)|null|null|
@@ -11457,5 +11457,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
