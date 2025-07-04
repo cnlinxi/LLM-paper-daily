@@ -1,4 +1,4 @@
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,8 +16,8 @@
 |**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|null|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|null|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|null|
+|**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|null|
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|null|
 |**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|null|
@@ -4540,7 +4540,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Multimodal
 
@@ -4548,7 +4548,7 @@
 |---|---|---|---|---|---|
 |**2025-07-02**|**Activation Reward Models for Few-Shot Model Alignment**|Tianning Chai et.al.|[2507.01368](http://arxiv.org/abs/2507.01368)|null|null|
 |**2025-07-02**|**PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning**|Tatsuki Kawakami et.al.|[2507.01271](http://arxiv.org/abs/2507.01271)|null|null|
-|**2025-07-01**|**Escaping Platos Cave: JAM for Aligning Independently Trained Vision and Language Models**|Hyoseo et.al.|[2507.01201](http://arxiv.org/abs/2507.01201)|null|null|
+|**2025-07-03**|**Escaping Platos Cave: JAM for Aligning Independently Trained Vision and Language Models**|Hyoseo et.al.|[2507.01201](http://arxiv.org/abs/2507.01201)|null|null|
 |**2025-07-02**|**Just Noticeable Difference for Large Multimodal Models**|Zijian Chen et.al.|[2507.00490](http://arxiv.org/abs/2507.00490)|null|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|null|
 |**2025-06-30**|**Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably**|Zhihao Zhang et.al.|[2506.23508](http://arxiv.org/abs/2506.23508)|null|null|
@@ -5169,13 +5169,13 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Diffusion Models
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|null|
+|**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|null|
 |**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|null|
 |**2025-07-02**|**Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**|Aaron J. Romanowsky et.al.|[2507.01942](http://arxiv.org/abs/2507.01942)|null|null|
 |**2025-07-02**|**Extrinsic Orbital Hall Effect and Orbital Relaxation in Mesoscopic Devices**|Anderson L. R. Barbosa et.al.|[2507.01941](http://arxiv.org/abs/2507.01941)|null|null|
@@ -5184,7 +5184,7 @@
 |**2025-07-02**|**Schauder-type estimates and applications**|Satyanad Kichenassamy et.al.|[2507.01818](http://arxiv.org/abs/2507.01818)|null|null|
 |**2025-07-02**|**Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions**|Bo Yang et.al.|[2507.01773](http://arxiv.org/abs/2507.01773)|null|null|
 |**2025-07-02**|**Mind the jumps: when 2BSDEs meet semi-martingales**|Dylan Possamaï et.al.|[2507.01767](http://arxiv.org/abs/2507.01767)|null|null|
-|**2025-07-02**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|null|
+|**2025-07-03**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|null|
 |**2025-07-02**|**SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space**|Xupeng Zhu et.al.|[2507.01723](http://arxiv.org/abs/2507.01723)|null|null|
 |**2025-07-02**|**Entropic optimal transport beyond product reference couplings: the Gaussian case on Euclidean space**|Paul Freulon et.al.|[2507.01709](http://arxiv.org/abs/2507.01709)|null|null|
 |**2025-07-02**|**RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**|Yuran Wang et.al.|[2507.01653](http://arxiv.org/abs/2507.01653)|null|null|
@@ -9583,7 +9583,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -11552,5 +11552,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
