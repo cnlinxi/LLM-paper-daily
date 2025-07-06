@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.05
+## Updated on 2025.07.06
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -9652,7 +9652,7 @@ layout: default
 |**2025-07-03**|**Fx-Encoder++: Extracting Instrument-Wise Audio Effects Representations from Mixtures**|Yen-Tung Yeh et.al.|[2507.02273](http://arxiv.org/abs/2507.02273)|null|null|
 |**2025-07-02**|**NGAT: A Node-level Graph Attention Network for Long-term Stock Prediction**|Yingjie Niu et.al.|[2507.02018](http://arxiv.org/abs/2507.02018)|null|null|
 |**2025-07-01**|**Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System**|Yongsen Zheng et.al.|[2507.02000](http://arxiv.org/abs/2507.02000)|null|null|
-|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|**[link](https://huggingface.co/amd/mnasnet_b1)**|
+|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|**[link](https://huggingface.co/amd/Mixtral-8x7B-Instruct-v0.1-FP8-KV)**|
 |**2025-07-02**|**Robust brain age estimation from structural MRI with contrastive learning**|Carlo Alberto Barbano et.al.|[2507.01794](http://arxiv.org/abs/2507.01794)|null|null|
 |**2025-07-02**|**When Does Pruning Benefit Vision Representations?**|Enrico Cassano et.al.|[2507.01722](http://arxiv.org/abs/2507.01722)|null|null|
 |**2025-07-02**|**Component Adaptive Clustering for Generalized Category Discovery**|Mingfu Yan et.al.|[2507.01711](http://arxiv.org/abs/2507.01711)|null|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.07.05
+## Updated on 2025.07.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -4572,7 +4572,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Multimodal
 
@@ -5201,7 +5201,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -9647,7 +9647,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -9664,7 +9664,7 @@
 |**2025-07-03**|**Fx-Encoder++: Extracting Instrument-Wise Audio Effects Representations from Mixtures**|Yen-Tung Yeh et.al.|[2507.02273](http://arxiv.org/abs/2507.02273)|null|null|
 |**2025-07-02**|**NGAT: A Node-level Graph Attention Network for Long-term Stock Prediction**|Yingjie Niu et.al.|[2507.02018](http://arxiv.org/abs/2507.02018)|null|null|
 |**2025-07-01**|**Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System**|Yongsen Zheng et.al.|[2507.02000](http://arxiv.org/abs/2507.02000)|null|null|
-|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|**[link](https://huggingface.co/amd/mnasnet_b1)**|
+|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|**[link](https://huggingface.co/amd/Mixtral-8x7B-Instruct-v0.1-FP8-KV)**|
 |**2025-07-02**|**Robust brain age estimation from structural MRI with contrastive learning**|Carlo Alberto Barbano et.al.|[2507.01794](http://arxiv.org/abs/2507.01794)|null|null|
 |**2025-07-02**|**When Does Pruning Benefit Vision Representations?**|Enrico Cassano et.al.|[2507.01722](http://arxiv.org/abs/2507.01722)|null|null|
 |**2025-07-02**|**Component Adaptive Clustering for Generalized Category Discovery**|Mingfu Yan et.al.|[2507.01711](http://arxiv.org/abs/2507.01711)|null|null|
@@ -11627,5 +11627,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
