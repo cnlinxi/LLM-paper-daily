@@ -1,4 +1,4 @@
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,7 +26,7 @@
 |**2025-07-03**|**From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding**|Xiangfeng Wang et.al.|[2507.02790](http://arxiv.org/abs/2507.02790)|null|null|
 |**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788](http://arxiv.org/abs/2507.02788)|null|null|
 |**2025-07-03**|**Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs**|Ken Tsui et.al.|[2507.02778](http://arxiv.org/abs/2507.02778)|null|null|
-|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|null|
+|**2025-07-06**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|null|
 |**2025-07-03**|**DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment**|Ke-Han Lu et.al.|[2507.02768](http://arxiv.org/abs/2507.02768)|null|null|
 |**2025-07-03**|**Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work**|Guangwei Zhang et.al.|[2507.02760](http://arxiv.org/abs/2507.02760)|null|null|
 |**2025-07-03**|**Fast and Simplex: 2-Simplicial Attention in Triton**|Aurko Roy et.al.|[2507.02754](http://arxiv.org/abs/2507.02754)|null|null|
@@ -34,7 +34,7 @@
 |**2025-07-03**|**Early Signs of Steganographic Capabilities in Frontier LLMs**|Artur Zolkowski et.al.|[2507.02737](http://arxiv.org/abs/2507.02737)|null|null|
 |**2025-07-03**|**Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving**|Matthieu Zimmer et.al.|[2507.02726](http://arxiv.org/abs/2507.02726)|null|null|
 |**2025-07-03**|**On the Convergence of Large Language Model Optimizer for Black-Box Network Management**|Hoon Lee et.al.|[2507.02689](http://arxiv.org/abs/2507.02689)|null|null|
-|**2025-07-03**|**AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**|Ziyin Zhou et.al.|[2507.02664](http://arxiv.org/abs/2507.02664)|null|null|
+|**2025-07-07**|**AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**|Ziyin Zhou et.al.|[2507.02664](http://arxiv.org/abs/2507.02664)|null|null|
 |**2025-07-03**|**Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design & Verification**|Deepak Narayan Gadde et.al.|[2507.02660](http://arxiv.org/abs/2507.02660)|null|null|
 |**2025-07-03**|**Medical Data Pecking: A Context-Aware Approach for Automated Quality Evaluation of Structured Medical Data**|Irena Girshovitz et.al.|[2507.02628](http://arxiv.org/abs/2507.02628)|null|null|
 |**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|null|
@@ -4572,7 +4572,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Multimodal
 
@@ -4608,7 +4608,7 @@
 |**2025-06-20**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|null|
 |**2025-06-17**|**MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models**|Hongyu Wang et.al.|[2506.14435](http://arxiv.org/abs/2506.14435)|null|null|
 |**2025-06-16**|**ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection**|Shang-Chi Tsai et.al.|[2506.13956](http://arxiv.org/abs/2506.13956)|null|null|
-|**2025-07-01**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|**[link](https://github.com/liqiiiii/dllm-survey)**|null|
+|**2025-07-05**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|**[link](https://github.com/liqiiiii/dllm-survey)**|null|
 |**2025-06-22**|**Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model**|Shaolei Zhang et.al.|[2506.13642](http://arxiv.org/abs/2506.13642)|**[link](https://github.com/ictnlp/stream-omni)**|null|
 |**2025-06-16**|**MambaMia: A State-Space-Model-Based Compression for Efficient Video Understanding in Large Multimodal Models**|Geewook Kim et.al.|[2506.13564](http://arxiv.org/abs/2506.13564)|null|
 |**2025-06-19**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
@@ -5201,7 +5201,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -5218,7 +5218,7 @@
 |**2025-07-03**|**Diffusive charge transport in the gapped 1D Hubbard model at all finite temperatures**|J. M. P. Carmelo et.al.|[2507.02753](http://arxiv.org/abs/2507.02753)|null|null|
 |**2025-07-03**|**On the origin of the X-ray emission surrounding PSR B0656+14 in the eROSITA Cal-PV data**|Alena Khokhriakova et.al.|[2507.02750](http://arxiv.org/abs/2507.02750)|null|null|
 |**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|null|
-|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|null|
+|**2025-07-04**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|null|
 |**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687](http://arxiv.org/abs/2507.02687)|null|null|
 |**2025-07-03**|**Learning few-step posterior samplers by unfolding and distillation of diffusion models**|Charlesquin Kemajou Mbakam et.al.|[2507.02686](http://arxiv.org/abs/2507.02686)|null|null|
 |**2025-07-03**|**Guided Generation for Developable Antibodies**|Siqi Zhao et.al.|[2507.02670](http://arxiv.org/abs/2507.02670)|null|null|
@@ -5236,7 +5236,7 @@
 |**2025-07-03**|**Hadronic origin of the very high-energy gamma-ray emission from the low-luminosity AGN in NGC 4278**|Asahi Shoji et.al.|[2507.02326](http://arxiv.org/abs/2507.02326)|null|null|
 |**2025-07-03**|**Heeding the Inner Voice: Aligning ControlNet Training via Intermediate Features Feedback**|Nina Konovalova et.al.|[2507.02321](http://arxiv.org/abs/2507.02321)|null|null|
 |**2025-07-03**|**Transformer-based EEG Decoding: A Survey**|Haodong Zhang et.al.|[2507.02320](http://arxiv.org/abs/2507.02320)|null|null|
-|**2025-07-03**|**MAGIC: Mask-Guided Diffusion Inpainting with Multi-Level Perturbations and Context-Aware Alignment for Few-Shot Anomaly Generation**|JaeHyuck Choi et.al.|[2507.02314](http://arxiv.org/abs/2507.02314)|null|null|
+|**2025-07-04**|**MAGIC: Mask-Guided Diffusion Inpainting with Multi-Level Perturbations and Context-Aware Alignment for Few-Shot Anomaly Generation**|JaeHyuck Choi et.al.|[2507.02314](http://arxiv.org/abs/2507.02314)|null|null|
 |**2025-07-03**|**DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation**|Yunhan Yang et.al.|[2507.02299](http://arxiv.org/abs/2507.02299)|null|null|
 |**2025-07-03**|**Prospects for PBR detection of KM3-230213A-like events**|Angela V. Olinto et.al.|[2507.02246](http://arxiv.org/abs/2507.02246)|null|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
@@ -9647,14 +9647,14 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Representation Learning
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
 |**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|null|
-|**2025-07-03**|**Confidence-driven Gradient Modulation for Multimodal Human Activity Recognition: A Dynamic Contrastive Dual-Path Learning Approach**|Panpan Ji et.al.|[2507.02826](http://arxiv.org/abs/2507.02826)|null|null|
+|**2025-07-04**|**Confidence-driven Gradient Modulation for Multimodal Human Activity Recognition: A Dynamic Contrastive Dual-Path Learning Approach**|Panpan Ji et.al.|[2507.02826](http://arxiv.org/abs/2507.02826)|null|null|
 |**2025-07-03**|**Hierarchical Multi-Label Contrastive Learning for Protein-Protein Interaction Prediction Across Organisms**|Shiyi Liu et.al.|[2507.02724](http://arxiv.org/abs/2507.02724)|null|null|
 |**2025-07-03**|**MISCGrasp: Leveraging Multiple Integrated Scales and Contrastive Learning for Enhanced Volumetric Grasping**|Qingyu Fan et.al.|[2507.02672](http://arxiv.org/abs/2507.02672)|null|null|
 |**2025-07-03**|**ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning**|Junyu Wang et.al.|[2507.02666](http://arxiv.org/abs/2507.02666)|null|null|
@@ -9664,9 +9664,9 @@
 |**2025-07-03**|**Fx-Encoder++: Extracting Instrument-Wise Audio Effects Representations from Mixtures**|Yen-Tung Yeh et.al.|[2507.02273](http://arxiv.org/abs/2507.02273)|null|null|
 |**2025-07-02**|**NGAT: A Node-level Graph Attention Network for Long-term Stock Prediction**|Yingjie Niu et.al.|[2507.02018](http://arxiv.org/abs/2507.02018)|null|null|
 |**2025-07-01**|**Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System**|Yongsen Zheng et.al.|[2507.02000](http://arxiv.org/abs/2507.02000)|null|null|
-|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|**[link](https://huggingface.co/amd/Mixtral-8x7B-Instruct-v0.1-FP8-KV)**|
+|**2025-07-06**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|**[link](https://huggingface.co/amd/Mixtral-8x7B-Instruct-v0.1-FP8-KV)**|
 |**2025-07-02**|**Robust brain age estimation from structural MRI with contrastive learning**|Carlo Alberto Barbano et.al.|[2507.01794](http://arxiv.org/abs/2507.01794)|null|null|
-|**2025-07-02**|**When Does Pruning Benefit Vision Representations?**|Enrico Cassano et.al.|[2507.01722](http://arxiv.org/abs/2507.01722)|null|null|
+|**2025-07-07**|**When Does Pruning Benefit Vision Representations?**|Enrico Cassano et.al.|[2507.01722](http://arxiv.org/abs/2507.01722)|null|null|
 |**2025-07-02**|**Component Adaptive Clustering for Generalized Category Discovery**|Mingfu Yan et.al.|[2507.01711](http://arxiv.org/abs/2507.01711)|null|null|
 |**2025-07-02**|**Facial Emotion Learning with Text-Guided Multiview Fusion via Vision-Language Model for 3D/4D Facial Expression Recognition**|Muzammil Behzad et.al.|[2507.01673](http://arxiv.org/abs/2507.01673)|null|null|
 |**2025-07-02**|**SAILViT: Towards Robust and Generalizable Visual Backbones for MLLMs via Gradual Feature Refinement**|Weijie Yin et.al.|[2507.01643](http://arxiv.org/abs/2507.01643)|null|null|
@@ -11627,5 +11627,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
