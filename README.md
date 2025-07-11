@@ -1,4 +1,4 @@
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,16 +23,16 @@
 |**2025-07-09**|**MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation**|Qilong Xing et.al.|[2507.06992](http://arxiv.org/abs/2507.06992)|null|null|
 |**2025-07-09**|**Are They All Good? Evaluating the Quality of CoTs in LLM-based Code Generation**|Binquan Zhang et.al.|[2507.06980](http://arxiv.org/abs/2507.06980)|null|null|
 |**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956](http://arxiv.org/abs/2507.06956)|null|null|
-|**2025-07-09**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|null|
+|**2025-07-10**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|null|
 |**2025-07-09**|**Exploring LLMs for Predicting Tutor Strategy and Student Outcomes in Dialogues**|Fareya Ikram et.al.|[2507.06910](http://arxiv.org/abs/2507.06910)|null|null|
 |**2025-07-09**|**MultiJustice: A Chinese Dataset for Multi-Party, Multi-Charge Legal Prediction**|Xiao Wang et.al.|[2507.06909](http://arxiv.org/abs/2507.06909)|null|null|
 |**2025-07-09**|**SCoRE: Streamlined Corpus-based Relation Extraction using Multi-Label Contrastive Learning and Bayesian kNN**|Luca Mariotti et.al.|[2507.06895](http://arxiv.org/abs/2507.06895)|null|null|
 |**2025-07-09**|**Developing and Maintaining an Open-Source Repository of AI Evaluations: Challenges and Insights**|Alexandra Abbas et.al.|[2507.06893](http://arxiv.org/abs/2507.06893)|null|null|
-|**2025-07-09**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|null|
-|**2025-07-09**|**The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850](http://arxiv.org/abs/2507.06850)|null|null|
+|**2025-07-10**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|null|
+|**2025-07-10**|**The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850](http://arxiv.org/abs/2507.06850)|null|null|
 |**2025-07-09**|**Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework**|Zenan Xu et.al.|[2507.06829](http://arxiv.org/abs/2507.06829)|null|null|
 |**2025-07-09**|**Text to model via SysML: Automated generation of dynamical system computational models from unstructured natural language text via enhanced System Modeling Language diagrams**|Matthew Anderson Hendricks et.al.|[2507.06803](http://arxiv.org/abs/2507.06803)|null|null|
-|**2025-07-09**|**Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining: Method, Evaluation and Applications**|Seonwu Kim et.al.|[2507.06795](http://arxiv.org/abs/2507.06795)|null|null|
+|**2025-07-10**|**ixi-GEN: Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining**|Seonwu Kim et.al.|[2507.06795](http://arxiv.org/abs/2507.06795)|null|null|
 |**2025-07-09**|**Checklist Engineering Empowers Multilingual LLM Judges**|Mohammad Ghiasvand Mohammadkhani et.al.|[2507.06774](http://arxiv.org/abs/2507.06774)|null|null|
 |**2025-07-09**|**Leveraging LLMs for Semantic Conflict Detection via Unit Test Generation**|Nathalia Barbosa et.al.|[2507.06762](http://arxiv.org/abs/2507.06762)|null|null|
 |**2025-07-09**|**LOVON: Legged Open-Vocabulary Object Navigator**|Daojie Peng et.al.|[2507.06747](http://arxiv.org/abs/2507.06747)|null|null|
@@ -4668,7 +4668,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Multimodal
 
@@ -5307,7 +5307,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -5317,7 +5317,7 @@
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|null|
 |**2025-07-09**|**The cosmic-ray sea explains the Galactic $γ$-ray and $ν$ diffuse emissions from GeV to PeV**|Pedro De La Torre Luque et.al.|[2507.07083](http://arxiv.org/abs/2507.07083)|null|null|
 |**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|null|
-|**2025-07-09**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|null|
+|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|null|
 |**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|null|
 |**2025-07-09**|**Search for High Energy Neutrinos from Infrared Flares**|Teresa Pernice et.al.|[2507.06934](http://arxiv.org/abs/2507.06934)|null|null|
 |**2025-07-09**|**Nonparametric Bayesian Inference for Stochastic Reaction-Diffusion Equations**|Randolf Altmeyer et.al.|[2507.06857](http://arxiv.org/abs/2507.06857)|null|null|
@@ -9849,7 +9849,7 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -11889,5 +11889,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
