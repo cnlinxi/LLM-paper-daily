@@ -1,4 +1,4 @@
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -22,7 +22,7 @@
 |**2025-07-14**|**MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking**|Mohamed T. Younes et.al.|[2507.10472](http://arxiv.org/abs/2507.10472)|null|null|
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|null|
 |**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|null|
-|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|null|
+|**2025-07-15**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|null|
 |**2025-07-14**|**Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads**|Jing Li et.al.|[2507.10427](http://arxiv.org/abs/2507.10427)|null|null|
 |**2025-07-14**|**Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters**|Runsheng Benson Guo et.al.|[2507.10392](http://arxiv.org/abs/2507.10392)|null|null|
 |**2025-07-14**|**Using AI to replicate human experimental results: a motion study**|Rosa Illan Castillo et.al.|[2507.10342](http://arxiv.org/abs/2507.10342)|null|null|
@@ -4764,7 +4764,7 @@
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Multimodal
 
@@ -5415,7 +5415,7 @@
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -5429,7 +5429,7 @@
 |**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|null|
 |**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|null|
 |**2025-07-14**|**Diffusion Monte Carlo calculation of compact $T_{cs0}$ and $T_{c\bar{s}0}$ tetraquarks**|M. C. Gordillo et.al.|[2507.10346](http://arxiv.org/abs/2507.10346)|null|null|
-|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|null|
+|**2025-07-15**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|null|
 |**2025-07-14**|**Lévy Langevin Monte Carlo for sampling from heavy-tailed target distributions**|Anita Behme et.al.|[2507.10320](http://arxiv.org/abs/2507.10320)|null|null|
 |**2025-07-14**|**Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching**|Yuhan Liu et.al.|[2507.10318](http://arxiv.org/abs/2507.10318)|null|null|
 |**2025-07-14**|**Identification problems for anisotropic time-fractional subdiffusion equations**|Simone Creo et.al.|[2507.10315](http://arxiv.org/abs/2507.10315)|null|null|
@@ -10053,14 +10053,14 @@
 |**2024-12-04**|**Rigorous results for mean first-passage time of harmonically trapped particle**|Przemyslaw Chelminiak et.al.|[2412.03165](http://arxiv.org/abs/2412.03165)|null|
 |**2024-12-04**|**A seamless local-nonlocal coupling diffusion model with $H^1$ vanishing nonlocality convergence**|Yanzun Meng et.al.|[2412.03153](http://arxiv.org/abs/2412.03153)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Representation Learning
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|null|
-|**2025-07-14**|**CLA: Latent Alignment for Online Continual Self-Supervised Learning**|Giacomo Cignoni et.al.|[2507.10434](http://arxiv.org/abs/2507.10434)|null|null|
+|**2025-07-15**|**CLA: Latent Alignment for Online Continual Self-Supervised Learning**|Giacomo Cignoni et.al.|[2507.10434](http://arxiv.org/abs/2507.10434)|null|null|
 |**2025-07-14**|**High-throughput prediction of thermodynamically stable 1D magnetic transition-metal chalcogenides and halides**|Canbo Zong et.al.|[2507.10370](http://arxiv.org/abs/2507.10370)|null|null|
 |**2025-07-14**|**Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching**|Yuhan Liu et.al.|[2507.10318](http://arxiv.org/abs/2507.10318)|null|null|
 |**2025-07-14**|**Improving Multimodal Learning via Imbalanced Learning**|Shicai Wei et.al.|[2507.10203](http://arxiv.org/abs/2507.10203)|null|null|
@@ -12137,5 +12137,5 @@
 |**2024-11-26**|**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**|Zihan Wang et.al.|[2411.17030](http://arxiv.org/abs/2411.17030)|**[link](https://github.com/MrZihan/g3D-LF)**|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 

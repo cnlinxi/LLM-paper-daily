@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -16,7 +16,7 @@ layout: default
 |**2025-07-14**|**MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking**|Mohamed T. Younes et.al.|[2507.10472](http://arxiv.org/abs/2507.10472)|null|null|
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|null|
 |**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|null|
-|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|null|
+|**2025-07-15**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|null|
 |**2025-07-14**|**Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads**|Jing Li et.al.|[2507.10427](http://arxiv.org/abs/2507.10427)|null|null|
 |**2025-07-14**|**Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters**|Runsheng Benson Guo et.al.|[2507.10392](http://arxiv.org/abs/2507.10392)|null|null|
 |**2025-07-14**|**Using AI to replicate human experimental results: a motion study**|Rosa Illan Castillo et.al.|[2507.10342](http://arxiv.org/abs/2507.10342)|null|null|
@@ -5419,7 +5419,7 @@ layout: default
 |**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|null|
 |**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|null|
 |**2025-07-14**|**Diffusion Monte Carlo calculation of compact $T_{cs0}$ and $T_{c\bar{s}0}$ tetraquarks**|M. C. Gordillo et.al.|[2507.10346](http://arxiv.org/abs/2507.10346)|null|null|
-|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|null|
+|**2025-07-15**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|null|
 |**2025-07-14**|**Lévy Langevin Monte Carlo for sampling from heavy-tailed target distributions**|Anita Behme et.al.|[2507.10320](http://arxiv.org/abs/2507.10320)|null|null|
 |**2025-07-14**|**Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching**|Yuhan Liu et.al.|[2507.10318](http://arxiv.org/abs/2507.10318)|null|null|
 |**2025-07-14**|**Identification problems for anisotropic time-fractional subdiffusion equations**|Simone Creo et.al.|[2507.10315](http://arxiv.org/abs/2507.10315)|null|null|
@@ -10048,7 +10048,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|null|
-|**2025-07-14**|**CLA: Latent Alignment for Online Continual Self-Supervised Learning**|Giacomo Cignoni et.al.|[2507.10434](http://arxiv.org/abs/2507.10434)|null|null|
+|**2025-07-15**|**CLA: Latent Alignment for Online Continual Self-Supervised Learning**|Giacomo Cignoni et.al.|[2507.10434](http://arxiv.org/abs/2507.10434)|null|null|
 |**2025-07-14**|**High-throughput prediction of thermodynamically stable 1D magnetic transition-metal chalcogenides and halides**|Canbo Zong et.al.|[2507.10370](http://arxiv.org/abs/2507.10370)|null|null|
 |**2025-07-14**|**Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching**|Yuhan Liu et.al.|[2507.10318](http://arxiv.org/abs/2507.10318)|null|null|
 |**2025-07-14**|**Improving Multimodal Learning via Imbalanced Learning**|Shicai Wei et.al.|[2507.10203](http://arxiv.org/abs/2507.10203)|null|null|
