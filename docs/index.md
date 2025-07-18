@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -19,7 +19,7 @@ layout: default
 |**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308](http://arxiv.org/abs/2507.12308)|null|null|
 |**2025-07-16**|**Humans are more gullible than LLMs in believing common psychological myths**|Bevan Koopman et.al.|[2507.12296](http://arxiv.org/abs/2507.12296)|null|null|
 |**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295](http://arxiv.org/abs/2507.12295)|null|null|
-|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|null|
+|**2025-07-17**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|null|
 |**2025-07-16**|**Improving Contextual ASR via Multi-grained Fusion with Large Language Models**|Shilin Zhou et.al.|[2507.12252](http://arxiv.org/abs/2507.12252)|null|null|
 |**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232](http://arxiv.org/abs/2507.12232)|null|null|
 |**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215](http://arxiv.org/abs/2507.12215)|null|null|
@@ -33,11 +33,11 @@ layout: default
 |**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084](http://arxiv.org/abs/2507.12084)|null|null|
 |**2025-07-16**|**Findings of MEGA: Maths Explanation with LLMs using the Socratic Method for Active Learning**|Tosin Adewumi et.al.|[2507.12079](http://arxiv.org/abs/2507.12079)|null|null|
 |**2025-07-16**|**Evaluating the Ability of Large Language Models to Reason about Cardinal Directions, Revisited**|Anthony G Cohn et.al.|[2507.12059](http://arxiv.org/abs/2507.12059)|null|null|
-|**2025-07-16**|**A Comparative Approach to Assessing Linguistic Creativity of Large Language Models and Humans**|Anca Dinu et.al.|[2507.12039](http://arxiv.org/abs/2507.12039)|null|null|
+|**2025-07-17**|**A Comparative Approach to Assessing Linguistic Creativity of Large Language Models and Humans**|Anca Dinu et.al.|[2507.12039](http://arxiv.org/abs/2507.12039)|null|null|
 |**2025-07-16**|**EME-TTS: Unlocking the Emphasis and Emotion Link in Speech Synthesis**|Haoxun Li et.al.|[2507.12015](http://arxiv.org/abs/2507.12015)|null|null|
-|**2025-07-16**|**DSSD: Efficient Edge-Device Deployment and Collaborative Inference via Distributed Split Speculative Decoding**|Jiahong Ning et.al.|[2507.12000](http://arxiv.org/abs/2507.12000)|null|null|
+|**2025-07-17**|**DSSD: Efficient Edge-Device LLM Deployment and Collaborative Inference via Distributed Split Speculative Decoding**|Jiahong Ning et.al.|[2507.12000](http://arxiv.org/abs/2507.12000)|null|null|
 |**2025-07-16**|**Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**|Tairan Huang et.al.|[2507.11997](http://arxiv.org/abs/2507.11997)|null|null|
-|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|null|
+|**2025-07-17**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|null|
 |**2025-07-16**|**Simplifications are Absolutists: How Simplified Language Reduces Word Sense Awareness in LLM-Generated Definitions**|Lukas Ellinger et.al.|[2507.11981](http://arxiv.org/abs/2507.11981)|null|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|null|
@@ -4853,7 +4853,7 @@ layout: default
 |**2025-07-04**|**MGAA: Multi-Granular Adaptive Allocation fof Low-Rank Compression of LLMs**|Guangyan Li et.al.|[2507.03294](http://arxiv.org/abs/2507.03294)|null|null|
 |**2025-07-02**|**Activation Reward Models for Few-Shot Model Alignment**|Tianning Chai et.al.|[2507.01368](http://arxiv.org/abs/2507.01368)|null|null|
 |**2025-07-02**|**PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning**|Tatsuki Kawakami et.al.|[2507.01271](http://arxiv.org/abs/2507.01271)|null|null|
-|**2025-07-07**|**Escaping Plato's Cave: JAM for Aligning Independently Trained Vision and Language Models**|Hyoseo et.al.|[2507.01201](http://arxiv.org/abs/2507.01201)|null|null|
+|**2025-07-16**|**Escaping Plato's Cave: JAM for Aligning Independently Trained Vision and Language Models**|Lauren Hyoseo Yoon et.al.|[2507.01201](http://arxiv.org/abs/2507.01201)|null|null|
 |**2025-07-02**|**Just Noticeable Difference for Large Multimodal Models**|Zijian Chen et.al.|[2507.00490](http://arxiv.org/abs/2507.00490)|null|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|null|
 |**2025-06-30**|**Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably**|Zhihao Zhang et.al.|[2506.23508](http://arxiv.org/abs/2506.23508)|null|null|
@@ -5483,7 +5483,7 @@ layout: default
 |**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336](http://arxiv.org/abs/2507.12336)|null|null|
 |**2025-07-16**|**The impact of the transport of chemicals and electronic screening on helioseismic and neutrino observations in solar models**|Morgan Deal et.al.|[2507.12335](http://arxiv.org/abs/2507.12335)|null|null|
 |**2025-07-16**|**Global Synchronization in Matrix-Weighted Networks**|Anna Gallo et.al.|[2507.12322](http://arxiv.org/abs/2507.12322)|null|null|
-|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|null|
+|**2025-07-17**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|null|
 |**2025-07-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thickening Medium**|Subhanker Howlader et.al.|[2507.12313](http://arxiv.org/abs/2507.12313)|null|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|null|
 |**2025-07-16**|**Boosted dark matter versus dark matter-induced neutrinos from single and stacked blazars**|Andrea Giovanni De Marchi et.al.|[2507.12278](http://arxiv.org/abs/2507.12278)|null|null|
@@ -10194,9 +10194,9 @@ layout: default
 |**2025-07-15**|**A Mixed-Primitive-based Gaussian Splatting Method for Surface Reconstruction**|Haoxuan Qu et.al.|[2507.11321](http://arxiv.org/abs/2507.11321)|null|null|
 |**2025-07-15**|**Diffusion-Based Imaginative Coordination for Bimanual Manipulation**|Huilin Xu et.al.|[2507.11296](http://arxiv.org/abs/2507.11296)|null|null|
 |**2025-07-15**|**Clustering-Guided Multi-Layer Contrastive Representation Learning for Citrus Disease Classification**|Jun Chen et.al.|[2507.11171](http://arxiv.org/abs/2507.11171)|null|null|
-|**2025-07-15**|**How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction**|Jun Chen et.al.|[2507.11161](http://arxiv.org/abs/2507.11161)|null|null|
+|**2025-07-17**|**How does Labeling Error Impact Contrastive Learning? A Perspective from Data Dimensionality Reduction**|Jun Chen et.al.|[2507.11161](http://arxiv.org/abs/2507.11161)|null|null|
 |**2025-07-15**|**Latent Space Consistency for Sparse-View CT Reconstruction**|Duoyou Chen et.al.|[2507.11152](http://arxiv.org/abs/2507.11152)|null|null|
-|**2025-07-15**|**LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation**|Ziyan Wang et.al.|[2507.10917](http://arxiv.org/abs/2507.10917)|null|null|
+|**2025-07-17**|**LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation**|Ziyan Wang et.al.|[2507.10917](http://arxiv.org/abs/2507.10917)|null|null|
 |**2025-07-15**|**Focus on Texture: Rethinking Pre-training in Masked Autoencoders for Medical Image Classification**|Chetan Madan et.al.|[2507.10869](http://arxiv.org/abs/2507.10869)|null|null|
 |**2025-07-14**|**Contrastive-KAN: A Semi-Supervised Intrusion Detection Framework for Cybersecurity with scarce Labeled Data**|Mohammad Alikhani et.al.|[2507.10808](http://arxiv.org/abs/2507.10808)|null|null|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|null|
