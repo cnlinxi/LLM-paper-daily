@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.10
+## Updated on 2025.11.11
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
